@@ -1,0 +1,80 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+
+/** @type {import('@docusaurus/types').Config} */
+const config = {
+  title: 'The Ethical New Testament',
+  tagline: 'Ethical considerations about the Biblical New Testament',
+  favicon: 'img/cross.svg',
+  url: 'https://ctzurcanu.github.io',
+  baseUrl: '/new-testament/',
+
+  organizationName: 'ctzurcanu',
+  projectName: 'new-testament',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
+
+  onBrokenLinks: 'throw',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          routeBasePath: '/',
+          sidebarPath: './sidebars.js',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false,
+        },
+        blog: false,
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      },
+    ],
+  ],
+
+  themeConfig: {
+    image: 'img/social-card.svg',
+    navbar: {
+      title: 'The Ethical New Testament',
+      logo: {
+        alt: 'Cross',
+        src: 'img/cross.png',
+        width: 28,
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'docsSidebar',
+          position: 'left',
+          label: 'Read',
+        },
+        {
+          href: 'https://github.com/ctzurcanu/new-testament',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      copyright: `Copyright © ${new Date().getFullYear()} The Ethical New Testament`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  },
+};
+
+export default config;
