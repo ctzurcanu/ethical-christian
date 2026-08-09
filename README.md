@@ -12,3 +12,7 @@ npm start
 ```
 
 Create a production build with `npm run build` and preview it with `npm run serve`.
+
+## GitHub Pages
+
+In the repository settings, go to **Pages** and set **Source** to **GitHub Actions**. After that one-time setup, every push to `main` deploys the site automatically.
