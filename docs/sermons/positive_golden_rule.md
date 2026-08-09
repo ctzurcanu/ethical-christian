@@ -31,7 +31,7 @@ The 70 disciples came back and joyously reported, “Lord, even the demons are s
 - an ethos obeys the Positive Golden Rule
 - the members of an ethos, while operating in the name of the ethos, obey the Positive Golden Rule
 - Christianity is a social religion
-- Christianity is the only religion that operationalizes the concept of Ethos
+- Christianity is the only religion that operationalizes the concept of [Ethos](https://ctzurcanu.github.io/ethos/phylogeny/)
 - an ethos should be self-sufficient: only in this way can every member respect the Positive Golden Rule for all actions
 - Christianity is not self-sufficient today
 - Christianity has not fully implemented this ethical commandment at any point in the past
