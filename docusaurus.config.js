@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Ethical New Testament',
-  tagline: 'Ethical considerations about the Biblical New Testament',
+  title: 'The Ethical Christian',
+  tagline: 'Ethical considerations about Christianity',
   favicon: 'img/cross.svg',
   url: 'https://ctzurcanu.github.io',
   baseUrl: '/ethical-christian/',
@@ -46,7 +46,7 @@ const config = {
   themeConfig: {
     image: 'img/social-card.svg',
     navbar: {
-      title: 'The Ethical New Testament',
+      title: 'The Ethical Christian',
       logo: {
         alt: 'Cross',
         src: 'img/cross.png',
@@ -68,7 +68,7 @@ const config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} The Ethical New Testament`,
+      copyright: `Copyright © ${new Date().getFullYear()} The Ethical Christian`,
     },
     prism: {
       theme: prismThemes.github,

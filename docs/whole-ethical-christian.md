@@ -428,15 +428,41 @@ This does not yet amount to the Theory of Ethos declaration `live_ethos`, which 
 
 > `positive_reciprocity`: Initiate toward other people the treatment one would properly want from them under the same relevant conditions.
 
-The direct witnesses are [Matthew 7:12](https://www.biblegateway.com/passage/?search=Matthew%207%3A12&version=ISV) and [Luke 6:31](https://www.biblegateway.com/passage/?search=Luke%206%3A31&version=ISV). Unlike a rule limited to refraining from unwanted harm, both formulations require positive initiative. Matthew also presents the rule as a summary of “the Law and the Prophets,” placing it inside Jesus' interpretation of an inherited ethos rather than claiming that no earlier ethos could express reciprocity.
+## Witness
 
-The unqualified preference of the actor cannot safely determine the recipient's good: distorted desire, unequal power, or missing knowledge can produce harm. The Theory of Ethos therefore suggests a same-conditions and publicly governable reading. That qualification is an ethical reconstruction, not wording supplied by Jesus. The disciples' use of Jesus' name in [Luke 10:17](https://www.biblegateway.com/passage/?search=Luke%2010%3A17&version=ISV) proves a representative setting for their mission, but it does not prove that the Golden Rule itself was explicitly restricted to acts “in the name of a fully developed ethos.”
+ appears in:
 
-**Scope:** Matthew addresses disciples within the Sermon on the Mount; Luke places the saying amid rules about enemies and non-reciprocal generosity. The immediate reach is therefore broader than treatment of fellow members.
+- [Matthew 7:12](https://search.biblegateway.com/passage/?search=Matthew%207%3A12&version=ISV) 
+- [Matthew 22:36-40](https://search.biblegateway.com/passage/?search=Matthew%2022%3A36-40&version=ISV)
 
-**Theory mapping:** positive meta-ethos principle, constructive cooperation, person–person interaction. Claims that the formulation is unique to Christianity or that it proves Christianity ethically complete require independent comparative evidence and are not part of this finding.
+## Unique to Christianity
 
-**Secondary virtue note:** justice constrains malformed preferences; generosity helps explain positive initiative. Neither replaces the interaction rule.
+This commandment is unique to Christianity. The other religions adopt the Negative Golden Rule.
+
+If we accept that this unique commandment is more moral than the Negative Golden Rule, we will have to understand it ONLY as an ethical commandment: an action to be done while representing a fully-developed ethos.
+
+If we do not do this, then we have no answer to serious challenges such as the one concerning Masochism: a masochist may fully implement the commandment and still inflict undue pain on others.
+
+Therefore the commandment is:
+
+> whatever you want people to do for you (in the name of a fully-developed ethos), do the same for them
+
+And Jesus' community had a clear and distinct ethos. Jesus told them explicitly to act in the name of something other than themselves.
+
+[Luke 10:17](https://www.biblegateway.com/passage/?search=Luke%2010%3A17&version=ISV):
+The 70 disciples came back and joyously reported, “Lord, even the demons are submitting to us in your name!”
+
+## Ethical Lessons
+
+- an ethos obeys the Positive Golden Rule
+- the members of an ethos, while operating in the name of the ethos, obey the Positive Golden Rule
+- Christianity is a social religion
+- Christianity is a meta-social religion: it regulates how an ethos should treat another: using the Positive Golden Rule
+- Christianity is the only religion that operationalizes the concept of [Ethos](https://ctzurcanu.github.io/ethos/phylogeny/)
+- an ethos should be self-sufficient: only in this way can every member respect the Positive Golden Rule for all actions
+- Christianity is not self-sufficient today
+- Christianity has not fully implemented this ethical commandment at any point in the past
+- Christianity is presently and formally the most ethical religion
 
 ---
 
@@ -449,6 +475,18 @@ The unqualified preference of the actor cannot safely determine the recipient's 
 In [Mark 9:38–41](https://www.biblegateway.com/passage/?search=Mark%209%3A38-41&version=ISV) and [Luke 9:49–50](https://www.biblegateway.com/passage/?search=Luke%209%3A49-50&version=ISV), the disciples want to stop someone acting in Jesus' name because he does not follow with them. Jesus treats the unaffiliated actor's beneficial action as evidence against immediate exclusion. In [Luke 10:29–37](https://www.biblegateway.com/passage/?search=Luke%2010%3A29-37&version=ISV), the Samaritan becomes the enacted neighbor despite inherited group boundaries.
 
 This is recognition, not yet the stronger Theory of Ethos claim that every other ethos has equal importance unless disproved. The Gospels also contain severe judgments of persons and institutions. The narrower result is that outside identity does not by itself eliminate agency, possible compatibility, or the obligation owed to another.
+
+**Theory mapping:** `ack_other_ethos`, partial alignment, person–group and group–group boundaries. **Open question:** what authorization is required before an outsider may publicly use Jesus' name?
+
+---
+
+# Recognition of Same Ethos
+
+**Proposed declaration — `strongly implied`**
+
+> `recognize_by_action`: A person outside the disciple group is treated as an ethical actor whose ethos is tested by conduct, not erased by non-membership.
+
+In [Mark 9:38–41](https://www.biblegateway.com/passage/?search=Mark%209%3A38-41&version=ISV) and [Luke 9:49–50](https://www.biblegateway.com/passage/?search=Luke%209%3A49-50&version=ISV), the disciples want to stop someone acting in Jesus' name because he does not follow with them. Jesus treats the unaffiliated actor's beneficial action as evidence against immediate exclusion. 
 
 **Theory mapping:** `ack_other_ethos`, partial alignment, person–group and group–group boundaries. **Open question:** what authorization is required before an outsider may publicly use Jesus' name?
 
@@ -931,6 +969,52 @@ Jesus forms more than an audience: he selects disciples, authorizes representati
 
 ---
 
+# Ethos Seed
+
+[The Parable of the Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed)
+
+> The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+
+> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
+
+ appears in:
+
+- [Matthew (13:31–32)](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31%E2%80%9332&version=ISV)
+- [Mark (4:30–32)](https://www.biblegateway.com/passage/?search=Mark%204%3A30%E2%80%9332&version=ISV)
+- [Luke (13:18–19)](https://www.biblegateway.com/passage/?search=Luke%2013%3A18%E2%80%9319&version=ISV)
+
+## Mustard Seed
+
+Most probably refers to [Sinapis nigra](https://en.wikipedia.org/wiki/Rhamphospermum_nigrum) seeds. They are:
+- "the least of all seeds"
+- almost spherical
+- of various colors
+- encased in a hard seed coat
+
+## Mustard Plant
+
+In this parable is said to be "greatest among herbs"
+- fast growing
+- invasive species
+
+## Birds of the Air
+
+- fast moving
+- fragile
+- social
+
+## Ethical Lessons
+
+Characteristics of an ethos:
+- is small, insignificant in the beginning, but can grow to unexpected dimmensions
+- can be of various colors
+- can grow fast
+- is invasive
+- is giving shelter and extends immunity especially to the volunteers for the ethos
+- nurtures higher forms of life
+
+---
+
 # Formation of the Disciples
 
 **Proposed declaration — `strongly implied`**
@@ -1384,6 +1468,27 @@ The rule protects conscience without making every asserted offense an unlimited 
 **Earlier baseline:** Matthew's correction protocol begins privately, adds witnesses, and only then changes the relation. Paul's correspondence addresses assembly action but does not narrate all those preliminary safeguards.
 
 **Audit questions:** due process, proportionality, affected-party safety, public authority, restoration, and the dangers of purity language. A command in one case is not automatically a complete disciplinary system.
+
+---
+
+# Ethos as Judge
+
+[1 Corinthians 9-13](https://www.biblegateway.com/passage/?search=1%20Corinthians%208&version=ISV):
+
+> 9 But you must see to it that this right of yours does not become a stumbling block for those who are weak. 
+> 10 For if anyone with a weak conscience sees you, who know better, eating in an idol’s temple, he will be encouraged to eat what has been offered to idols, won’t he? 
+> 11 In that case, the weak brother for whom the Messiah died is ruined by your knowledge. 
+> 12 When you sin against your brothers in this way and wound their weak consciences, you are sinning against the Messiah.
+> 13 Therefore, if food that I eat causes my brother to stumble, I will never eat meat again, in order to keep my brother from stumbling.
+
+## Ethical Lessons
+
+- an ethos can judge its members
+- honoring an ethos can take the form of respecting its incorrect/unjust judgements
+
+## Indirect Ethical Lessons
+
+- the ethos' creators/maintainers have to be made aware of the incorrect judgement as another was of honoring the ethos
 
 ---
 

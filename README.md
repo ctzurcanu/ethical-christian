@@ -1,6 +1,6 @@
-# Ethical Christian
+# The Ethical Christian
 
-Ethical considerations about the Biblical New Testament.
+Ethical considerations about Christianity.
 
 This repository contains the Docusaurus site for reconstructing Christian ethoses from Jesus through their later developments. Documentation source files live in [`docs/`](docs/), and pushes to `main` are deployed automatically to GitHub Pages.
 
