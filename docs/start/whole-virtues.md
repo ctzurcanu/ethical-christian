@@ -1,5 +1,6 @@
 ---
 unlisted: true
+slug: /whole-virtues
 ---
 
 # On Virtues (Complete)
@@ -12,39 +13,39 @@ This document contains the complete compilation of all virtue documentation in t
 
 ## Summary
 
-1. [Virtues](virtues.md)
+1. [Virtues](https://virtues.provable.dev/docs/virtues)
     1. Supreme Virtues
-        1. [Faith, Clarity of Implication](reason/index.md)
-        1. [Charity, Volunteering](charity.md)
-        1. [Hope, Potential, Invention, Integration](hope.md)
+        1. [Faith, Clarity of Implication](https://virtues.provable.dev/docs/reason)
+        1. [Charity, Volunteering](https://virtues.provable.dev/docs/charity)
+        1. [Hope, Potential, Invention, Integration](https://virtues.provable.dev/docs/hope)
     1. Cardinal
-        1. [Prudence, Wisdom](prudence.md)
-        1. [Justice](justice.md)
-        1. [Temperance](temperance.md)
-        1. [Fortitude](fortitude.md)
+        1. [Prudence, Wisdom](https://virtues.provable.dev/docs/prudence)
+        1. [Justice](https://virtues.provable.dev/docs/justice)
+        1. [Temperance](https://virtues.provable.dev/docs/temperance)
+        1. [Fortitude](https://virtues.provable.dev/docs/fortitude)
     1. Natural
-        1. [Measurability, Competition, Selection](measurability.md)
-        1. [Abundance, Wealth, Welfare](abundance.md)
-        1. [Survival, Life, Existence](survival.md)
+        1. [Measurability, Competition, Selection](https://virtues.provable.dev/docs/measurability)
+        1. [Abundance, Wealth, Welfare](https://virtues.provable.dev/docs/abundance)
+        1. [Survival, Life, Existence](https://virtues.provable.dev/docs/survival)
     1. Maybe
-        1. [The "Undefined Yet" Virtue](undefined.md)
-        1. [The Composed Virtues](composed/index.md)
+        1. [The "Undefined Yet" Virtue](https://virtues.provable.dev/docs/undefined)
+        1. [The Composed Virtues](https://virtues.provable.dev/docs/composed)
         1. The Errors of Identification of Virtues
-1. The Relations between [Principles and Virtues](principles.md)
-1. [Hierarchies](hierarchies.md)
-1. [Scenarios](scenarios/index.md)
-1. [Reduction to 1 Concept](1concept.md)
-1. [The First Trinity](1trinity/index.md)
-1. [The Second Trinity](2trinity/index.md)
-1. [Other Concepts](concepts.md)
+1. The Relations between [Principles and Virtues](https://virtues.provable.dev/docs/principles)
+1. [Hierarchies](https://virtues.provable.dev/docs/hierarchies)
+1. [Scenarios](https://virtues.provable.dev/docs/scenarios)
+1. [Reduction to 1 Concept](https://virtues.provable.dev/docs/1concept)
+1. [The First Trinity](https://virtues.provable.dev/docs/1trinity)
+1. [The Second Trinity](https://virtues.provable.dev/docs/2trinity)
+1. [Other Concepts](https://virtues.provable.dev/docs/concepts)
 1. Names/Attributes of God
-    - [The 99 Names of Allah](allah.md)
-1. [Being a Citizen](institutions/citizen.md)
-1. [Friendship](institutions/friendship.md)
-1. [Volunteer](institutions/volunteer.md)
-1. [Hero](institutions/hero.md)
-1. [Institution](institutions/index.md)
-1. [Other Systems. Mapping](systems/index.md)
+    - [The 99 Names of Allah](https://virtues.provable.dev/docs/allah)
+1. [Being a Citizen](https://virtues.provable.dev/docs/institutions/citizen)
+1. [Friendship](https://virtues.provable.dev/docs/institutions/friendship)
+1. [Volunteer](https://virtues.provable.dev/docs/institutions/volunteer)
+1. [Hero](https://virtues.provable.dev/docs/institutions/hero)
+1. [Institution](https://virtues.provable.dev/docs/institutions)
+1. [Other Systems. Mapping](https://virtues.provable.dev/docs/systems)
 1. Making Virtues Computable
 
 ---
@@ -93,27 +94,27 @@ We accept these definitions of virtue:
 
 | No | Dimensions\Ranges | Lacking | Mean | Excess |
 |----|-------------------|---------|------|--------|
-|  1 | Proof beyound reason | No proof or No Goodness|[Ineffable Goodness](ineffable_goodness.md) | Transgressions |
-|  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](order.md)| Rigidity |
-|  3 | Truth Acceptance |Cinicism| [Faith, Reason](reason/index.md) | Credulity |
-|  4 | Management of Goodness | No Management | [Economy](economy.md) | Accounting too strictly |
-|  5 | Investing in Others | Begging | [Charity](charity.md) | Extravagance of Generosity |
-|  6 | Investing Virtue | nothing to invest or attachement | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | invest more than can be received |
-|  7 | Will to Evolve| Pessimism | [Hope](hope.md) | Ungrounded Idealism |
-|  8 | Harmony | lack of Harmony | [Harmony, Generosity](harmony.md) | Ritualistic Generosity |
-|  9 | Strategy | Unpreparedness | [Prudence](prudence.md) | Rigidity, Inability to take risks |
-| 10 | Act when wrong | not forgive | [Forgiveness](forgiveness.md) | Forgive more than should / be Unjust |
-| 11 | Righteousness | Relativism | [Justice](justice.md) | Sadism |
-| 12 | Governance of others | Anarchy | [Governance](governance.md) | Tyrany |
-| 13 | Self-Governance | Hedonism | [Temperance](temperance.md) | Unsustainable Asceticism |
-| 14 | Conditions of contest | Abuse | [Fairness](fairness.md) | being Unjust |
-| 15 | Willpower | Spineless | [Fortitude](fortitude.md) | Imposition, Rashness |
-| 16 | Contest | lack of Competition | [Competition](competition.md) | Violence, Pointless competition |
-| 17 | Reality Perception | Blind or unwilling to know or compete | [Measurability](measurability.md) | Detailed knowledge without reason|
-| 18 | Transparence | under the counter | [Market](market.md) | All is tradeable |
-| 19 | Wealth, Vitality | Poverty/Lazyness | [Abundance](abundance.md) | Abundance without reason |
-| 20 | Thrive | lack of effort | [Industriousness](industriousness.md) | Reflex, one size fits all |
-| 21 | Life | Extinction | [Survival](survival.md) | Rapacity (Cannibalism, Stealing, Parasitism) |
+|  1 | Proof beyound reason | No proof or No Goodness|[Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness) | Transgressions |
+|  2 | Orderliness | Inability to Rank | [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order)| Rigidity |
+|  3 | Truth Acceptance |Cinicism| [Faith, Reason](https://virtues.provable.dev/docs/reason) | Credulity |
+|  4 | Management of Goodness | No Management | [Economy](https://virtues.provable.dev/docs/economy) | Accounting too strictly |
+|  5 | Investing in Others | Begging | [Charity](https://virtues.provable.dev/docs/charity) | Extravagance of Generosity |
+|  6 | Investing Virtue | nothing to invest or attachement | [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness) | invest more than can be received |
+|  7 | Will to Evolve| Pessimism | [Hope](https://virtues.provable.dev/docs/hope) | Ungrounded Idealism |
+|  8 | Harmony | lack of Harmony | [Harmony, Generosity](https://virtues.provable.dev/docs/harmony) | Ritualistic Generosity |
+|  9 | Strategy | Unpreparedness | [Prudence](https://virtues.provable.dev/docs/prudence) | Rigidity, Inability to take risks |
+| 10 | Act when wrong | not forgive | [Forgiveness](https://virtues.provable.dev/docs/forgiveness) | Forgive more than should / be Unjust |
+| 11 | Righteousness | Relativism | [Justice](https://virtues.provable.dev/docs/justice) | Sadism |
+| 12 | Governance of others | Anarchy | [Governance](https://virtues.provable.dev/docs/governance) | Tyrany |
+| 13 | Self-Governance | Hedonism | [Temperance](https://virtues.provable.dev/docs/temperance) | Unsustainable Asceticism |
+| 14 | Conditions of contest | Abuse | [Fairness](https://virtues.provable.dev/docs/fairness) | being Unjust |
+| 15 | Willpower | Spineless | [Fortitude](https://virtues.provable.dev/docs/fortitude) | Imposition, Rashness |
+| 16 | Contest | lack of Competition | [Competition](https://virtues.provable.dev/docs/competition) | Violence, Pointless competition |
+| 17 | Reality Perception | Blind or unwilling to know or compete | [Measurability](https://virtues.provable.dev/docs/measurability) | Detailed knowledge without reason|
+| 18 | Transparence | under the counter | [Market](https://virtues.provable.dev/docs/market) | All is tradeable |
+| 19 | Wealth, Vitality | Poverty/Lazyness | [Abundance](https://virtues.provable.dev/docs/abundance) | Abundance without reason |
+| 20 | Thrive | lack of effort | [Industriousness](https://virtues.provable.dev/docs/industriousness) | Reflex, one size fits all |
+| 21 | Life | Extinction | [Survival](https://virtues.provable.dev/docs/survival) | Rapacity (Cannibalism, Stealing, Parasitism) |
 
 ## Dependencies
 
@@ -135,27 +136,27 @@ We accept these definitions of virtue:
 
 | No. |                       Virtue              \ Level         |    1    |     2   |    3    |
 |-----|-----------------------------------------------------------|---------|---------|---------|
-|   1 | [Ineffable Goodness](ineffable_goodness.md)                                     | 1I Assurance | 2I Insurance | aIT Religion |
-|   2 | [Provable Order/Hierarchy](order.md)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
-|   3 | [Faith, Reason](reason/index.md)                                 | 2I |  |  |
-|   4 | [Economy](economy.md)                                     | 3I |  |  |
-|   5 | [Charity](charity.md)                                     | 2I |  |  |
-|   6 | [Goodness, Sacrifice, Courage, Civilization](goodness.md) | 1I |  |  |
-|   7 | [Hope](hope.md)                                           | 1I |  |  |
-|   8 | [Harmony, Generosity](harmony.md)                         | 2I |  |  |
-|   9 | [Prudence](prudence.md)                                   | 1I |  |  |
-|  10 | [Forgiveness](forgiveness.md)                             | 2I |  |  |
-|  11 | [Justice](justice.md)                                     | 2I |  |  |
-|  12 | [Governance](governance.md)                               | 3I |  |  |
-|  13 | [Temperance](temperance.md)                               | 1I |  |  |
-|  14 | [Fairness](fairness.md)                                   | 2I |  |  |
-|  15 | [Fortitude](fortitude.md)                                 | 1I |  |  |
-|  16 | [Competition](competition.md)                             | 1I |  |  |
-|  17 | [Measurability](measurability.md)                         | 2I |  |  |
-|  18 | [Market](market.md)                                       | 3I |  |  |
-|  19 | [Abundance](abundance.md)                                 | 1I |  |  |
-|  20 | [Industriousness](industriousness.md)                     | 1I |  |  |
-|  21 | [Survival](survival.md)                                   | 1I            | 1F | aIT Immortality |
+|   1 | [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness)                                     | 1I Assurance | 2I Insurance | aIT Religion |
+|   2 | [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order)                      | 1I Rectitude | 2I Friendship | aIT Ethics |
+|   3 | [Faith, Reason](https://virtues.provable.dev/docs/reason)                                 | 2I |  |  |
+|   4 | [Economy](https://virtues.provable.dev/docs/economy)                                     | 3I |  |  |
+|   5 | [Charity](https://virtues.provable.dev/docs/charity)                                     | 2I |  |  |
+|   6 | [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness) | 1I |  |  |
+|   7 | [Hope](https://virtues.provable.dev/docs/hope)                                           | 1I |  |  |
+|   8 | [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)                         | 2I |  |  |
+|   9 | [Prudence](https://virtues.provable.dev/docs/prudence)                                   | 1I |  |  |
+|  10 | [Forgiveness](https://virtues.provable.dev/docs/forgiveness)                             | 2I |  |  |
+|  11 | [Justice](https://virtues.provable.dev/docs/justice)                                     | 2I |  |  |
+|  12 | [Governance](https://virtues.provable.dev/docs/governance)                               | 3I |  |  |
+|  13 | [Temperance](https://virtues.provable.dev/docs/temperance)                               | 1I |  |  |
+|  14 | [Fairness](https://virtues.provable.dev/docs/fairness)                                   | 2I |  |  |
+|  15 | [Fortitude](https://virtues.provable.dev/docs/fortitude)                                 | 1I |  |  |
+|  16 | [Competition](https://virtues.provable.dev/docs/competition)                             | 1I |  |  |
+|  17 | [Measurability](https://virtues.provable.dev/docs/measurability)                         | 2I |  |  |
+|  18 | [Market](https://virtues.provable.dev/docs/market)                                       | 3I |  |  |
+|  19 | [Abundance](https://virtues.provable.dev/docs/abundance)                                 | 1I |  |  |
+|  20 | [Industriousness](https://virtues.provable.dev/docs/industriousness)                     | 1I |  |  |
+|  21 | [Survival](https://virtues.provable.dev/docs/survival)                                   | 1I            | 1F | aIT Immortality |
 
 ## Islam
 
@@ -412,27 +413,27 @@ A virtue has to be considered using the following criteria:
 
 | \                                   | Diminish | Addition | Synergy  |
 |-------------------------------------|----------|----------|----------|
-|[Ineffable Goodness](ineffable_goodness.md)                |    [x]   |    [x]   |    [x]   |
-|[Provable Order](order.md)           |    [x]   |    [x]   |    [x]   |
-|[Faith, Reason](reason/index.md)            |    [x]   |    [x]   |    [x]   |
-|[Economy](economy.md)                |    [x]   |    [x]   |    [x]   |
-|[Charity](charity.md)                |    [x]   |    [x]   |    [x]   |
-|[Goodness, Sacrifice](goodness.md)   |    [x]   |    [x]   |    [x]   |
-|[Hope](hope.md)                      |    [x]   |    [x]   |    [x]   |
-|[Harmony, Generosity](harmony.md)    |    [x]   |    [x]   |    [x]   |
-|[Prudence](prudence.md)              |    [x]   |    [x]   |    [x]   |
-|[Forgiveness](forgiveness.md)        |    [x]   |    [x]   |    [x]   |
-|[Justice](justice.md)                |    [x]   |    [x]   |    [x]   |
-|[Governance](governance.md)          |    [x]   |    [x]   |    [x]   |
-|[Temperance](temperance.md)          |    [x]   |    [x]   |    [x]   |
-|[Fairness](fairness.md)              |    [x]   |    [x]   |    [x]   |
-|[Fortitude](fortitude.md)            |    [x]   |    [x]   |    [x]   |
-|[Competition](competition.md)        |    [x]   |    [x]   |    [x]   |
-|[Measurability](measurability.md)    |    [x]   |    [x]   |    [x]   |
-|[Market](market.md)                  |    [x]   |    [x]   |    [x]   |
-|[Abundance](abundance.md)            |    [x]   |    [x]   |    [x]   |
-|[Industriousness](industriousness.md)|    [x]   |    [x]   |    [x]   |
-|[Survival](survival.md)              |    [x]   |    [x]   |    [x]   |
+|[Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness)                |    [x]   |    [x]   |    [x]   |
+|[Provable Order](https://virtues.provable.dev/docs/order)           |    [x]   |    [x]   |    [x]   |
+|[Faith, Reason](https://virtues.provable.dev/docs/reason)            |    [x]   |    [x]   |    [x]   |
+|[Economy](https://virtues.provable.dev/docs/economy)                |    [x]   |    [x]   |    [x]   |
+|[Charity](https://virtues.provable.dev/docs/charity)                |    [x]   |    [x]   |    [x]   |
+|[Goodness, Sacrifice](https://virtues.provable.dev/docs/goodness)   |    [x]   |    [x]   |    [x]   |
+|[Hope](https://virtues.provable.dev/docs/hope)                      |    [x]   |    [x]   |    [x]   |
+|[Harmony, Generosity](https://virtues.provable.dev/docs/harmony)    |    [x]   |    [x]   |    [x]   |
+|[Prudence](https://virtues.provable.dev/docs/prudence)              |    [x]   |    [x]   |    [x]   |
+|[Forgiveness](https://virtues.provable.dev/docs/forgiveness)        |    [x]   |    [x]   |    [x]   |
+|[Justice](https://virtues.provable.dev/docs/justice)                |    [x]   |    [x]   |    [x]   |
+|[Governance](https://virtues.provable.dev/docs/governance)          |    [x]   |    [x]   |    [x]   |
+|[Temperance](https://virtues.provable.dev/docs/temperance)          |    [x]   |    [x]   |    [x]   |
+|[Fairness](https://virtues.provable.dev/docs/fairness)              |    [x]   |    [x]   |    [x]   |
+|[Fortitude](https://virtues.provable.dev/docs/fortitude)            |    [x]   |    [x]   |    [x]   |
+|[Competition](https://virtues.provable.dev/docs/competition)        |    [x]   |    [x]   |    [x]   |
+|[Measurability](https://virtues.provable.dev/docs/measurability)    |    [x]   |    [x]   |    [x]   |
+|[Market](https://virtues.provable.dev/docs/market)                  |    [x]   |    [x]   |    [x]   |
+|[Abundance](https://virtues.provable.dev/docs/abundance)            |    [x]   |    [x]   |    [x]   |
+|[Industriousness](https://virtues.provable.dev/docs/industriousness)|    [x]   |    [x]   |    [x]   |
+|[Survival](https://virtues.provable.dev/docs/survival)              |    [x]   |    [x]   |    [x]   |
 
 |     \     | Individual | Group | Universe |
 | ----------|------------|-------|----------|
@@ -484,7 +485,7 @@ also:
 
 - an ordering of virtues that is provable by reason and/or by provable consensus
 - a decision that is a direct consequence of such ordering
-- is a type of [Arete](goodness.md)
+- is a type of [Arete](https://virtues.provable.dev/docs/goodness)
 
 ## Proof of Existence
 
@@ -1239,7 +1240,7 @@ Industriousness is the virtue of sustained, skillful effort by which living nece
 
 ## Causal Chain
 
-[Survival](survival.md) → Industriousness → [Abundance](abundance.md)
+[Survival](https://virtues.provable.dev/docs/survival) → Industriousness → [Abundance](https://virtues.provable.dev/docs/abundance)
 
 ## Subtypes
 
@@ -1360,17 +1361,17 @@ The highest Industriousness is not maximum effort. Maximum effort may be wastefu
 
 ### Major
 
-- [Survival](survival.md): Survival creates the need for Industriousness. Hunger, cold, sickness, fertility, children, and vulnerability call forth repeated work.
-- [Fortitude](fortitude.md): Fortitude gives Industriousness endurance through fatigue, repetition, discomfort, delay, and failure.
-- [Prudence](prudence.md): Prudence directs effort toward the right task, at the right time, by the right method.
-- [Measurability](measurability.md): Measurability allows Industriousness to improve by tracking yield, time, quality, durability, failure, waste, and efficiency.
-- [Hope](hope.md): Hope gives labor a future. People plant, build, train, store, teach, and repair because they expect continuity.
+- [Survival](https://virtues.provable.dev/docs/survival): Survival creates the need for Industriousness. Hunger, cold, sickness, fertility, children, and vulnerability call forth repeated work.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): Fortitude gives Industriousness endurance through fatigue, repetition, discomfort, delay, and failure.
+- [Prudence](https://virtues.provable.dev/docs/prudence): Prudence directs effort toward the right task, at the right time, by the right method.
+- [Measurability](https://virtues.provable.dev/docs/measurability): Measurability allows Industriousness to improve by tracking yield, time, quality, durability, failure, waste, and efficiency.
+- [Hope](https://virtues.provable.dev/docs/hope): Hope gives labor a future. People plant, build, train, store, teach, and repair because they expect continuity.
 
 ### Minor
 
-- [Temperance](temperance.md): Temperance prevents the fruits of work from being wasted by appetite.
-- [Faith, Reason](reason/): Faith gives confidence in order and continuity; Reason discovers better methods.
-- [Competition](competition.md): Fair Competition can sharpen Industriousness by rewarding better methods, endurance, skill, and reliability.
+- [Temperance](https://virtues.provable.dev/docs/temperance): Temperance prevents the fruits of work from being wasted by appetite.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason/): Faith gives confidence in order and continuity; Reason discovers better methods.
+- [Competition](https://virtues.provable.dev/docs/competition): Fair Competition can sharpen Industriousness by rewarding better methods, endurance, skill, and reliability.
 
 Then:
 
@@ -1378,18 +1379,18 @@ Then:
 
 ### Major
 
-- [Abundance](abundance.md): Abundance depends directly on Industriousness. Without production, cultivation, maintenance, and storage, there is no stable surplus.
-- [Market](market.md): A true Market requires goods and services that are actually produced. Exchange detached from production tends toward speculation, manipulation, or extraction.
-- [Measurability](measurability.md): Repeated work creates repeated processes. Repetition makes measurement possible.
-- [Competition](competition.md): Competition requires comparable outputs. Industriousness produces and improves those outputs.
+- [Abundance](https://virtues.provable.dev/docs/abundance): Abundance depends directly on Industriousness. Without production, cultivation, maintenance, and storage, there is no stable surplus.
+- [Market](https://virtues.provable.dev/docs/market): A true Market requires goods and services that are actually produced. Exchange detached from production tends toward speculation, manipulation, or extraction.
+- [Measurability](https://virtues.provable.dev/docs/measurability): Repeated work creates repeated processes. Repetition makes measurement possible.
+- [Competition](https://virtues.provable.dev/docs/competition): Competition requires comparable outputs. Industriousness produces and improves those outputs.
 
 ### Minor
 
-- [Temperance](temperance.md): Temperance becomes more sustainable when basic needs are met.
-- [Prudence](prudence.md): Prudence requires time, tools, records, reserves, and stability.
-- [Charity](charity.md): Charity requires something to give: food, shelter, skill, medicine, time, tools, or wealth.
-- [Governance](governance.md): Governance depends on provisioning: food, roads, records, buildings, tools, trained workers, and maintained infrastructure.
-- [Faith, Reason](reason/): Religions, philosophies, and schools need material continuity: copied texts, maintained temples, trained teachers, fed students, preserved languages, and repeated rites.
+- [Temperance](https://virtues.provable.dev/docs/temperance): Temperance becomes more sustainable when basic needs are met.
+- [Prudence](https://virtues.provable.dev/docs/prudence): Prudence requires time, tools, records, reserves, and stability.
+- [Charity](https://virtues.provable.dev/docs/charity): Charity requires something to give: food, shelter, skill, medicine, time, tools, or wealth.
+- [Governance](https://virtues.provable.dev/docs/governance): Governance depends on provisioning: food, roads, records, buildings, tools, trained workers, and maintained infrastructure.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason/): Religions, philosophies, and schools need material continuity: copied texts, maintained temples, trained teachers, fed students, preserved languages, and repeated rites.
 
 Then:
 
@@ -1397,13 +1398,13 @@ Then:
 
 These virtues do not diminish Industriousness by nature, but they may diminish it when excessive, misapplied, or detached from the hierarchy.
 
-- [Survival](survival.md), under emergency: war, famine, plague, displacement, and terror reduce long-term production to short-term reaction.
-- [Abundance](abundance.md), without reason: inherited or accidental surplus can produce idleness, decadence, and contempt for labor.
-- [Market](market.md), without production: speculation, rent-seeking, cronyism, artificial scarcity, and predatory trade can redirect effort away from useful work.
-- [Governance](governance.md), as bureaucracy: arbitrary permission, obstruction, confiscation, or status competition can punish useful labor.
-- [Charity](charity.md), without Prudence: charity can reward dependency, idleness, or destructive behavior when it gives without restoring capacity.
-- [Temperance](temperance.md), misunderstood: if restraint becomes contempt for material improvement, it can become anti-industrial, anti-creative, or sterile.
-- [Prudence](prudence.md), in excess: over-analysis can prevent necessary action.
+- [Survival](https://virtues.provable.dev/docs/survival), under emergency: war, famine, plague, displacement, and terror reduce long-term production to short-term reaction.
+- [Abundance](https://virtues.provable.dev/docs/abundance), without reason: inherited or accidental surplus can produce idleness, decadence, and contempt for labor.
+- [Market](https://virtues.provable.dev/docs/market), without production: speculation, rent-seeking, cronyism, artificial scarcity, and predatory trade can redirect effort away from useful work.
+- [Governance](https://virtues.provable.dev/docs/governance), as bureaucracy: arbitrary permission, obstruction, confiscation, or status competition can punish useful labor.
+- [Charity](https://virtues.provable.dev/docs/charity), without Prudence: charity can reward dependency, idleness, or destructive behavior when it gives without restoring capacity.
+- [Temperance](https://virtues.provable.dev/docs/temperance), misunderstood: if restraint becomes contempt for material improvement, it can become anti-industrial, anti-creative, or sterile.
+- [Prudence](https://virtues.provable.dev/docs/prudence), in excess: over-analysis can prevent necessary action.
 
 ---
 
@@ -1464,29 +1465,29 @@ These virtues do not diminish Industriousness by nature, but they may diminish i
 
 ### Virtues Order
 
-1. [Ineffable Goodness](ineffable_goodness.md)
-1. [Provable Order/Hierarchy](order.md)
-1. [Faith, Reason](reason/index.md)
-1. [Economy](economy.md)
-1. [Charity](charity.md)
-1. [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-1. [Hope](hope.md)
-1. [Harmony, Generosity](harmony.md)
-1. [Prudence](prudence.md)
-1. [Forgiveness](forgiveness.md)
-1. [Justice](justice.md)
-1. [Governance](governance.md)
-1. [Temperance](temperance.md)
-1. [Fairness](fairness.md)
-1. [Fortitude](fortitude.md)
-1. [Competition](competition.md)
-1. [Measurability](measurability.md)
-1. [Market](market.md)
-1. [Abundance](abundance.md)
-1. [Industriousness](industriousness.md)
-1. [Survival](survival.md)
+1. [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness)
+1. [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order)
+1. [Faith, Reason](https://virtues.provable.dev/docs/reason)
+1. [Economy](https://virtues.provable.dev/docs/economy)
+1. [Charity](https://virtues.provable.dev/docs/charity)
+1. [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
+1. [Hope](https://virtues.provable.dev/docs/hope)
+1. [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
+1. [Prudence](https://virtues.provable.dev/docs/prudence)
+1. [Forgiveness](https://virtues.provable.dev/docs/forgiveness)
+1. [Justice](https://virtues.provable.dev/docs/justice)
+1. [Governance](https://virtues.provable.dev/docs/governance)
+1. [Temperance](https://virtues.provable.dev/docs/temperance)
+1. [Fairness](https://virtues.provable.dev/docs/fairness)
+1. [Fortitude](https://virtues.provable.dev/docs/fortitude)
+1. [Competition](https://virtues.provable.dev/docs/competition)
+1. [Measurability](https://virtues.provable.dev/docs/measurability)
+1. [Market](https://virtues.provable.dev/docs/market)
+1. [Abundance](https://virtues.provable.dev/docs/abundance)
+1. [Industriousness](https://virtues.provable.dev/docs/industriousness)
+1. [Survival](https://virtues.provable.dev/docs/survival)
 
-The evolution can be [narrated](scenarios/narratives.md).
+The evolution can be [narrated](https://virtues.provable.dev/docs/scenarios/narratives).
 
 ## Types of Resources
 
@@ -1671,8 +1672,8 @@ The evolution can be [narrated](scenarios/narratives.md).
 
 # First Trinity: Truth, Beauty, Goodness
 
-- [Goodness](../goodness.md)
-- [Beauty](beauty.md)
+- [Goodness](https://virtues.provable.dev/docs/goodness)
+- [Beauty](https://virtues.provable.dev/docs/beauty)
 - Truth
 
 ## History
@@ -1730,7 +1731,7 @@ It does not depend on:
 - future:
   - the end result
 
-Beauty is part of the [First Trinity](index.md) and is not an atomic virtue. The components are all virtues, but mainly:
+Beauty is part of the [First Trinity](https://virtues.provable.dev/docs) and is not an atomic virtue. The components are all virtues, but mainly:
 
 - Goodness
   - sudden Understanding
@@ -1768,8 +1769,8 @@ Beauty has 2 main types:
 # Second Trinity: Continuity, Governance, Empathy
 
 - Continuity (of eternities)
-- [Empathy](love.md)
-- [Governance](../governance.md)
+- [Empathy](https://virtues.provable.dev/docs/love)
+- [Governance](https://virtues.provable.dev/docs/governance)
 - Continuity
 
 ## Dependencies
@@ -1926,7 +1927,7 @@ Relations:
 
 ## Definition
 
-Many virtues may have their root in Empathy: see [Second Trinity](index.md):
+Many virtues may have their root in Empathy: see [Second Trinity](https://virtues.provable.dev/docs):
 
 1. Faith, Reason
 1. Charity
@@ -2123,7 +2124,7 @@ Here are the mantras for each as depicted on the Anahata Chakra:
 
 # Continuity
 
-Continuity is part of the [Second Trinity](index.md). It has two natures:
+Continuity is part of the [Second Trinity](https://virtues.provable.dev/docs). It has two natures:
 
 ## Continuity of Identity
 
@@ -2207,108 +2208,108 @@ Ability to contain the natural tendency towards dispersal of energy together wit
 # Concepts
 
 ### Altruism
-- [Empathy](2trinity/love.md)
+- [Empathy](https://virtues.provable.dev/docs/2trinity/love)
 
 ### Beauty
-- virtues and [beauty](1trinity/beauty.md)
+- virtues and [beauty](https://virtues.provable.dev/docs/1trinity/beauty)
 
 ### Consistency
-  1. [Justice](justice.md) (across roles)
-  1. [Prudence](prudence.md) (across time while across roles)
+  1. [Justice](https://virtues.provable.dev/docs/justice) (across roles)
+  1. [Prudence](https://virtues.provable.dev/docs/prudence) (across time while across roles)
 
 ### Common Sense
-- increases the fitting of the community in the environment, it is part of [Fortitude](fortitude.md)
+- increases the fitting of the community in the environment, it is part of [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 ### Creativity
-- sharing [Wonder](hope.md)
+- sharing [Wonder](https://virtues.provable.dev/docs/hope)
 
 ### Curiosity
-  - [Wonder](hope.md)
-  - diminishes [Prudence](prudence.md)
+  - [Wonder](https://virtues.provable.dev/docs/hope)
+  - diminishes [Prudence](https://virtues.provable.dev/docs/prudence)
 
 ### Duty
-- will and actions derived from [Charity](charity.md) and [Prudence](prudence.md) that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
+- will and actions derived from [Charity](https://virtues.provable.dev/docs/charity) and [Prudence](https://virtues.provable.dev/docs/prudence) that enable the existence of cardinal and supreme virtues. Pure Duty is not a necessity.
 
 ### Good
-- [Goodness](goodness.md)
+- [Goodness](https://virtues.provable.dev/docs/goodness)
 
 ### Fidelity
 - Loyalty to your agreements, Trustworthiness
 
 ### Flexibility: 
-  1. [Governance](governance.md)
-  1. [Temperance](temperance.md)
-  1. [Fairness](fairness.md)
-  1. [Fortitude](fortitude.md)
-  1. [Competition](competition.md)
+  1. [Governance](https://virtues.provable.dev/docs/governance)
+  1. [Temperance](https://virtues.provable.dev/docs/temperance)
+  1. [Fairness](https://virtues.provable.dev/docs/fairness)
+  1. [Fortitude](https://virtues.provable.dev/docs/fortitude)
+  1. [Competition](https://virtues.provable.dev/docs/competition)
 
 ### Freedom
 - the outcome of a virtuecracy. A virtuecracy is built on the efforts of Duty.
 
 ### Hospitality
-- Xenia ξενία, [Charity](charity.md)
+- Xenia ξενία, [Charity](https://virtues.provable.dev/docs/charity)
 
 ### Intelligence:
-  1. Nous, [Faith, Reason](reason/) (energy of intellect)
+  1. Nous, [Faith, Reason](https://virtues.provable.dev/docs/reason/) (energy of intellect)
   1. Logic Fallacy
-  1. [Governance](governance.md)
-  1. diminishes [Governance](governance.md) (vicious propaganda, misused cleverness)
+  1. [Governance](https://virtues.provable.dev/docs/governance)
+  1. diminishes [Governance](https://virtues.provable.dev/docs/governance) (vicious propaganda, misused cleverness)
 
 ### Legitimacy
-- right to execute [Governance](governance.md) derived from [Faith, Reason](reason/) (clarity of implication, representation), [Prudence](prudence.md) (optimization), and [Justice](justice.md)
+- right to execute [Governance](https://virtues.provable.dev/docs/governance) derived from [Faith, Reason](https://virtues.provable.dev/docs/reason/) (clarity of implication, representation), [Prudence](https://virtues.provable.dev/docs/prudence) (optimization), and [Justice](https://virtues.provable.dev/docs/justice)
 
 ### Optimism
-  - [Hope](hope.md)
-  - Lack of [Fortitude](fortitude.md)
-  - Lack of [Faith, Reason](reason/)
+  - [Hope](https://virtues.provable.dev/docs/hope)
+  - Lack of [Fortitude](https://virtues.provable.dev/docs/fortitude)
+  - Lack of [Faith, Reason](https://virtues.provable.dev/docs/reason/)
 
 ### Pesimism
-  - Realism, [Prudence](prudence.md)
-  - Lack of [Hope](hope.md)
-  - Lack of [Faith, Reason](reason/)
-  - Lack of [Fortitude](fortitude.md)
+  - Realism, [Prudence](https://virtues.provable.dev/docs/prudence)
+  - Lack of [Hope](https://virtues.provable.dev/docs/hope)
+  - Lack of [Faith, Reason](https://virtues.provable.dev/docs/reason/)
+  - Lack of [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 ### Privacy
-  - it helps in isolating virtues (when a virtue tends to diminish other virtues: eg, [Governance](governance.md) impeding [Measurability](measurability.md)).
-  - it helps with ethical abstractions for establishing [Order](order.md)
-  - if eternal: impedes/diminishes [Recognition](harmony.md), therefore privacy cannot be a virtue.
+  - it helps in isolating virtues (when a virtue tends to diminish other virtues: eg, [Governance](https://virtues.provable.dev/docs/governance) impeding [Measurability](https://virtues.provable.dev/docs/measurability)).
+  - it helps with ethical abstractions for establishing [Order](https://virtues.provable.dev/docs/order)
+  - if eternal: impedes/diminishes [Recognition](https://virtues.provable.dev/docs/harmony), therefore privacy cannot be a virtue.
 
 ### Purity
-  - of Action: good reflexes: [Survival](survival.md), [Fortitude](fortitude.md)
-  - of Intent: Sincerity, Honesty: [Temperance](temperance.md), Harmony, [Recognition](harmony.md)
-  - of Thought: Provable [Order](order.md)
+  - of Action: good reflexes: [Survival](https://virtues.provable.dev/docs/survival), [Fortitude](https://virtues.provable.dev/docs/fortitude)
+  - of Intent: Sincerity, Honesty: [Temperance](https://virtues.provable.dev/docs/temperance), Harmony, [Recognition](https://virtues.provable.dev/docs/harmony)
+  - of Thought: Provable [Order](https://virtues.provable.dev/docs/order)
 
 ### Respect for social norms and rituals
 - Li (禮, Proper Ritual or Etiquette): This virtue refers to a set of rituals, customs, and standards of politeness that govern proper behavior and maintain social order. It’s about showing respect through appropriate conduct. Politeness.
-- Common sense: Fitness/[Fortitude](fortitude.md)
-- [Recognition](harmony.md), Harmony
+- Common sense: Fitness/[Fortitude](https://virtues.provable.dev/docs/fortitude)
+- [Recognition](https://virtues.provable.dev/docs/harmony), Harmony
 
 ### Righteousness
-  1. [Fairness](fairness.md): when you are a party in the situation
-  1. [Justice](justice.md): when you judge a situation
-  1. [Prudence](prudence.md): when you discover the eternal mechanisms of a situation
+  1. [Fairness](https://virtues.provable.dev/docs/fairness): when you are a party in the situation
+  1. [Justice](https://virtues.provable.dev/docs/justice): when you judge a situation
+  1. [Prudence](https://virtues.provable.dev/docs/prudence): when you discover the eternal mechanisms of a situation
 
 ### Rigor
-  - [Fortitude](fortitude.md): Rigor with application to the body
-  - [Justice](justice.md): ~ the emotions
-  - [Faith, Reason](reason/): ~ the mental concepts
+  - [Fortitude](https://virtues.provable.dev/docs/fortitude): Rigor with application to the body
+  - [Justice](https://virtues.provable.dev/docs/justice): ~ the emotions
+  - [Faith, Reason](https://virtues.provable.dev/docs/reason/): ~ the mental concepts
 
 ### Sincerity
-  1. Lack of [Temperance](temperance.md)
-  1. [Temperance](temperance.md)
-  1. [Fortitude](fortitude.md)
+  1. Lack of [Temperance](https://virtues.provable.dev/docs/temperance)
+  1. [Temperance](https://virtues.provable.dev/docs/temperance)
+  1. [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 ### Sympathetic Joy ([Mudita](https://en.wikipedia.org/wiki/Mudita))
-- [Empathy](2trinity/love.md)
+- [Empathy](https://virtues.provable.dev/docs/2trinity/love)
 
 ### Tolerance
-  - [Temperance](temperance.md)
-  - [Prudence](prudence.md), and the recognition of the fact that maximal optimization for eternity has not been achieved, and anything that does not gravely impede virtues may be helpful to discover upgrades.
-  - lack of [Justice](justice.md)
+  - [Temperance](https://virtues.provable.dev/docs/temperance)
+  - [Prudence](https://virtues.provable.dev/docs/prudence), and the recognition of the fact that maximal optimization for eternity has not been achieved, and anything that does not gravely impede virtues may be helpful to discover upgrades.
+  - lack of [Justice](https://virtues.provable.dev/docs/justice)
 
 ### Wonder
-- θαυμάζω (thaumazó: to marvel, wonder) part of [Faith, Reason](reason/). It is the vitality of mentally exploring and linking concepts.
-- [Hope](hope.md)
+- θαυμάζω (thaumazó: to marvel, wonder) part of [Faith, Reason](https://virtues.provable.dev/docs/reason/). It is the vitality of mentally exploring and linking concepts.
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 ---
 
@@ -2755,13 +2756,13 @@ A proposed implementation of this theory of virtues.
 ## Summary
 
 1. The Domain
-    1. [The Verbs as domain of virtue computation](verbs.md)
-    1. [The coverage of other Virtue Theories](others_coverage.md)
-    1. [The Verbal Categories](categories.md)
+    1. [The Verbs as domain of virtue computation](https://virtues.provable.dev/docs/verbs)
+    1. [The coverage of other Virtue Theories](https://virtues.provable.dev/docs/others_coverage)
+    1. [The Verbal Categories](https://virtues.provable.dev/docs/categories)
 1. The Codomain
     1. Representation of Virtues in Space
 1. The Virtue Encoder
-1. [Governance of Virtue](governance.md)
+1. [Governance of Virtue](https://virtues.provable.dev/docs/governance)
 
 ---
 
@@ -3063,13 +3064,13 @@ The link between Virtue and Action is almost self-explanatory.
 
 ## Definition
 
-A charity is a public institution that has as its main reason for its existence the enactment of the [virtue of charity](../charity.md).
+A charity is a public institution that has as its main reason for its existence the enactment of the [virtue of charity](https://virtues.provable.dev/docs/charity).
 
 ## Rules and Principles
 
-1. It is a [public institution](public.md). (bound by the definition and rules of an institution)
+1. It is a [public institution](https://virtues.provable.dev/docs/public). (bound by the definition and rules of an institution)
 2. The resources accounting has to be public at the most detailed level (according to 1.1.3 and the fact that the output has to be provable)
-3. It must maintain an external/independent public accounting/challenging of [goodness](../goodness.md) generated
+3. It must maintain an external/independent public accounting/challenging of [goodness](https://virtues.provable.dev/docs/goodness) generated
 4. It must recognize other charities in its domain and collaborate with them (unless proven impossible) 
 
 ## Implications
@@ -3815,104 +3816,104 @@ Each one shows in one way or another a special kind of creativeness or originali
 ### Spiritual/motivational factors
 
 #### Dreams and goals
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Purpose/meaning in life
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Spirituality
-- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
 
 #### Belief in uniqueness of oneself 
-- [Competition](competition.md)
+- [Competition](https://virtues.provable.dev/docs/competition)
 
 #### Independence (autonomy)
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Hope and optimism
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Determination and perseverance
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 ### Cognitive competencies
 
 #### Intelligence
-- [Faith, Reason](../reason/index.md)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
 
 #### Academic achievement and homework skills
-- [Measurability](../measurability.md)
+- [Measurability](https://virtues.provable.dev/docs/measurability)
 
 #### Ability to delay gratification
-- [Temperance](../temperance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
 
 #### Reading skills
-- [Faith, Reason](../reason/index.md)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
 
 #### Moral reasoning
-- [Fairness](../fairness.md)
+- [Fairness](https://virtues.provable.dev/docs/fairness)
 
 #### Insight
-- [Faith, Reason](../reason/index.md)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
 
 #### Interpersonal awareness
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Self-esteem
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Planning ability
-- [Governance](governance.md)
+- [Governance](https://virtues.provable.dev/docs/governance)
 
 #### Creativity Creativity
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 ### Behavioral/social competencies
 
 #### Social skills and street smarts 
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Problem-solving skills
-- [Fortitude](../fortitude.md)
-- [Faith, Reason](../reason/index.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
 
 #### Multicultural and bi-gender competencies 
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Empathy 
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Emotional stability and emotional management
-- [Temperance](temperance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
 
 #### Happiness
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Recognition of feelings 
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Emotional management skills
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Ability to restore self-esteem
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Humor 
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 ### Physical well-being and physical competencies
 
 #### Good health
-- [Survival](survival.md)
+- [Survival](https://virtues.provable.dev/docs/survival)
 
 #### Health maintenance skills
-- [Survival](survival.md)
+- [Survival](https://virtues.provable.dev/docs/survival)
 
 #### Physical talent development
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Physical attractiveness
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 ---
 
@@ -3929,68 +3930,68 @@ Asset character strength(s):
 ### Commitment to learning
 
 #### Achievement motivation
-- [Competition](competition.md)
+- [Competition](https://virtues.provable.dev/docs/competition)
 
 #### School engagement
-- [Market](market.md)
+- [Market](https://virtues.provable.dev/docs/market)
 
 #### Homework
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Bonding to school
-- [Governance](governance.md)
+- [Governance](https://virtues.provable.dev/docs/governance)
 
 #### Reading for pleasure
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 ### Positive values
 
 #### Caring
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Equality and social justice
-- [Fairness](fairness.md)
+- [Fairness](https://virtues.provable.dev/docs/fairness)
 
 #### Integrity
-- [Justice](justice.md)
+- [Justice](https://virtues.provable.dev/docs/justice)
 
 #### Responsibility
-- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
 
 #### Restraint
-- [Temperance](temperance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
 
 ### Social competencies
 
 #### Planning and decision making
-- [Temperance](temperance.md)
-- [Governance](governance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
+- [Governance](https://virtues.provable.dev/docs/governance)
 
 #### Interpersonal competence
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Cultural competence
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Resistance skills
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Peaceful conflict resolution
-- [Justice](justice.md)
+- [Justice](https://virtues.provable.dev/docs/justice)
 
 ### Positive identity
 
 #### Personal power
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Self-esteem
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Sense of purpose
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Positive view of personal future
-[Hope](hope.md)
+[Hope](https://virtues.provable.dev/docs/hope)
 
 ---
 
@@ -4300,88 +4301,88 @@ As is true for many of the character strengths in the VIA Classification, the st
 
 #### Creativity
 
-- [Hope](hope.md)
-- [Abundance](abundance.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Curiosity
 
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Judgment
 
-- [Faith, Reason](../reason/index.md)
-- [Justice](../justice.md)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
+- [Justice](https://virtues.provable.dev/docs/justice)
 
 #### Love of Learning
 
-- [Faith, Reason](../reason/index.md)
+- [Faith, Reason](https://virtues.provable.dev/docs/reason)
 
 #### Perspective
 
-- [Prudence](prudence.md)
+- [Prudence](https://virtues.provable.dev/docs/prudence)
 
 ### 2. Courage
 
 #### Bravery
 
-- Physical bravery (e.g., firefighters, police officers, soldiers) - [Fortitude](fortitude.md)
-- Psychological bravery (e.g., facing painful aspects of oneself) - [Temperance](temperance.md)
-- Moral bravery (e.g., speaking up for what's right, even if it's an unfavorable opinion to a group) - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- Physical bravery (e.g., firefighters, police officers, soldiers) - [Fortitude](https://virtues.provable.dev/docs/fortitude)
+- Psychological bravery (e.g., facing painful aspects of oneself) - [Temperance](https://virtues.provable.dev/docs/temperance)
+- Moral bravery (e.g., speaking up for what's right, even if it's an unfavorable opinion to a group) - [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
 
 #### Perseverance
 
-- [Fortitude](fortitude.md)
+- [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Honesty
 
-- [Temperance](temperance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
 
 #### Zest
 
-- [Abundance](abundance.md)
+- [Abundance](https://virtues.provable.dev/docs/abundance)
 
 ### 3. Humanity
 
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Love
 
-- Attachment love: parent for child; child for parent - [Survival](survival.md)
-- Compassionate/altruistic love: kindness - [Charity](charity.md)
-- Companionate love: friendship - [Provable Order/Hierarchy](order.md)
-- Romantic love: spouse/partner/boyfriend/girlfriend - [Abundance](abundance.md)
+- Attachment love: parent for child; child for parent - [Survival](https://virtues.provable.dev/docs/survival)
+- Compassionate/altruistic love: kindness - [Charity](https://virtues.provable.dev/docs/charity)
+- Companionate love: friendship - [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order)
+- Romantic love: spouse/partner/boyfriend/girlfriend - [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Kindness
 
-- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
-- Moral reasoning - [Faith, Reason](reason/index.md)
-- Social responsibility - [Harmony, Generosity](harmony.md)
+- Empathy/sympathy - [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
+- Moral reasoning - [Faith, Reason](https://virtues.provable.dev/docs/reason)
+- Social responsibility - [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Social Intelligence
 
-- Social awareness: what we sense about others - [Fortitude](fortitude.md)
-- Social facility: what we do with our awareness - [Temperance](temperance.md)
+- Social awareness: what we sense about others - [Fortitude](https://virtues.provable.dev/docs/fortitude)
+- Social facility: what we do with our awareness - [Temperance](https://virtues.provable.dev/docs/temperance)
 
 ### 4. Justice
 
 #### Teamwork
 
-- Citizenship: responsibility toward one's community - [Governance](governance.md)
-- Loyalty: unwavering trust for a group - [Fortitude](fortitude.md)
-- Patriotism: loyalty toward one's homeland/nation without hostility toward other nations - [Fortitude](fortitude.md)
+- Citizenship: responsibility toward one's community - [Governance](https://virtues.provable.dev/docs/governance)
+- Loyalty: unwavering trust for a group - [Fortitude](https://virtues.provable.dev/docs/fortitude)
+- Patriotism: loyalty toward one's homeland/nation without hostility toward other nations - [Fortitude](https://virtues.provable.dev/docs/fortitude)
 
 #### Fairness
 
 Fairness is a cognitive judgment capacity that involves reasoning and making judgments. It involves 2 types of reasoning:
-- Justice reasoning which emphasizes logic weighing principles to determine moral rights and responsibilities. - [Justice](justice.md)
-- Care reasoning which includes empathy and compassion; the ability to put yourself in somebody else's shoes. - [Fairness](fairness.md)
+- Justice reasoning which emphasizes logic weighing principles to determine moral rights and responsibilities. - [Justice](https://virtues.provable.dev/docs/justice)
+- Care reasoning which includes empathy and compassion; the ability to put yourself in somebody else's shoes. - [Fairness](https://virtues.provable.dev/docs/fairness)
 
 #### Leadership
 
-- Practice- defining, establishing, identifying or translating direction - [Provable Order/Hierarchy](order.md)
+- Practice- defining, establishing, identifying or translating direction - [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order)
 - Personal quality- the motivation and capacity to seek out, attain and carry out leader roles There are two types of leaders:
-  - Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished - [Measurability](measurability.md)
-  - Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals - [Harmony, Generosity](harmony.md)
+  - Transactional leaders- this type of leader clarifies responsibilities, expectations, and the tasks to be accomplished - [Measurability](https://virtues.provable.dev/docs/measurability)
+  - Transformational leaders- this leader motivates their followers to perform at an extremely high level, fostering a climate of trust and commitment to the organization and its goals - [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 ### 5. Temperance
 
@@ -4392,34 +4393,34 @@ It is important to distinguish forgiveness from:
 - forgetting (removes the awareness)
 - reconciliation (restores the relationship)
 
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 The concept of Forgiveness as defined by the dictionary is not a virtue. It has essential conflicts with Justice and Goodness.
 
 #### Humility
 
-- [Harmony, Generosity](harmony.md)
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 #### Prudence
 
-- [Prudence](prudence.md)
+- [Prudence](https://virtues.provable.dev/docs/prudence)
 
 #### Self-Regulation
 
-- [Temperance](temperance.md)
+- [Temperance](https://virtues.provable.dev/docs/temperance)
 
 ### 6. Transcendence
 
 #### Appreciation of Beauty & Excellence
 
 - Physical Beauty.
-This may include auditory, tactile or abstract. This type of goodness produces awe and wonder in the person experiencing it. - [Harmony, Generosity](harmony.md)
+This may include auditory, tactile or abstract. This type of goodness produces awe and wonder in the person experiencing it. - [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 - Skill or Talent (Excellence).
-This is often energizing, and compels a person to pursue their own goals. It inspires admiration. - [Harmony, Generosity](harmony.md)
+This is often energizing, and compels a person to pursue their own goals. It inspires admiration. - [Harmony, Generosity](https://virtues.provable.dev/docs/harmony)
 
 - Virtue or moral goodness (moral beauty).
-Virtuous goodness makes someone want to be better, more loving and creates feelings of elevation. - [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+Virtuous goodness makes someone want to be better, more loving and creates feelings of elevation. - [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
 
 #### Gratitude
 
@@ -4433,15 +4434,15 @@ There are two types of gratitude:
 
 #### Hope
 
-- [Hope](hope.md)
+- [Hope](https://virtues.provable.dev/docs/hope)
 
 #### Humor
 
-- not a virtue. maybe - [Abundance](abundance.md)
+- not a virtue. maybe - [Abundance](https://virtues.provable.dev/docs/abundance)
 
 #### Spirituality
 
-- [Goodness, Sacrifice, Courage, Civilization](goodness.md)
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness)
 
 ## Not Covered
 
@@ -4451,14 +4452,14 @@ There are two types of gratitude:
 
 ### To VIA: 
 
-1. [Ineffable Goodness](ineffable_goodness.md)
-1. [Economy](economy.md)
-1. [Charity](charity.md)
-1. [Forgiveness](forgiveness.md)
-1. [Competition](competition.md)
-1. [Market](market.md)
-1. [Industriousness](industriousness.md)
-1. [Survival](survival.md)
+1. [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness)
+1. [Economy](https://virtues.provable.dev/docs/economy)
+1. [Charity](https://virtues.provable.dev/docs/charity)
+1. [Forgiveness](https://virtues.provable.dev/docs/forgiveness)
+1. [Competition](https://virtues.provable.dev/docs/competition)
+1. [Market](https://virtues.provable.dev/docs/market)
+1. [Industriousness](https://virtues.provable.dev/docs/industriousness)
+1. [Survival](https://virtues.provable.dev/docs/survival)
 
 ---
 
@@ -4467,4 +4468,3 @@ There are two types of gratitude:
 Other systems and Theories of Virtue.
 
 ---
-

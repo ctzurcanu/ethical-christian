@@ -6,10 +6,10 @@ const config = {
   tagline: 'Ethical considerations about the Biblical New Testament',
   favicon: 'img/cross.svg',
   url: 'https://ctzurcanu.github.io',
-  baseUrl: '/new-testament/',
+  baseUrl: '/ethical-christian/',
 
   organizationName: 'ctzurcanu',
-  projectName: 'new-testament',
+  projectName: 'ethical-christian',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -60,7 +60,7 @@ const config = {
           label: 'Read',
         },
         {
-          href: 'https://github.com/ctzurcanu/new-testament',
+          href: 'https://github.com/ctzurcanu/ethical-christian',
           label: 'GitHub',
           position: 'right',
         },

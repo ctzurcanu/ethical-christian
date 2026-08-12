@@ -1,11 +1,12 @@
 {
-  "name": "new-testament",
+  "name": "ethical-christian",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "node build-whole.js && docusaurus build",
+    "build:whole": "node build-whole.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

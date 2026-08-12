@@ -1,5 +1,6 @@
 ---
 unlisted: true
+slug: /whole-ethos
 ---
 
 # On Ethos (Complete)
@@ -62,72 +63,72 @@ All the steps have to conform to the Principles above. For example: you share yo
 
 # My Ethos
 
-  - in [JSON form](/ethos.json)
+  - in [JSON form](https://ctzurcanu.github.io/ethos/ethos.json)
 
 ## Ethical Declarations
 
-1. (existence) [Minimal](/phylogeny/minimal.md)
+1. (existence) [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
     1. `golden_rule_negative`: I do not do to others what I do not wish done to myself.
     1. `one_ethos`: I have only one ethos, made public here.
     1. `live_ethos`: What I believe, I share in this ethos.
     1. `ack_other_ethos`: I acknowledge the existence of other ethos(es) than mine.
     1. `ack_other_ethos_importance`: I acknowledge that unless proven otherwise, other ethos(es) than mine have an equal importance to my ethos.
     1. `no_contradiction_claim`: I will keep my ethos free of self-contradicting claims.
-1. (responsibility) [Responsible](/phylogeny/responsible.md)
+1. (responsibility) [Responsible](https://ctzurcanu.github.io/ethos/phylogeny/responsible)
     1. `responsible`: I am responsible for my actions dedicated to this ethos. Also for the collective actions of others who adopted it. I will make reparations and/or discontinue this ethos if this ethos does more harm than my ability to repay. (This ethos has a responsible meta-ethos.)
-1. [Responsible for Others](/phylogeny/resp_others.md)
+1. [Responsible for Others](https://ctzurcanu.github.io/ethos/phylogeny/resp_others)
     1. `responsible_others`: I am responsible for the collective actions of others who adopted this ethos. I will make reparations in the proportion that is just.
-1. [Missionary](/phylogeny/missionary.md)
+1. [Missionary](https://ctzurcanu.github.io/ethos/phylogeny/missionary)
     1. `missionary`: I am fulfilling my duties as a proverbial [godparent](https://en.wikipedia.org/wiki/Godparent) to these individuals: (wip). And I would like to volunteer for more initiations and guidance into this ethos.
-1. [Heroic](/phylogeny/heroic.md)
+1. [Heroic](https://ctzurcanu.github.io/ethos/phylogeny/heroic)
     1. `heroic`: I will do the work to repair the mistakes of my proverbial "godchildren" if their actions are not fully respecting the ethos. I will do more than my duty towards my ethos.
-1. [Art Making](/phylogeny/making_art.md)
+1. [Art Making](https://ctzurcanu.github.io/ethos/phylogeny/making_art)
     1. `making_art`: I am making art for bulding/shaping this ethos [YouTube Channel](https://www.youtube.com/@ChristianTzurcanu).
-1. [Ethos Forming](/phylogeny/forming.md)
+1. [Ethos Forming](https://ctzurcanu.github.io/ethos/phylogeny/forming)
     1. `forming_itself`: I am forming this ethos using [itself](https://github.com/ctzurcanu/ethos).
-1. (awareness) [Aware of Limitations and Surplus (ALS)](/phylogeny/aware_ls.md)
+1. (awareness) [Aware of Limitations and Surplus (ALS)](https://ctzurcanu.github.io/ethos/phylogeny/aware_ls)
     1. `aware_ls`: I am aware of the present limitations and surplus that I have in following my own ethos.
-1. [ALS of Resources](/phylogeny/als_resources.md)
+1. [ALS of Resources](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
     1. `als_resources`: I am aware of the present limitations and surplus of resources that I have in following my own ethos.
-1. [ALS of Geography](/phylogeny/als_resources.md)
+1. [ALS of Geography](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
     1. WIP
-1. [ALS of Time](/phylogeny/als_resources.md)
+1. [ALS of Time](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
     1. WIP
-1. [ALS of Intelligence](/phylogeny/als_resources.md)
+1. [ALS of Intelligence](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
     1. WIP
-1. (flexibility) [Flexible](/phylogeny/flexible.md)
+1. (flexibility) [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible)
     1. `flexible`: I keep my ethos flexible by means of reasonable demonstration or (where lacking) consensus. The change may consist of modifying the order of my virtue hierarchy, adding new items, or removing items.
-1. [Challengeable](/phylogeny/challengeable.md)
+1. [Challengeable](https://ctzurcanu.github.io/ethos/phylogeny/challengeable)
     1. `challengeable`: Ethos is challengeable by this link: [New Challenge](https://github.com/ctzurcanu/ethos/issues/new). A comprehensive history of the challenge types and instances and their ethical conclusions is here: [Issues](https://github.com/ctzurcanu/ethos/issues). I accept new challenges only if they are of a new type or subtype.
-1. [Testable](/phylogeny/testable.md)
+1. [Testable](https://ctzurcanu.github.io/ethos/phylogeny/testable)
     1. `testability`: This ethos uses a meta-ethos that establishes the protocols for testing ethoses in my life.
-1. Accepting [Arbitrage](/phylogeny/arbitrage.md)
+1. Accepting [Arbitrage](https://ctzurcanu.github.io/ethos/phylogeny/arbitrage)
     1. `arbitrage`: This ethos is accepting arbitrage from a person or ethos C in order to achieve a common understanding with ethos B. I also remain available for arbitrage services to any person or ethos who accepts arbitration and needs it.
-1. [Max Flexible](/phylogeny/max_flexible.md)
+1. [Max Flexible](https://ctzurcanu.github.io/ethos/phylogeny/max_flexible)
     1. WIP
-1. (cooperative) [Joinable](/phylogeny/joinable.md)
+1. (cooperative) [Joinable](https://ctzurcanu.github.io/ethos/phylogeny/joinable)
     1. `joinable`: Ethos is joinable by forking this repo and declaring in a public space (such as X.com) that you joined this ethos (with a link to the revision).
-1. [Non-binding](/phylogeny/non-binding.md)
+1. [Non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding)
     1. `non-binding`: Ethos is non-binding: one can leave (un-join) this ethos at any time, for any reason or without a reason. The un-join has to be declared publicly.
-1. [Respectuous](/phylogeny/respectuous.md)
+1. [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
     1. `respectuous`: I keep my ethos respectuous: my ethos will recognize in public other ethoses. Will abide also by their rules, if not in grave conflict.
-1. [Alignable](/phylogeny/alignable.md)
-    1. `alignable`: This ethos is alignable: keeps a list of [other ethoses and their classification](/empathy/other_ethoses). Establishes what actions can be executed together and in what ehtical conditions.
-1. [Impartial](/phylogeny/impartial.md)
+1. [Alignable](https://ctzurcanu.github.io/ethos/phylogeny/alignable)
+    1. `alignable`: This ethos is alignable: keeps a list of [other ethoses and their classification](https://ctzurcanu.github.io/ethos/empathy/other_ethoses). Establishes what actions can be executed together and in what ehtical conditions.
+1. [Impartial](https://ctzurcanu.github.io/ethos/phylogeny/impartial)
     1. `impartial`: Ethos is impartial: It emits the same judgements regardless of the identity or fame of the actors (ethoses). Taking into consideration only their ethics.
-1. [Generous](/phylogeny/generous.md)
+1. [Generous](https://ctzurcanu.github.io/ethos/phylogeny/generous)
     1. WIP
-1. (provability) [Accepting of Proofs](/phylogeny/proof_accepting.md)
+1. (provability) [Accepting of Proofs](https://ctzurcanu.github.io/ethos/phylogeny/proof_accepting)
     1. `proof_accepting`: I keep my ethos proof accepting and responsable for the proofs published by it. This ethos will be liable to pay for any false proof or provable wrongdoing with fines and reparations that may exclude it for a period of time or/and area of space from being considered an ethos.
-1. Accepting of [Formal Proof](/phylogeny/formal_proof.md)
+1. Accepting of [Formal Proof](https://ctzurcanu.github.io/ethos/phylogeny/formal_proof)
     1. `formal_proof`: My ethos is accepting formal proofs of these forms (work in progress). The solutions for the proofs received are at (work in progress). The formal proof types that I do not accept I cannot use for my benefit.
-1. Accepting of [Witnesses](/phylogeny/witnesses.md)
+1. Accepting of [Witnesses](https://ctzurcanu.github.io/ethos/phylogeny/witnesses)
     1. `witnesses`: Absent a formal proof for an event: if there are testimonials of people with ethos that accepts witnesses, my ethos is accepting their testimony. Instances and events that I am a witness for (wip). If there will be a formal proof or more believable witnesses that oppose my testimony: I should lose my ethical status of "Accepting of Witnesses" until I pay for all damages my testimony may have generated. Also: if I do not accept witnesses I cannot benefit from witness testimonials in any situation.
-1. Accepting of [Voting Result](/phylogeny/voting_result.md)
+1. Accepting of [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
     1. `voting_result`: Absent a formal proof and witnesses for an event: if the voting process is formally provable, and if the voters have an ethos that accepts the voting result, my ethos is accepting its results. Types of formally provable voting accepted (work in progress). Instances of vote and their result (wip).
-1. Accepting of [Law](/phylogeny/law.md)
+1. Accepting of [Law](https://ctzurcanu.github.io/ethos/phylogeny/law)
     1. `law`: If the result of voting (formally provable) is a law, my ethos accepts this law as a shortcut for voting.
-1. Accepting of [Representation](/phylogeny/representation.md)
+1. Accepting of [Representation](https://ctzurcanu.github.io/ethos/phylogeny/representation)
     1. `representation`: If the result of voting (formally provable) is a role of representation, my ethos accepts the representant's decisions as a shortcut for voting.
 
 ### Virtues
@@ -272,37 +273,37 @@ Example: If I `judge_invite` and the other person does the same: we can engage i
 
 ## Attributes
 
-1. (existence) [Minimal](/phylogeny/minimal)
-    1. (responsibility) [Responsible](/phylogeny/responsible)
-        1. [Responsible for Others](/phylogeny/resp_others_)
-            1. [Missionary](/phylogeny/missionary)
-                1. [Heroic](/phylogeny/heroic)
-                    1. [Art Making](/phylogeny/making_art)
-                        1. [Ethos Forming](/phylogeny/forming)
-    1. (awareness) [Aware of Limitations and Surplus (ALS)](/phylogeny/aware_ls)
-        1. [ALS of Resources](/phylogeny/als_resources)
-            1. [ALS of Geography](/phylogeny/als_resources)
-            1. [ALS of Time](/phylogeny/als_resources)
-            1. [ALS of Intelligence](/phylogeny/als_resources)
-                1. Ethical [Ambassador](/phylogeny/als_resources)
-    1. (flexibility) [Flexible](/phylogeny/flexible)
-        1. [Challengeable](/phylogeny/challengeable)
-            1. [Testable](/phylogeny/testability)
-                1. Accepting [Arbitrage](/phylogeny/arbitrage)
-                    1. [Max Flexible](/phylogeny/max_flexible)
-    1. (cooperative) [Joinable](/phylogeny/joinable)
-        1. [Non-binding](/phylogeny/non-binding)
-            1. [Respectuous](/phylogeny/respectuous)
-                1. [Constructive](/phylogeny/constructive)
-                1. [Alignable](/phylogeny/alignable)
-                    1. [Impartial](/phylogeny/impartial)
-                        1. [Generous](/phylogeny/generous)
-    1. (provability) [Accepting of Proofs](/phylogeny/proof_accepting)
-        1. Accepting of [Formal Proof](/phylogeny/formal_proof)
-            1. Accepting of [Witnesses](/phylogeny/witnesses)
-                1. Accepting of [Voting Result](/phylogeny/voting_result)
-                    1. Accepting of [Law](/phylogeny/law)
-                    1. Accepting of [Representation](/phylogeny/representation)
+1. (existence) [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
+    1. (responsibility) [Responsible](https://ctzurcanu.github.io/ethos/phylogeny/responsible)
+        1. [Responsible for Others](https://ctzurcanu.github.io/ethos/phylogeny/resp_others_)
+            1. [Missionary](https://ctzurcanu.github.io/ethos/phylogeny/missionary)
+                1. [Heroic](https://ctzurcanu.github.io/ethos/phylogeny/heroic)
+                    1. [Art Making](https://ctzurcanu.github.io/ethos/phylogeny/making_art)
+                        1. [Ethos Forming](https://ctzurcanu.github.io/ethos/phylogeny/forming)
+    1. (awareness) [Aware of Limitations and Surplus (ALS)](https://ctzurcanu.github.io/ethos/phylogeny/aware_ls)
+        1. [ALS of Resources](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Geography](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Time](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Intelligence](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+                1. Ethical [Ambassador](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+    1. (flexibility) [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible)
+        1. [Challengeable](https://ctzurcanu.github.io/ethos/phylogeny/challengeable)
+            1. [Testable](https://ctzurcanu.github.io/ethos/phylogeny/testability)
+                1. Accepting [Arbitrage](https://ctzurcanu.github.io/ethos/phylogeny/arbitrage)
+                    1. [Max Flexible](https://ctzurcanu.github.io/ethos/phylogeny/max_flexible)
+    1. (cooperative) [Joinable](https://ctzurcanu.github.io/ethos/phylogeny/joinable)
+        1. [Non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding)
+            1. [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
+                1. [Constructive](https://ctzurcanu.github.io/ethos/phylogeny/constructive)
+                1. [Alignable](https://ctzurcanu.github.io/ethos/phylogeny/alignable)
+                    1. [Impartial](https://ctzurcanu.github.io/ethos/phylogeny/impartial)
+                        1. [Generous](https://ctzurcanu.github.io/ethos/phylogeny/generous)
+    1. (provability) [Accepting of Proofs](https://ctzurcanu.github.io/ethos/phylogeny/proof_accepting)
+        1. Accepting of [Formal Proof](https://ctzurcanu.github.io/ethos/phylogeny/formal_proof)
+            1. Accepting of [Witnesses](https://ctzurcanu.github.io/ethos/phylogeny/witnesses)
+                1. Accepting of [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
+                    1. Accepting of [Law](https://ctzurcanu.github.io/ethos/phylogeny/law)
+                    1. Accepting of [Representation](https://ctzurcanu.github.io/ethos/phylogeny/representation)
 
 ## The [5 Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 
@@ -368,8 +369,8 @@ The stages of ethos are:
 
 | level | stage          | ethical attributes                           |
 |-------|----------------|----------------------------------------------|
-| 0.    | Extant         | + [Minimal](/phylogeny/minimal) <br/> (no attributes) |
-| 1.    | Complete | + [Hero](/phylogeny/heroic) <br/>  + [Ambassador](/phylogeny/als_resources)<br/> + [Arbitrer](/phylogeny/arbitrage) <br/> + [Constructive](/phylogeny/constructive)<br/> +  [Witnesses](/phylogeny/witnesses) <br/> - complete ecosystem   |
+| 0.    | Extant         | + [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal) <br/> (no attributes) |
+| 1.    | Complete | + [Hero](https://ctzurcanu.github.io/ethos/phylogeny/heroic) <br/>  + [Ambassador](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)<br/> + [Arbitrer](https://ctzurcanu.github.io/ethos/phylogeny/arbitrage) <br/> + [Constructive](https://ctzurcanu.github.io/ethos/phylogeny/constructive)<br/> +  [Witnesses](https://ctzurcanu.github.io/ethos/phylogeny/witnesses) <br/> - complete ecosystem   |
 | 2.    | Extraordinary  | WIP   |
 
 ---
@@ -418,7 +419,7 @@ The stages of ethos are:
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -435,7 +436,7 @@ The stages of ethos are:
 
 ## Derived From
 
-- [Responsible](/phylogeny/responsible)
+- [Responsible](https://ctzurcanu.github.io/ethos/phylogeny/responsible)
 
 ## Additions to the Derived:
 
@@ -456,7 +457,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Responsible for Others](/phylogeny/resp_others_)
+- [Responsible for Others](https://ctzurcanu.github.io/ethos/phylogeny/resp_others_)
 
 ## Additions to the Derived:
 
@@ -473,7 +474,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Missionary](/phylogeny/missionary)
+- [Missionary](https://ctzurcanu.github.io/ethos/phylogeny/missionary)
 
 ## Additions to the Derived:
 
@@ -490,7 +491,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Heroic](/phylogeny/heroic)
+- [Heroic](https://ctzurcanu.github.io/ethos/phylogeny/heroic)
 
 ## Additions to the Derived:
 
@@ -507,7 +508,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Making Art](/phylogeny/making_art)
+- [Making Art](https://ctzurcanu.github.io/ethos/phylogeny/making_art)
 
 ## Additions to the Derived:
 
@@ -524,7 +525,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -541,7 +542,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -564,7 +565,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -581,7 +582,7 @@ Mahatma Gandhi was fasting many times because of the violence of his fellow Indi
 
 ## Derived From
 
-- [Flexible](/phylogeny/flexible)
+- [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible)
 
 ## Additions to the Derived:
 
@@ -608,7 +609,7 @@ A challenge can be performed only by some entity that has challengeable ethos an
 
 ## Derived From
 
-- [Challengeable](/phylogeny/challengeable)
+- [Challengeable](https://ctzurcanu.github.io/ethos/phylogeny/challengeable)
 
 ## Additions to the Derived:
 
@@ -647,7 +648,7 @@ It demonstrates the need for a meta-ethos (different than the ethos used at infe
 
 ## Derived From
 
-- [Testable](/phylogeny/testability)
+- [Testable](https://ctzurcanu.github.io/ethos/phylogeny/testability)
 
 ## Additions to the Derived:
 
@@ -700,7 +701,7 @@ If this ethical change places their new ethos closer to "ethos i", then the chan
 
 ## Derived From
 
-- Accepting [Arbitrage](/phylogeny/arbitrage)
+- Accepting [Arbitrage](https://ctzurcanu.github.io/ethos/phylogeny/arbitrage)
 
 ## Additions to the Derived:
 
@@ -717,7 +718,7 @@ If this ethical change places their new ethos closer to "ethos i", then the chan
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -736,7 +737,7 @@ A list with the adopters will be available to all adoptees (at least).
 
 ## Derived From
 
-- [Joinable](/phylogeny/joinable)
+- [Joinable](https://ctzurcanu.github.io/ethos/phylogeny/joinable)
 
 ## Additions to the Derived:
 
@@ -753,7 +754,7 @@ A list with the adopters will be available to all adoptees (at least).
 
 ## Derived From
 
-- [Non-binding](/phylogeny/non-binding)
+- [Non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding)
 
 ## Additions to the Derived:
 
@@ -772,7 +773,7 @@ That also means respecting the law of the land in countries and cities that are 
 
 ## Derived From
 
-- [Respectuous](/phylogeny/respectuous)
+- [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
 
 ## Additions to the Derived:
 
@@ -789,7 +790,7 @@ That also means respecting the law of the land in countries and cities that are 
 
 ## Derived From
 
-- [Respectuous](/phylogeny/respectuous)
+- [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
 
 ## Additions to the Derived:
 
@@ -806,7 +807,7 @@ That also means respecting the law of the land in countries and cities that are 
 
 ## Derived From
 
-- [Alignable](/phylogeny/alignable)
+- [Alignable](https://ctzurcanu.github.io/ethos/phylogeny/alignable)
 
 ## Additions to the Derived:
 
@@ -823,7 +824,7 @@ That also means respecting the law of the land in countries and cities that are 
 
 ## Derived From
 
-- [Impartial](/phylogeny/impartial)
+- [Impartial](https://ctzurcanu.github.io/ethos/phylogeny/impartial)
 
 ## Additions to the Derived:
 
@@ -832,7 +833,7 @@ That also means respecting the law of the land in countries and cities that are 
 ### Ethos is Generous
 
 - short: `generous`
-- long: `This ethos defers public judgments where possible to the opposite [non-binding](/phylogeny/non-binding) ethos.`
+- long: `This ethos defers public judgments where possible to the opposite [non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding) ethos.`
 
 ## Historical Examples
 
@@ -876,7 +877,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- [Minimal](/phylogeny/minimal)
+- [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 ## Additions to the Derived:
 
@@ -893,7 +894,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- [Accepting of Proofs](/phylogeny/proof_accepting)
+- [Accepting of Proofs](https://ctzurcanu.github.io/ethos/phylogeny/proof_accepting)
 
 ## Additions to the Derived:
 
@@ -910,7 +911,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- Accepting of [Formal Proof](/phylogeny/formal_proof)
+- Accepting of [Formal Proof](https://ctzurcanu.github.io/ethos/phylogeny/formal_proof)
 
 ## Additions to the Derived:
 
@@ -927,7 +928,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- Accepting of [Witnesses](/phylogeny/witnesses)
+- Accepting of [Witnesses](https://ctzurcanu.github.io/ethos/phylogeny/witnesses)
 
 ## Additions to the Derived:
 
@@ -944,7 +945,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- [Voting Result](/phylogeny/voting_result)
+- [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
 
 ## Additions to the Derived:
 
@@ -961,7 +962,7 @@ Crito 49a–54d: Socrates reasons that committing injustice is never justified, 
 
 ## Derived From
 
-- [Voting Result](/phylogeny/voting_result)
+- [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
 
 ## Additions to the Derived:
 
@@ -980,7 +981,7 @@ An Ethos has its own empathy (with other ethoses). The stages of ethical empathy
 
 1. Recognition
 1. Discrimination/Classification
-1. If the other Ethos is [Flexible](/phylogeny/flexible): Dialogue
+1. If the other Ethos is [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible): Dialogue
 1. Integration/Understanding
 1. Cooperation
 
@@ -988,7 +989,7 @@ An Ethos has its own empathy (with other ethoses). The stages of ethical empathy
 
 # Other Ethoses
 
-Recommended to read [Phylogeny](/phylogeny) first.
+Recommended to read [Phylogeny](https://ctzurcanu.github.io/ethos/phylogeny) first.
 
 ## By Class
 
@@ -1005,7 +1006,7 @@ Recommended to read [Phylogeny](/phylogeny) first.
   - Statism (recognizing the state as independent from religion)
 - Henotheism
 
-These religions meet the criteria of [Minimal Ethos](/phylogeny/minimal)
+These religions meet the criteria of [Minimal Ethos](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
 
 However: 
   1. None of these ethoses are upgradeable, and they are not challengeable in public
@@ -1018,7 +1019,7 @@ However:
 - Islam
 - Any religion that suppresses public doctrinal debate
 
-These religions do not meet the criteria of [Minimal Ethos](/phylogeny/minimal).
+These religions do not meet the criteria of [Minimal Ethos](https://ctzurcanu.github.io/ethos/phylogeny/minimal).
 
 I do not consider these religions worthy of being called religions. They have at least this one cult or sectarian characteristic.
 
@@ -1028,13 +1029,13 @@ As a self-proclaimed Christian, I have to disent from the way Christianity is un
 
 ### United Nations Charter
 
-Signatory [countries](/empathy/countries).
+Signatory [countries](https://ctzurcanu.github.io/ethos/empathy/countries).
 
 #### Constitutions of Countries
 
 ##### Republican Ethos (150)
 
-[The Ethos](/empathy/republican) presumably shared by all republics.
+[The Ethos](https://ctzurcanu.github.io/ethos/empathy/republican) presumably shared by all republics.
 
 ##### Monarchic Ethos (43)
 
@@ -1095,15 +1096,15 @@ Signatory [countries](/empathy/countries).
 
 ## Punctual Ethos
 
-### The Love Equation by [Brian Roemmele](/empathy/brian_roemmele)
+### The Love Equation by [Brian Roemmele](https://ctzurcanu.github.io/ethos/empathy/brian_roemmele)
 
-### [Mihai Rapcea's Ethos](/empathy/mihai_rapcea)
+### [Mihai Rapcea's Ethos](https://ctzurcanu.github.io/ethos/empathy/mihai_rapcea)
 
 ---
 
 # Countries in ONU (193)
 
-These signatories of the [UN's Charter](https://www.un.org/en/about-us/un-charter/full-text) can be considered as meeting the [Minimal](/phylogeny/minimal) ethos:
+These signatories of the [UN's Charter](https://www.un.org/en/about-us/un-charter/full-text) can be considered as meeting the [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal) ethos:
 
 Total: 193
 
@@ -1333,7 +1334,7 @@ Total: 9
 
 # Republican Ethos
 
-1. (existence) [Minimal](/phylogeny/minimal.md)
+1. (existence) [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
     - by having a public Constitution:
         - `one_ethos`: `I have only one ethos, made public here.`
         - `live_ethos`: `What I believe, I share in this ethos.`
@@ -1342,49 +1343,49 @@ Total: 9
     - by being a member of the UN: 
         - `ack_other_ethos`: `I acknowledge the existence of other ethos(es) than mine.`
         - `ack_other_ethos_importance`: `I acknowledge that unless proven otherwise, other ethos(es) than mine have an equal importance to my ethos.`
-    1. (responsibility) [Responsible](/phylogeny/responsible.md)
+    1. (responsibility) [Responsible](https://ctzurcanu.github.io/ethos/phylogeny/responsible)
         - All citizens (and institutions) are equal before the law.
-        1. [Responsible for Others](/phylogeny/resp_others.md)
+        1. [Responsible for Others](https://ctzurcanu.github.io/ethos/phylogeny/resp_others)
             - Institutions that create institutions are responsible for their dissolution and for their ethos.
-            1. [Missionary](/phylogeny/missionary.md)
-                1. [Heroic](/phylogeny/heroic.md)
-                    1. [Art Making](/phylogeny/making_art.md)
-                        1. [Ethos Forming](/phylogeny/forming.md)
-    1. (awareness) [Aware of Limitations and Surplus (ALS)](/phylogeny/aware_ls.md)
+            1. [Missionary](https://ctzurcanu.github.io/ethos/phylogeny/missionary)
+                1. [Heroic](https://ctzurcanu.github.io/ethos/phylogeny/heroic)
+                    1. [Art Making](https://ctzurcanu.github.io/ethos/phylogeny/making_art)
+                        1. [Ethos Forming](https://ctzurcanu.github.io/ethos/phylogeny/forming)
+    1. (awareness) [Aware of Limitations and Surplus (ALS)](https://ctzurcanu.github.io/ethos/phylogeny/aware_ls)
         - by clarity of geographical borders and good enforcement
         - by the protection of property
         - by taxation
         - by tariffs
         - by diplomatic activities
-        1. [ALS of Resources](/phylogeny/als_resources.md)
-            1. [ALS of Geography](/phylogeny/als_resources.md)
-            1. [ALS of Time](/phylogeny/als_resources.md)
-            1. [ALS of Intelligence](/phylogeny/als_resources.md)
-    1. (flexibility) [Flexible](/phylogeny/flexible.md)
+        1. [ALS of Resources](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Geography](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Time](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Intelligence](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+    1. (flexibility) [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible)
         - by the existence of a Legislative Body
         - by Courts of Law and jurisprudence
-        1. [Challengeable](/phylogeny/challengeable.md)
+        1. [Challengeable](https://ctzurcanu.github.io/ethos/phylogeny/challengeable)
             - by allowing debate and free speech to adversarial countries
             - by making public institutions Challengeable
             - by having a complete archive of voting: in elections, in Parliament, in courts of law
-            1. [Testable](/phylogeny/testable.md)
-                1. [Max Flexible](/phylogeny/max_flexible.md)
-    1. (cooperative) [Joinable](/phylogeny/joinable.md)
+            1. [Testable](https://ctzurcanu.github.io/ethos/phylogeny/testable)
+                1. [Max Flexible](https://ctzurcanu.github.io/ethos/phylogeny/max_flexible)
+    1. (cooperative) [Joinable](https://ctzurcanu.github.io/ethos/phylogeny/joinable)
         - the immigration institution
-        1. [Non-binding](/phylogeny/non-binding.md)
+        1. [Non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding)
             - The emigration is a free choice
-            1. [Respectuous](/phylogeny/respectuous.md)
-                1. [Alignable](/phylogeny/alignable.md)
-                    1. [Impartial](/phylogeny/impartial.md)
-                        1. [Generous](/phylogeny/generous.md)
-    1. (provability) [Accepting of Proofs](/phylogeny/proof_accepting.md)
+            1. [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
+                1. [Alignable](https://ctzurcanu.github.io/ethos/phylogeny/alignable)
+                    1. [Impartial](https://ctzurcanu.github.io/ethos/phylogeny/impartial)
+                        1. [Generous](https://ctzurcanu.github.io/ethos/phylogeny/generous)
+    1. (provability) [Accepting of Proofs](https://ctzurcanu.github.io/ethos/phylogeny/proof_accepting)
         - by means of accepting proofs and hearing possible interpretations (lawyer advocacy)
-        1. Accepting of [Formal Proof](/phylogeny/formal_proof.md)
+        1. Accepting of [Formal Proof](https://ctzurcanu.github.io/ethos/phylogeny/formal_proof)
             - by accepting the testimony of domain experts
-            1. Accepting of [Voting Result](/phylogeny/voting_result.md)
+            1. Accepting of [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
                 - accepting of the vote result in UN and other International Bodies
-                1. Accepting of [Law](/phylogeny/law.md)
-                1. Accepting of [Representation](/phylogeny/representation.md)
+                1. Accepting of [Law](https://ctzurcanu.github.io/ethos/phylogeny/law)
+                1. Accepting of [Representation](https://ctzurcanu.github.io/ethos/phylogeny/representation)
 
 ---
 
@@ -1393,11 +1394,11 @@ Total: 9
 ## Derivations
 
 - from
-    - [Republican Ethos](/empathy/republican)
+    - [Republican Ethos](https://ctzurcanu.github.io/ethos/empathy/republican)
 
-## Definition by [Phylogeny](/phylogeny)
+## Definition by [Phylogeny](https://ctzurcanu.github.io/ethos/phylogeny)
 
-1. (existence) [Minimal](/phylogeny/minimal.md)
+1. (existence) [Minimal](https://ctzurcanu.github.io/ethos/phylogeny/minimal)
     - by having a public Constitution:
         - `one_ethos`: `I have only one ethos, made public [here](https://constitution.congress.gov/constitution/).`
         - `live_ethos`: `What I believe, I share in this ethos.`
@@ -1406,49 +1407,49 @@ Total: 9
     - by being a member of the UN: 
         - `ack_other_ethos`: `I acknowledge the existence of other ethos(es) than mine.`
         - `ack_other_ethos_importance`: `I acknowledge that unless proven otherwise, other ethos(es) than mine have an equal importance to my ethos.`
-    1. (responsibility) [Responsible](/phylogeny/responsible.md)
+    1. (responsibility) [Responsible](https://ctzurcanu.github.io/ethos/phylogeny/responsible)
         - All citizens (and institutions) are equal before the law.
-        1. [Responsible for Others](/phylogeny/resp_others.md)
+        1. [Responsible for Others](https://ctzurcanu.github.io/ethos/phylogeny/resp_others)
             - Institutions that create institutions are responsible for their dissolution and for their ethos.
-            1. [Missionary](/phylogeny/missionary.md)
-                1. [Heroic](/phylogeny/heroic.md)
-                    1. [Art Making](/phylogeny/making_art.md)
-                        1. [Ethos Forming](/phylogeny/forming.md)
-    1. (awareness) [Aware of Limitations and Surplus (ALS)](/phylogeny/aware_ls.md)
+            1. [Missionary](https://ctzurcanu.github.io/ethos/phylogeny/missionary)
+                1. [Heroic](https://ctzurcanu.github.io/ethos/phylogeny/heroic)
+                    1. [Art Making](https://ctzurcanu.github.io/ethos/phylogeny/making_art)
+                        1. [Ethos Forming](https://ctzurcanu.github.io/ethos/phylogeny/forming)
+    1. (awareness) [Aware of Limitations and Surplus (ALS)](https://ctzurcanu.github.io/ethos/phylogeny/aware_ls)
         - by clarity of geographical borders and good enforcement
         - by the protection of property
         - by taxation
         - by tariffs
         - by diplomatic activities
-        1. [ALS of Resources](/phylogeny/als_resources.md)
-            1. [ALS of Geography](/phylogeny/als_resources.md)
-            1. [ALS of Time](/phylogeny/als_resources.md)
-            1. [ALS of Intelligence](/phylogeny/als_resources.md)
-    1. (flexibility) [Flexible](/phylogeny/flexible.md)
+        1. [ALS of Resources](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Geography](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Time](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+            1. [ALS of Intelligence](https://ctzurcanu.github.io/ethos/phylogeny/als_resources)
+    1. (flexibility) [Flexible](https://ctzurcanu.github.io/ethos/phylogeny/flexible)
         - by the existence of a Legislative Body
         - by Courts of Law and jurisprudence
-        1. [Challengeable](/phylogeny/challengeable.md)
+        1. [Challengeable](https://ctzurcanu.github.io/ethos/phylogeny/challengeable)
             - by allowing debate and free speech to adversarial countries
             - by making public institutions Challengeable
             - by having a complete archive of voting: in elections, in Parliament, in courts of law
-            1. [Testable](/phylogeny/testable.md)
-                1. [Max Flexible](/phylogeny/max_flexible.md)
-    1. (cooperative) [Joinable](/phylogeny/joinable.md)
+            1. [Testable](https://ctzurcanu.github.io/ethos/phylogeny/testable)
+                1. [Max Flexible](https://ctzurcanu.github.io/ethos/phylogeny/max_flexible)
+    1. (cooperative) [Joinable](https://ctzurcanu.github.io/ethos/phylogeny/joinable)
         - the immigration institution
-        1. [Non-binding](/phylogeny/non-binding.md)
+        1. [Non-binding](https://ctzurcanu.github.io/ethos/phylogeny/non-binding)
             - The emigration is a free choice
-            1. [Respectuous](/phylogeny/respectuous.md)
-                1. [Alignable](/phylogeny/alignable.md)
-                    1. [Impartial](/phylogeny/impartial.md)
-                        1. [Generous](/phylogeny/generous.md)
-    1. (provability) [Accepting of Proofs](/phylogeny/proof_accepting.md)
+            1. [Respectuous](https://ctzurcanu.github.io/ethos/phylogeny/respectuous)
+                1. [Alignable](https://ctzurcanu.github.io/ethos/phylogeny/alignable)
+                    1. [Impartial](https://ctzurcanu.github.io/ethos/phylogeny/impartial)
+                        1. [Generous](https://ctzurcanu.github.io/ethos/phylogeny/generous)
+    1. (provability) [Accepting of Proofs](https://ctzurcanu.github.io/ethos/phylogeny/proof_accepting)
         - by means of accepting proofs and hearing possible interpretations (lawyer advocacy)
-        1. Accepting of [Formal Proof](/phylogeny/formal_proof.md)
+        1. Accepting of [Formal Proof](https://ctzurcanu.github.io/ethos/phylogeny/formal_proof)
             - by accepting the testimony of domain experts
-            1. Accepting of [Voting Result](/phylogeny/voting_result.md)
+            1. Accepting of [Voting Result](https://ctzurcanu.github.io/ethos/phylogeny/voting_result)
                 - accepting of the vote result in UN and other International Bodies
-                1. Accepting of [Law](/phylogeny/law.md)
-                1. Accepting of [Representation](/phylogeny/representation.md)
+                1. Accepting of [Law](https://ctzurcanu.github.io/ethos/phylogeny/law)
+                1. Accepting of [Representation](https://ctzurcanu.github.io/ethos/phylogeny/representation)
 
 ---
 
@@ -1472,7 +1473,7 @@ The existence of 3 generations is required to be alive and with a provable abili
 Even in the realm of geometry, 2 points determine a line. Conversely, the word lineage should be used only when there are 2 generations of gurus active.
 Otherwise, the word "legacy" is more fitting than "lineage".
 A school that has no lineage cannot apply Guru Yoga properly.
-Guru Yoga has an ethos that is at least meeting the standard of [Challengeable Ethos](/phylogeny/challengeable).
+Guru Yoga has an ethos that is at least meeting the standard of [Challengeable Ethos](https://ctzurcanu.github.io/ethos/phylogeny/challengeable).
 
 Example 1: When the disciple considers that his guru is not respecting the ethos of the lineage, he should be able to contact the guru of his guru to ensure alignment with the lineage.
 
@@ -1485,7 +1486,7 @@ Example 3: A disciple has the duty to defend the ethos of the lineage and to kee
 # [The Love Equation](https://readmultiplex.com/2025/12/20/how-one-starry-night-in-1978-thinking-about-alien-intelligence-i-solved-the-ai-alignment-problem-with-the-love-equation/) dE/dt = β(C − D)E by [Brian Roemmele](https://x.com/BrianRoemmele)
 
 1. Recognition: I have considered this article above as an ethos declaration: [message](https://x.com/ctzurcanu/status/2002624300302643205)
-1. Classification: I think this ethos meets the criteria of [Minimal Ethos](/phylogeny/minimal), but I cannot be sure without further dialogue.
+1. Classification: I think this ethos meets the criteria of [Minimal Ethos](https://ctzurcanu.github.io/ethos/phylogeny/minimal), but I cannot be sure without further dialogue.
   1. not challengeable: Brian has answered only [once](https://x.com/BrianRoemmele/status/2002765650532442272). No reliable way to challenge.
   1. joinable: [image](https://readmultiplex.com/wp-content/uploads/2025/12/IMG_1073.jpg) but no list of joiners
   1. Maybe non-binding: "reject coercion in all of its forms"
@@ -1493,7 +1494,7 @@ Example 3: A disciple has the duty to defend the ethos of the lineage and to kee
 1. Dialogue: I have initiated 2-3 threads of dialogue, but they were not continued. [Example](https://x.com/ctzurcanu/status/2003122116431126538).
 1. Integration:
 - wrote the detailed page [on Empathy](https://virtues.provable.dev/docs/2trinity/love) to show exactly how my ethos understands this ethos and [announced](https://x.com/ctzurcanu/status/2003122116431126538).
-- wrote about [Ethical Empathy](/empathy): application of an ethos of empathy to itself (by having empathy with other ethoses).
+- wrote about [Ethical Empathy](https://ctzurcanu.github.io/ethos/empathy): application of an ethos of empathy to itself (by having empathy with other ethoses).
 1. Present conclusion: Brian is not serious about abiding by his ethos: he never answered nor acted on [this message](https://x.com/ctzurcanu/status/2005307425478595024).
 
 ---
@@ -1504,12 +1505,12 @@ Example 3: A disciple has the duty to defend the ethos of the lineage and to kee
 - [video 2](https://youtu.be/Vrz-wt90Sls?si=2jyDMY66RuzGKcVS)
 
 1. Recognition: I have left a commentary on the video and recognized this as being ethos. Commentary was deleted. I have exchanged email messages instead. 
-1. Classification: Mihai's ethos meets the criteria of [Minimal Ethos](/phylogeny/minimal), but I cannot be sure without further dialogue.
+1. Classification: Mihai's ethos meets the criteria of [Minimal Ethos](https://ctzurcanu.github.io/ethos/phylogeny/minimal), but I cannot be sure without further dialogue.
   1. not upgradeable: Mihai's answers did not clarify this yet
   1. not joinable
   1. not challengeable: this was clarified in video 2
 1. Dialogue: I have made several attempts to dialogue with Mr. Rapcea by email. Limited answers by email. Provable upon request. But a clarification by YT video 2 was provided.
-- an invitation for collaboration was received: https://www.facebook.com/ValulDemocratiei/posts/pfbid02TwX9YwevZX8wsAMiBT1BQaPSH5PWdm56Kj5zmBuUm5Zr8vbaBTJN6EHdJTpRoi5Sl and was [accepted](/empathy/cooperations/petition1).
+- an invitation for collaboration was received: https://www.facebook.com/ValulDemocratiei/posts/pfbid02TwX9YwevZX8wsAMiBT1BQaPSH5PWdm56Kj5zmBuUm5Zr8vbaBTJN6EHdJTpRoi5Sl and was [accepted](https://ctzurcanu.github.io/ethos/empathy/cooperations/petition1).
 1. Present conclusion: Mihai Rapcea has an ethos that is relatively well-established, but not challengeable.
 
 ---

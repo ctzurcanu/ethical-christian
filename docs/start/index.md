@@ -8,10 +8,11 @@ title: Start Here
 
 ### The Texts Used
 
-- [On Ethos](./whole-ethos.md): the Theory of Ethos summarized from the [On Ethos site](https://ctzurcanu.github.io/ethos/phylogeny/)
-- [On Virtues](./whole-virtues.md): the secondary virtue theory summarized from the [On Virtues site](https://virtues.provable.dev/docs/)
+- [On Ethos](/whole-ethos): the Theory of Ethos summarized from the [On Ethos site](https://ctzurcanu.github.io/ethos/phylogeny/)
+- [On Virtues](/whole-virtues): the secondary virtue theory summarized from the [On Virtues site](https://virtues.provable.dev/docs/)
 - The International Standard Version (ISV) of the Bible from [BibleGateway.com](https://www.biblegateway.com/)
 - [The Didache](./didache.md), in Kirsopp Lake's public-domain translation
+- [Ethical Christian (Complete)](/whole-ethical-christian), the generated portable compilation of this project's public documentation
 
 
 ### What “ethical” means
