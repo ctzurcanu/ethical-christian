@@ -430,10 +430,29 @@ This does not yet amount to the Theory of Ethos declaration `live_ethos`, which 
 
 ## Witness
 
- appears in:
+appears in:
 
-- [Matthew 7:12](https://search.biblegateway.com/passage/?search=Matthew%207%3A12&version=ISV) 
-- [Matthew 22:36-40](https://search.biblegateway.com/passage/?search=Matthew%2022%3A36-40&version=ISV)
+- [Matthew 7:12](https://www.biblegateway.com/passage/?search=Matthew%207%3A12&version=ISV)
+- [Matthew 22:36–40](https://www.biblegateway.com/passage/?search=Matthew%2022%3A36-40&version=ISV)
+- [Luke 10:17](https://www.biblegateway.com/passage/?search=Luke%2010%3A17&version=ISV), for the disciples acting in Jesus' name
+
+Matthew states the Positive Golden Rule as an active command and connects it with the Law and the Prophets. Matthew 22 supplies Jesus' two greatest commandments. Luke 10:17 supplies the representative setting in which Jesus' disciples report acting in his name.
+
+### Quotes
+
+Matthew 7:12 `The Golden Rule`
+
+> 12 Therefore, whatever you want people to do for you, do the same for them, because this summarizes the Law and the Prophets.”
+
+Matthew 22:36–40 `The Greatest Commandment`
+
+> 36 “Teacher, which is the greatest commandment in the Law?”
+
+> 37 Jesus told him, “‘You must love the Lord your God with all your heart, with all your soul, and with all your mind.’ 38 This is the greatest and most important commandment. 39 The second is exactly like it: ‘You must love your neighbor as yourself.’ 40 All the Law and the Prophets depend on these two commandments.”
+
+Luke 10:17 `The Seventy Return`
+
+> 17 The 70 disciples came back and joyously reported, “Lord, even the demons are submitting to us in your name!”
 
 ## Unique to Christianity
 
@@ -449,8 +468,9 @@ Therefore the commandment is:
 
 And Jesus' community had a clear and distinct ethos. Jesus told them explicitly to act in the name of something other than themselves.
 
-[Luke 10:17](https://www.biblegateway.com/passage/?search=Luke%2010%3A17&version=ISV):
-The 70 disciples came back and joyously reported, “Lord, even the demons are submitting to us in your name!”
+## Theory Mapping
+
+`positive_reciprocity`, action in the name of a fully-developed ethos, and ethos–ethos treatment.
 
 ## Ethical Lessons
 
@@ -470,25 +490,109 @@ The 70 disciples came back and joyously reported, “Lord, even the demons are s
 
 **Proposed declaration — `strongly implied`**
 
-> `recognize_by_relation_and_action`: A person outside the disciple group is treated as an ethical actor whose compatibility is tested by conduct, not erased by non-membership.
+> `ack_other_ethos`: I acknowledge the existence of other ethos(es) than mine.
 
-In [Mark 9:38–41](https://www.biblegateway.com/passage/?search=Mark%209%3A38-41&version=ISV) and [Luke 9:49–50](https://www.biblegateway.com/passage/?search=Luke%209%3A49-50&version=ISV), the disciples want to stop someone acting in Jesus' name because he does not follow with them. Jesus treats the unaffiliated actor's beneficial action as evidence against immediate exclusion. In [Luke 10:29–37](https://www.biblegateway.com/passage/?search=Luke%2010%3A29-37&version=ISV), the Samaritan becomes the enacted neighbor despite inherited group boundaries.
+> `ack_other_ethos_duties`: I acknowledge I have duties towards other ethos(es) than mine.
 
-This is recognition, not yet the stronger Theory of Ethos claim that every other ethos has equal importance unless disproved. The Gospels also contain severe judgments of persons and institutions. The narrower result is that outside identity does not by itself eliminate agency, possible compatibility, or the obligation owed to another.
+## Witness
 
-**Theory mapping:** `ack_other_ethos`, partial alignment, person–group and group–group boundaries. **Open question:** what authorization is required before an outsider may publicly use Jesus' name?
+appears in:
+
+- [Matthew 22:15–22](https://www.biblegateway.com/passage/?search=Matthew%2022%3A15-22&version=ISV)
+- [Mark 12:13–17](https://www.biblegateway.com/passage/?search=Mark%2012%3A13-17&version=ISV)
+- [Luke 20:20–26](https://www.biblegateway.com/passage/?search=Luke%2020%3A20-26&version=ISV)
+
+Jesus is asked whether paying taxes to Caesar is lawful. The question attempts to force a choice between the Roman imperial ethos and the ethos of God. Jesus first makes the questioners identify Caesar's face and name on the denarius. He then recognizes that there are things attributable to Caesar while preserving a distinct claim for God.
+
+### Quotes
+
+Matthew 22:18–22 `A Question about Paying Taxes`
+
+> 18 Recognizing their wickedness, Jesus asked, “Why are you testing me, you hypocrites? 19 Show me the coin used for the tax.”
+
+> They brought him a denarius. 20 Then he asked them, “Whose face and name is this?”
+
+> 21 They told him, “Caesar’s.”
+
+> So he told them, “Then give back to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+
+> 22 When they heard this, they were amazed. Then they left him and went away.
+
+Mark 12:15–17 `A Question about Paying Taxes`
+
+> 15 Seeing through their hypocrisy, Jesus replied to them, “Why are you testing me? Bring me a denarius and let me look at it.”
+
+> 16 So they brought one. Then he asked them, “Whose face and name are on this?”
+
+> They told him, “Caesar’s.”
+
+> 17 So Jesus told them, “Give back to Caesar the things that are Caesar’s, and to God the things that are God’s.” And they were utterly amazed at him.
+
+Luke 20:23–26 `A Question about Paying Taxes`
+
+> 23 But he discerned their craftiness and responded to them, 24 “Show me a denarius. Whose face and name does it have?”
+
+> “Caesar’s,” they replied.
+
+> 25 So he told them, “Then give back to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+
+> 26 So they couldn’t catch him before the people in what he said. Amazed at his answer, they became silent.
+
+## Theory Mapping
+
+`ack_other_ethos`, resource attribution, person–institution relations, and the boundary between ethoses. Caesar's face and name make the denarius evidence of another ethos and of a claim associated with it. Recognition does not by itself mean membership, approval, a shared ethos, or the equal importance expressed by `ack_other_ethos_importance`. **Open question:** the saying requires the distinction but does not enumerate everything that belongs to Caesar or everything that belongs to God.
+
+## Ethical Lessons
+
+- another ethos can be recognized through its name, representatives, products, and resources
+- recognizing what belongs to another ethos does not make that ethos one's own
+- recognizing another ethos does not establish that it has equal importance to one's ruling ethos
+- one may pay dues to other ethoses without *de facto* allegience
+- a person can meet a particular claim of another ethos while preserving a distinct ruling allegiance
+- an interaction between distinct ethoses can be ethically regulated without making them a shared ethos
+- the scope of another ethos's claims must be identified rather than assumed
 
 ---
 
-# Recognition of Same Ethos
+# Recognition of Shared Ethos
 
 **Proposed declaration — `strongly implied`**
 
-> `recognize_by_action`: A person outside the disciple group is treated as an ethical actor whose ethos is tested by conduct, not erased by non-membership.
+> `recognize_shared_ethos`: A person outside an ethical group is treated as an ethical actor whose ethos is tested by conduct, not cancelled by non-membership.
 
-In [Mark 9:38–41](https://www.biblegateway.com/passage/?search=Mark%209%3A38-41&version=ISV) and [Luke 9:49–50](https://www.biblegateway.com/passage/?search=Luke%209%3A49-50&version=ISV), the disciples want to stop someone acting in Jesus' name because he does not follow with them. Jesus treats the unaffiliated actor's beneficial action as evidence against immediate exclusion. 
+## Witness
 
-**Theory mapping:** `ack_other_ethos`, partial alignment, person–group and group–group boundaries. **Open question:** what authorization is required before an outsider may publicly use Jesus' name?
+appears in:
+
+- [Mark 9:38–41](https://www.biblegateway.com/passage/?search=Mark%209%3A38-41&version=ISV)
+- [Luke 9:49–50](https://www.biblegateway.com/passage/?search=Luke%209%3A49-50&version=ISV)
+
+The disciples want to stop someone acting in Jesus' name because he does not follow with them. Jesus treats the unaffiliated actor's beneficial action as evidence of a shared ethos.
+
+### Quotes
+
+Mark 9:38–41 `The True Follower of Jesus`
+
+> 38 John told Jesus, “Teacher, we saw someone driving out demons in your name. We tried to stop him, because he wasn’t a follower like us.”
+
+> 39 But Jesus said, “Don’t stop him, because no one who works a miracle in my name can slander me soon afterwards. 40 Whoever is not against us is for us. 41 I tell all of you[b] with certainty, whoever gives you a cup of water to drink because you belong to the Messiah[c] will never lose his reward.”
+
+Luke 9:49–50 `The Person who is Not against You is for You`
+
+> 49 John said, “Master, we saw someone driving out demons in your name. We tried to stop him, because he wasn’t a follower like us.”
+
+> 50 Jesus told him, “Don’t stop him! Because whoever is not against you is for you.”
+
+## Theory Mapping
+
+`ack_other_ethos`, partial alignment, person–group and group–group boundaries. **Open question:** what authorization is required before an outsider may publicly use Jesus' name?
+
+## Ethical Lessons
+
+- shared ethos is not proven by formal affiliation or membership, but by actions
+- shared ethos is provable or *de facto* affiliation
+- actions can and should be done in the name of an ethos
+- 2 distinct ethoses are mutually-inclusive: if they are not against each other, they have a shared ethos
 
 ---
 
@@ -971,17 +1075,27 @@ Jesus forms more than an audience: he selects disciples, authorizes representati
 
 # Ethos Seed
 
-[The Parable of the Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed)
+**Proposed declaration — `tentative`**
 
-> The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+> `small_ethos_seed_grows`: An ethos can begin as something small and develop into a social form that supplies shelter to others.
 
-> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
+## Witness
 
- appears in:
+appears in:
 
 - [Matthew (13:31–32)](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31%E2%80%9332&version=ISV)
 - [Mark (4:30–32)](https://www.biblegateway.com/passage/?search=Mark%204%3A30%E2%80%9332&version=ISV)
 - [Luke (13:18–19)](https://www.biblegateway.com/passage/?search=Luke%2013%3A18%E2%80%9319&version=ISV)
+
+The [Parable of the Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed) compares the kingdom of heaven to a very small seed that develops into a plant large enough to shelter birds. The ethical reading here treats that developing social form as an ethos seed.
+
+### Quotes
+
+Matthew 13:31–32 `The Parable of the Mustard Seed` (KJV)
+
+> The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+
+> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 
 ## Mustard Seed
 
@@ -1002,6 +1116,10 @@ In this parable is said to be "greatest among herbs"
 - fast moving
 - fragile
 - social
+
+## Theory Mapping
+
+ethos formation and growth, shared resources, shelter, immunity, and the relation between an ethos and its volunteers.
 
 ## Ethical Lessons
 
@@ -1473,13 +1591,35 @@ The rule protects conscience without making every asserted offense an unlimited 
 
 # Ethos as Judge
 
-[1 Corinthians 9-13](https://www.biblegateway.com/passage/?search=1%20Corinthians%208&version=ISV):
+**Proposed declaration — `strongly implied`**
+
+> `ethos_judges_member_action`: A member's otherwise permitted action is judged by its foreseeable effect on weaker members and, through them, on the ethos represented by the Messiah.
+
+## Witness
+
+appears in:
+
+- [1 Corinthians 8:9–13](https://www.biblegateway.com/passage/?search=1%20Corinthians%208%3A9-13&version=ISV)
+
+Paul asks members who possess knowledge to judge their exercise of a right by its effect on weaker members. Wounding another member's conscience is treated not as an isolated private act but as sinning against the Messiah.
+
+### Quotes
+
+1 Corinthians 8:9–13 `Food Offered to Idols`
 
 > 9 But you must see to it that this right of yours does not become a stumbling block for those who are weak. 
+
 > 10 For if anyone with a weak conscience sees you, who know better, eating in an idol’s temple, he will be encouraged to eat what has been offered to idols, won’t he? 
+
 > 11 In that case, the weak brother for whom the Messiah died is ruined by your knowledge. 
+
 > 12 When you sin against your brothers in this way and wound their weak consciences, you are sinning against the Messiah.
+
 > 13 Therefore, if food that I eat causes my brother to stumble, I will never eat meat again, in order to keep my brother from stumbling.
+
+## Theory Mapping
+
+member–ethos judgment, responsibility for other members, person–group relations, and representation of the Messiah.
 
 ## Ethical Lessons
 

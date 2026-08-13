@@ -5,17 +5,27 @@ sidebar_position: 1
 
 # Ethos Seed
 
-[The Parable of the Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed)
+**Proposed declaration — `tentative`**
 
-> The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+> `small_ethos_seed_grows`: An ethos can begin as something small and develop into a social form that supplies shelter to others.
 
-> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
+## Witness
 
- appears in:
+appears in:
 
 - [Matthew (13:31–32)](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31%E2%80%9332&version=ISV)
 - [Mark (4:30–32)](https://www.biblegateway.com/passage/?search=Mark%204%3A30%E2%80%9332&version=ISV)
 - [Luke (13:18–19)](https://www.biblegateway.com/passage/?search=Luke%2013%3A18%E2%80%9319&version=ISV)
+
+The [Parable of the Mustard Seed](https://en.wikipedia.org/wiki/Parable_of_the_Mustard_Seed) compares the kingdom of heaven to a very small seed that develops into a plant large enough to shelter birds. The ethical reading here treats that developing social form as an ethos seed.
+
+### Quotes
+
+Matthew 13:31–32 `The Parable of the Mustard Seed` (KJV)
+
+> The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+
+> Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 
 ## Mustard Seed
 
@@ -36,6 +46,10 @@ In this parable is said to be "greatest among herbs"
 - fast moving
 - fragile
 - social
+
+## Theory Mapping
+
+ethos formation and growth, shared resources, shelter, immunity, and the relation between an ethos and its volunteers.
 
 ## Ethical Lessons
 
