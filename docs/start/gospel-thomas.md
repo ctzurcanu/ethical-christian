@@ -385,7 +385,7 @@ He said to [her], "Lucky are those who have heard the word of the Father and hav
 Jesus said, "Whoever has come to know the world has discovered the body, and whoever has discovered the body, of that one the world is not worthy."
 
 ## 81. 
-Jesus said, "Let one who has become wealthy reign, and let one who has power renounce <it>."
+Jesus said, "Let one who has become wealthy reign, and let one who has power renounce <it/>."
 
 ## 82. 
 Jesus said, "Whoever is near me is near the fire, and whoever is far from me is far from the (Father's) kingdom."
