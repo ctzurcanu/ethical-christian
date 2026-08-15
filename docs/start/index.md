@@ -12,6 +12,7 @@ title: Start Here
 - [On Virtues](/whole-virtues): the secondary virtue theory summarized from the [On Virtues site](https://virtues.provable.dev/docs/)
 - The International Standard Version (ISV) of the Bible from [BibleGateway.com](https://www.biblegateway.com/)
 - [The Didache](./didache.md), in Kirsopp Lake's public-domain translation
+- [The Gospel of Thomas](./gospel-thomas.md), translated by Stephen Patterson and Marvin Meyer
 - [Ethical Christian (Complete)](/whole-ethical-christian), the generated portable compilation of this project's public documentation
 
 

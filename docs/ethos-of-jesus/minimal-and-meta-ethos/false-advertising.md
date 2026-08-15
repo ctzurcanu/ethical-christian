@@ -26,9 +26,11 @@ appears in:
 
 - an ethos that does not produce the advertised virtuous results is falsely advertising
 - an ethos that advertise virtues falsely deserves to go extinct
-- an ethos has the ethical duty to provable offer the virtues/services it advertises
+- an ethos has the ethical duty to provably offer the virtues/services it advertises
+- even more so if an ethos is advertising miracles
 
 ## Indirect Ethical Lessons
 
 - an ethos exists to nurture virtues
 - an ethos has to have a public petition system that can prove that it treats all the petitions or at least links each petition to a petition type and each petition type to a solution
+- an ethos active in a domain should forward to other ethoses in the same domain the people in need to a service pertinent to that domain that the initial ethos does not provide
