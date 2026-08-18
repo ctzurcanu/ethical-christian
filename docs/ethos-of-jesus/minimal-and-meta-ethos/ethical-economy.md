@@ -44,6 +44,4 @@ appears in:
 
 ## Indirect Ethical Lessons
 
-- an ethos exists to nurture virtues
-- an ethos has to have a public petition system that can prove that it treats all the petitions or at least links each petition to a petition type and each petition type to a solution
-- an ethos active in a domain should forward to other ethoses in the same domain the people in need to a service pertinent to that domain that the initial ethos does not provide
+- an ethos is treating everybody fairly in aggregate: the ethos is timeless and anybody less than timeless cannot be as fair as something timeless
