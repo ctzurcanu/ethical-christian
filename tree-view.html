@@ -1,0 +1,644 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Docs filesystem tree</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #18231f;
+        --muted: #6c7771;
+        --line: #dbe3dc;
+        --line-strong: #c5d1c8;
+        --paper: #f7faf7;
+        --panel: #ffffff;
+        --green: #176b4a;
+        --green-dark: #0e4b35;
+        --green-wash: #e7f2eb;
+        --amber: #99651a;
+        --amber-wash: #fff3db;
+        --shadow: 0 18px 45px rgba(24, 35, 31, 0.08);
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        margin: 0;
+        min-width: 320px;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 10% 0%, rgba(216, 239, 223, 0.7), transparent 31rem),
+          var(--paper);
+        font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 14px;
+      }
+
+      button, input { font: inherit; }
+
+      .shell {
+        width: min(1640px, calc(100% - 36px));
+        margin: 0 auto;
+        padding: 34px 0 48px;
+      }
+
+      .masthead {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 24px;
+        margin-bottom: 24px;
+      }
+
+      .eyebrow {
+        margin: 0 0 8px;
+        color: var(--green);
+        font-size: 11px;
+        font-weight: 750;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(30px, 4vw, 50px);
+        font-weight: 500;
+        letter-spacing: -0.045em;
+        line-height: 1;
+      }
+
+      .subtitle {
+        max-width: 730px;
+        margin: 11px 0 0;
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .generated {
+        flex: 0 0 auto;
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.5;
+        text-align: right;
+      }
+
+      .toolbar, .panel {
+        border: 1px solid var(--line);
+        background: rgba(255, 255, 255, 0.88);
+        box-shadow: var(--shadow);
+      }
+
+      .toolbar {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 14px;
+        padding: 12px;
+        border-radius: 16px;
+        margin-bottom: 18px;
+      }
+
+      .toolbar-left, .toolbar-right, .mode-switch {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+
+      .mode-switch {
+        padding: 4px;
+        border: 1px solid var(--line);
+        border-radius: 11px;
+        background: #f4f7f4;
+      }
+
+      .mode-button, .clear-button {
+        border: 0;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: 160ms ease;
+      }
+
+      .mode-button {
+        padding: 8px 13px;
+        color: var(--muted);
+        background: transparent;
+        font-weight: 700;
+      }
+
+      .mode-button:hover, .mode-button:focus-visible { color: var(--green-dark); }
+      .mode-button.active { color: var(--green-dark); background: #fff; box-shadow: 0 2px 8px rgba(24, 35, 31, 0.08); }
+
+      .search-wrap {
+        display: flex;
+        align-items: center;
+        min-width: min(42vw, 440px);
+        padding: 0 11px;
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        color: var(--muted);
+        background: #fff;
+      }
+
+      .search-wrap input {
+        width: 100%;
+        padding: 9px 8px;
+        border: 0;
+        outline: 0;
+        color: var(--ink);
+        background: transparent;
+      }
+
+      .search-wrap:focus-within { border-color: var(--green); box-shadow: 0 0 0 3px rgba(23, 107, 74, 0.12); }
+
+      .clear-button {
+        padding: 8px 10px;
+        color: var(--muted);
+        background: transparent;
+      }
+
+      .clear-button:hover { color: var(--green-dark); background: var(--green-wash); }
+
+      .layout {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(330px, 420px);
+        align-items: start;
+        gap: 18px;
+      }
+
+      .panel { min-width: 0; border-radius: 18px; overflow: hidden; }
+
+      .panel-heading {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 17px 20px 14px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .panel-heading h2 {
+        margin: 0;
+        font-size: 14px;
+        letter-spacing: 0.02em;
+      }
+
+      .panel-heading span { color: var(--muted); font-size: 12px; }
+
+      .tree-view { padding: 12px 14px 18px; }
+
+      details { min-width: 0; }
+      details + details { margin-top: 2px; }
+
+      details > summary {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 7px;
+        border-radius: 8px;
+        cursor: pointer;
+        list-style: none;
+      }
+
+      details > summary::-webkit-details-marker { display: none; }
+      details > summary::before { content: "›"; width: 13px; color: var(--muted); font-size: 20px; line-height: 10px; transition: transform 160ms ease; }
+      details[open] > summary::before { transform: rotate(90deg); }
+      details > summary:hover { background: #f2f7f3; }
+
+      .folder-icon { color: var(--green); font-size: 15px; }
+      .folder-name { font-weight: 750; }
+      .folder-meta { margin-left: auto; color: var(--muted); font-size: 11px; white-space: nowrap; }
+      .folder-description { margin: 0 8px 8px 36px; color: var(--muted); font-size: 12px; line-height: 1.45; }
+      .folder-children { margin-left: 18px; padding-left: 11px; border-left: 1px solid var(--line); }
+
+      .tree-file {
+        display: grid;
+        grid-template-columns: minmax(150px, 0.9fr) minmax(220px, 1.6fr) auto;
+        align-items: center;
+        gap: 12px;
+        width: 100%;
+        padding: 9px 9px 4px;
+        border: 0;
+        border-radius: 8px 8px 0 0;
+        color: var(--ink);
+        background: transparent;
+        cursor: pointer;
+        text-align: left;
+      }
+
+      .tree-file:hover, .tree-file.selected { background: var(--green-wash); }
+      .tree-file-name { overflow: hidden; font-weight: 700; text-overflow: ellipsis; white-space: nowrap; }
+      .tree-file-title { overflow: hidden; color: var(--muted); text-overflow: ellipsis; white-space: nowrap; }
+      .tree-file-meta { display: flex; align-items: center; justify-content: flex-end; gap: 6px; color: var(--muted); font-size: 11px; white-space: nowrap; }
+      .tree-file-description { margin: 0 10px 9px 30px; color: #56635b; font-size: 12px; line-height: 1.45; }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        min-height: 21px;
+        padding: 2px 7px;
+        border-radius: 999px;
+        font-size: 10px;
+        font-weight: 800;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .badge.me { color: var(--green-dark); background: var(--green-wash); }
+      .badge.other { color: var(--amber); background: var(--amber-wash); }
+      .badge.unknown { color: var(--muted); background: #edf0ed; }
+      .badge.text { color: #315d78; background: #e8f2f8; }
+      .badge.binary { color: #6b536e; background: #f2eaf3; }
+
+      .table-wrap { overflow: auto; }
+      table { width: 100%; min-width: 1000px; border-collapse: collapse; }
+      th, td { padding: 11px 14px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+      th { position: sticky; top: 0; z-index: 1; color: var(--muted); background: #f5f8f5; font-size: 11px; letter-spacing: 0.05em; text-transform: uppercase; }
+      th button { border: 0; color: inherit; background: transparent; cursor: pointer; font: inherit; letter-spacing: inherit; text-align: left; text-transform: inherit; }
+      th button:hover, th button:focus-visible { color: var(--green); }
+      th button::after { content: " ↕"; color: #a4afa7; }
+      th button.sorted-asc::after { content: " ↑"; color: var(--green); }
+      th button.sorted-desc::after { content: " ↓"; color: var(--green); }
+      tbody tr { cursor: pointer; }
+      tbody tr:hover, tbody tr.selected { background: var(--green-wash); }
+      td.path-cell, td.description-cell { color: var(--muted); font-size: 12px; line-height: 1.45; }
+      td.path-cell { max-width: 300px; overflow-wrap: anywhere; }
+      td.description-cell { min-width: 280px; }
+      .name-cell { font-weight: 700; white-space: nowrap; }
+
+      .detail-panel { position: sticky; top: 18px; }
+      .detail-body { padding: 20px; }
+      .detail-placeholder { color: var(--muted); line-height: 1.6; }
+      .detail-title { margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: 26px; font-weight: 500; line-height: 1.1; }
+      .detail-path { margin: 8px 0 15px; color: var(--muted); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; overflow-wrap: anywhere; }
+      .detail-badges { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px; }
+      .detail-description { margin: 0 0 18px; color: #46554c; line-height: 1.55; }
+      .meta-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+      .meta-label { display: block; margin-bottom: 4px; color: var(--muted); font-size: 10px; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
+      .meta-value { display: block; overflow-wrap: anywhere; font-size: 12px; line-height: 1.4; }
+      .source-heading { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; margin: 20px 0 8px; }
+      .source-heading h3 { margin: 0; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
+      .source-heading span { color: var(--muted); font-size: 11px; }
+      pre { max-height: 54vh; margin: 0; padding: 14px; overflow: auto; border: 1px solid var(--line); border-radius: 10px; color: #3a4a41; background: #f5f8f5; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; }
+
+      .empty { padding: 28px 20px; color: var(--muted); text-align: center; }
+      .error { padding: 24px; color: #8c2e2e; background: #fff0f0; }
+
+      @media (max-width: 1050px) {
+        .layout { grid-template-columns: minmax(0, 1fr); }
+        .detail-panel { position: static; }
+      }
+
+      @media (max-width: 700px) {
+        .shell { width: min(100% - 22px, 1640px); padding-top: 22px; }
+        .masthead, .toolbar { align-items: stretch; flex-direction: column; }
+        .generated { text-align: left; }
+        .toolbar-left, .toolbar-right { width: 100%; }
+        .search-wrap { min-width: 0; flex: 1; }
+        .tree-file { grid-template-columns: minmax(0, 1fr) auto; }
+        .tree-file-title { display: none; }
+        .tree-file-description { margin-left: 18px; }
+        .folder-children { margin-left: 7px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="masthead">
+        <div>
+          <p class="eyebrow">Filesystem reading room</p>
+          <h1>Docs tree</h1>
+          <p class="subtitle">A navigable view of <code>docs/</code>, carrying each source text alongside its edit history, author check, and a concise account of the event or subject covered.</p>
+        </div>
+        <div id="generated" class="generated">Loading tree.json…</div>
+      </header>
+
+      <div class="toolbar">
+        <div class="toolbar-left">
+          <div class="mode-switch" role="tablist" aria-label="View mode">
+            <button class="mode-button active" data-mode="tree" role="tab" aria-selected="true">Tree</button>
+            <button class="mode-button" data-mode="table" role="tab" aria-selected="false">Table</button>
+          </div>
+          <span id="result-count" class="panel-heading span">Loading…</span>
+        </div>
+        <div class="toolbar-right">
+          <label class="search-wrap" aria-label="Filter files">
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" placeholder="Filter by path, title, or description" />
+          </label>
+          <button id="clear-search" class="clear-button" type="button">Clear</button>
+        </div>
+      </div>
+
+      <main class="layout">
+        <section class="panel" aria-live="polite">
+          <div class="panel-heading">
+            <h2 id="view-title">Filesystem tree</h2>
+            <span id="view-note">Folders first · alphabetical within each level</span>
+          </div>
+          <div id="tree-view" class="tree-view"></div>
+          <div id="table-view" class="table-wrap" hidden>
+            <table>
+              <thead>
+                <tr>
+                  <th><button data-sort="name" type="button">Name</button></th>
+                  <th><button data-sort="path" type="button">Path</button></th>
+                  <th><button data-sort="type" type="button">Type</button></th>
+                  <th><button data-sort="title" type="button">Title</button></th>
+                  <th><button data-sort="lastEdited" type="button">Last edited</button></th>
+                  <th><button data-sort="modifiedByMe" type="button">Modified by me</button></th>
+                  <th><button data-sort="bytes" type="button">Bytes</button></th>
+                  <th><button data-sort="description" type="button">Description</button></th>
+                </tr>
+              </thead>
+              <tbody id="table-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="panel detail-panel">
+          <div class="panel-heading">
+            <h2>Source detail</h2>
+            <span id="detail-kind">Select a file</span>
+          </div>
+          <div id="detail-body" class="detail-body">
+            <p class="detail-placeholder">Choose a file in either view to read its complete source text and inspect the edit metadata.</p>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script>
+      const state = {
+        data: null,
+        files: [],
+        mode: 'tree',
+        query: '',
+        selectedPath: null,
+        sortKey: 'path',
+        sortDirection: 'asc',
+      };
+
+      const $ = (selector) => document.querySelector(selector);
+      const treeView = $('#tree-view');
+      const tableView = $('#table-view');
+      const detailBody = $('#detail-body');
+
+      function escapeText(value) {
+        return value == null ? '' : String(value);
+      }
+
+      function flatten(node, result = []) {
+        if (node.kind === 'file') result.push(node);
+        if (node.children) node.children.forEach((child) => flatten(child, result));
+        return result;
+      }
+
+      function formatBytes(bytes) {
+        if (bytes < 1024) return `${bytes} B`;
+        if (bytes < 1024 * 1024) return `${(bytes / 1024).toFixed(1)} KB`;
+        return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
+      }
+
+      function formatDate(value) {
+        if (!value) return 'Unknown';
+        const date = new Date(value);
+        return Number.isNaN(date.valueOf()) ? value : date.toLocaleString([], {dateStyle: 'medium', timeStyle: 'short'});
+      }
+
+      function editBadge(value) {
+        if (value === true) return '<span class="badge me">Me</span>';
+        if (value === false) return '<span class="badge other">Not me</span>';
+        return '<span class="badge unknown">Unknown</span>';
+      }
+
+      function typeBadge(node) {
+        return node.isText ? '<span class="badge text">Text</span>' : '<span class="badge binary">Binary</span>';
+      }
+
+      function matches(node) {
+        if (!state.query) return true;
+        const query = state.query.toLowerCase();
+        return [node.name, node.path, node.title, node.description, node.extension].some((value) => escapeText(value).toLowerCase().includes(query));
+      }
+
+      function directoryHasMatch(node) {
+        return node.children.some((child) => child.kind === 'file' ? matches(child) : directoryHasMatch(child));
+      }
+
+      function makeFolder(node, depth) {
+        const details = document.createElement('details');
+        details.open = depth === 0 || Boolean(state.query && directoryHasMatch(node));
+
+        const summary = document.createElement('summary');
+        summary.innerHTML = `<span class="folder-icon" aria-hidden="true">▰</span><span class="folder-name"></span><span class="folder-meta">${node.fileCount} files · ${node.directoryCount} folders</span>`;
+        summary.querySelector('.folder-name').textContent = node.name;
+        details.appendChild(summary);
+
+        const description = document.createElement('p');
+        description.className = 'folder-description';
+        description.textContent = node.description;
+        details.appendChild(description);
+
+        const children = document.createElement('div');
+        children.className = 'folder-children';
+        node.children.forEach((child) => {
+          if (child.kind === 'directory') {
+            if (!state.query || directoryHasMatch(child)) children.appendChild(makeFolder(child, depth + 1));
+          } else if (matches(child)) {
+            children.appendChild(makeFileRow(child, true));
+          }
+        });
+        if (children.childElementCount) details.appendChild(children);
+        return details;
+      }
+
+      function makeFileRow(node, treeMode) {
+        if (!treeMode) return null;
+        const wrapper = document.createElement('div');
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = `tree-file${state.selectedPath === node.path ? ' selected' : ''}`;
+        button.dataset.path = node.path;
+        button.innerHTML = '<span class="tree-file-name"></span><span class="tree-file-title"></span><span class="tree-file-meta"></span>';
+        button.querySelector('.tree-file-name').textContent = node.name;
+        button.querySelector('.tree-file-title').textContent = node.title;
+        button.querySelector('.tree-file-meta').innerHTML = `${formatDate(node.lastEdited)} ${editBadge(node.modifiedByMe)}`;
+        button.addEventListener('click', () => selectFile(node.path));
+        wrapper.appendChild(button);
+
+        const description = document.createElement('p');
+        description.className = 'tree-file-description';
+        description.textContent = node.description;
+        wrapper.appendChild(description);
+        return wrapper;
+      }
+
+      function renderTree() {
+        treeView.innerHTML = '';
+        if (!state.data || !directoryHasMatch(state.data.tree)) {
+          treeView.innerHTML = '<div class="empty">No files match this filter.</div>';
+          return;
+        }
+        treeView.appendChild(makeFolder(state.data.tree, 0));
+      }
+
+      function sortValue(node, key) {
+        if (key === 'type') return node.extension || (node.isText ? 'text' : 'binary');
+        if (key === 'modifiedByMe') return node.modifiedByMe === true ? 2 : node.modifiedByMe === false ? 1 : 0;
+        if (key === 'lastEdited') return Date.parse(node.lastEdited || '') || 0;
+        return node[key] == null ? '' : node[key];
+      }
+
+      function renderTable() {
+        const body = $('#table-body');
+        body.innerHTML = '';
+        const filtered = state.files.filter(matches).slice().sort((a, b) => {
+          const left = sortValue(a, state.sortKey);
+          const right = sortValue(b, state.sortKey);
+          const comparison = typeof left === 'number' && typeof right === 'number'
+            ? left - right
+            : String(left).localeCompare(String(right), undefined, {numeric: true, sensitivity: 'base'});
+          return comparison * (state.sortDirection === 'asc' ? 1 : -1);
+        });
+
+        if (!filtered.length) {
+          body.innerHTML = '<tr><td colspan="8" class="empty">No files match this filter.</td></tr>';
+        } else {
+          filtered.forEach((node) => {
+            const row = document.createElement('tr');
+            row.dataset.path = node.path;
+            if (state.selectedPath === node.path) row.className = 'selected';
+            row.innerHTML = '<td class="name-cell"></td><td class="path-cell"></td><td></td><td></td><td></td><td></td><td></td><td class="description-cell"></td>';
+            row.children[0].textContent = node.name;
+            row.children[1].textContent = node.path;
+            row.children[2].innerHTML = typeBadge(node);
+            row.children[3].textContent = node.title;
+            row.children[4].textContent = formatDate(node.lastEdited);
+            row.children[5].innerHTML = editBadge(node.modifiedByMe);
+            row.children[6].textContent = formatBytes(node.bytes);
+            row.children[7].textContent = node.description;
+            row.addEventListener('click', () => selectFile(node.path));
+            body.appendChild(row);
+          });
+        }
+
+        document.querySelectorAll('th button[data-sort]').forEach((button) => {
+          button.classList.toggle('sorted-asc', button.dataset.sort === state.sortKey && state.sortDirection === 'asc');
+          button.classList.toggle('sorted-desc', button.dataset.sort === state.sortKey && state.sortDirection === 'desc');
+        });
+      }
+
+      function updateResultCount() {
+        const count = state.files.filter(matches).length;
+        $('#result-count').textContent = `${count} of ${state.files.length} files`;
+      }
+
+      function renderDetail(node) {
+        if (!node) {
+          $('#detail-kind').textContent = 'Select a file';
+          detailBody.innerHTML = '<p class="detail-placeholder">Choose a file in either view to read its complete source text and inspect the edit metadata.</p>';
+          return;
+        }
+
+        $('#detail-kind').textContent = node.isText ? 'Readable source' : 'Binary artifact';
+        detailBody.innerHTML = '';
+        const title = document.createElement('h2');
+        title.className = 'detail-title';
+        title.textContent = node.title;
+        detailBody.appendChild(title);
+        const pathLine = document.createElement('p');
+        pathLine.className = 'detail-path';
+        pathLine.textContent = node.path;
+        detailBody.appendChild(pathLine);
+        const badges = document.createElement('div');
+        badges.className = 'detail-badges';
+        badges.innerHTML = `${typeBadge(node)} ${editBadge(node.modifiedByMe)}`;
+        detailBody.appendChild(badges);
+        const description = document.createElement('p');
+        description.className = 'detail-description';
+        description.textContent = node.description;
+        detailBody.appendChild(description);
+
+        const grid = document.createElement('div');
+        grid.className = 'meta-grid';
+        const metadata = [
+          ['Last edited', formatDate(node.lastEdited)],
+          ['Edited by', node.lastEditedBy ? `${node.lastEditedBy.name} (${node.lastEditedBy.email})` : 'No Git author'],
+          ['Size', formatBytes(node.bytes)],
+          ['Description', `${node.descriptionTokenCount} tokens`],
+        ];
+        metadata.forEach(([label, value]) => {
+          const item = document.createElement('div');
+          item.innerHTML = '<span class="meta-label"></span><span class="meta-value"></span>';
+          item.children[0].textContent = label;
+          item.children[1].textContent = value;
+          grid.appendChild(item);
+        });
+        detailBody.appendChild(grid);
+
+        const sourceHeading = document.createElement('div');
+        sourceHeading.className = 'source-heading';
+        sourceHeading.innerHTML = '<h3>Source text</h3><span></span>';
+        sourceHeading.children[1].textContent = node.isText ? `${node.lines} lines` : 'not readable as text';
+        detailBody.appendChild(sourceHeading);
+        const source = document.createElement('pre');
+        source.textContent = node.isText ? node.text : 'This file is binary and has no readable text payload.';
+        detailBody.appendChild(source);
+      }
+
+      function selectFile(path) {
+        state.selectedPath = path;
+        const node = state.files.find((file) => file.path === path);
+        renderDetail(node);
+        renderTree();
+        renderTable();
+        document.querySelector(`[data-path="${CSS.escape(path)}"]`)?.scrollIntoView({block: 'nearest'});
+      }
+
+      function setMode(mode) {
+        state.mode = mode;
+        document.querySelectorAll('.mode-button').forEach((button) => {
+          const active = button.dataset.mode === mode;
+          button.classList.toggle('active', active);
+          button.setAttribute('aria-selected', active ? 'true' : 'false');
+        });
+        treeView.hidden = mode !== 'tree';
+        tableView.hidden = mode !== 'table';
+        $('#view-title').textContent = mode === 'tree' ? 'Filesystem tree' : 'Sortable file table';
+        $('#view-note').textContent = mode === 'tree' ? 'Folders first · alphabetical within each level' : 'Click any column heading to sort';
+        if (mode === 'table') renderTable();
+      }
+
+      function render() {
+        renderTree();
+        renderTable();
+        updateResultCount();
+        renderDetail(state.files.find((file) => file.path === state.selectedPath));
+      }
+
+      document.querySelectorAll('.mode-button').forEach((button) => button.addEventListener('click', () => setMode(button.dataset.mode)));
+      $('#search').addEventListener('input', (event) => { state.query = event.target.value.trim(); render(); });
+      $('#clear-search').addEventListener('click', () => { $('#search').value = ''; state.query = ''; render(); });
+      document.querySelectorAll('th button[data-sort]').forEach((button) => button.addEventListener('click', () => {
+        if (state.sortKey === button.dataset.sort) state.sortDirection = state.sortDirection === 'asc' ? 'desc' : 'asc';
+        else { state.sortKey = button.dataset.sort; state.sortDirection = 'asc'; }
+        renderTable();
+      }));
+
+      fetch('/tree.json')
+        .then((response) => { if (!response.ok) throw new Error(`tree.json returned ${response.status}`); return response.json(); })
+        .then((data) => {
+          state.data = data;
+          state.files = flatten(data.tree);
+          $('#generated').innerHTML = `<strong>${data.stats.files} files</strong> · ${data.stats.directories} folders<br />Generated ${formatDate(data.generatedAt)}`;
+          render();
+        })
+        .catch((error) => {
+          $('#generated').textContent = 'Could not load tree.json';
+          treeView.innerHTML = `<div class="error">${error.message}</div>`;
+        });
+    </script>
+  </body>
+</html>
