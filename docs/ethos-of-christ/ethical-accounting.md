@@ -36,13 +36,12 @@ She answered, “Yes, that was the price.”
 
 ## Ethical Lessons
 
-- when an ethos is just starting to grow it is very vulnerable to corruptions
+- when an ethos is just starting to grow, it is very vulnerable to corruptions
 - incorrect ethical accounting is a sin of the whole ethos if the ethos allows it to happen
-- if you lie to an ethos you are not member of that ethos
+- if you lie to an ethos, you are not a member of that ethos
 - if a lie is accepted and there is knowledge of its acceptance: the ethos either changes as a whole or it forks into at least 2 ethoses
-- a lie to an ethos is a direct attack to the very existence of that ethos
+- a lie to an ethos is a direct attack on the very existence of that ethos
 
 ## Indirect Ethical Lessons
 
-- incorrect accounting in the initial phase of an ethos may lead to ethocide
-- ethocide: the killing of an ethos
+- incorrect accounting in the initial phase of an ethos may lead to ethocide: the killing of an ethos
