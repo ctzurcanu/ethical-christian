@@ -31,6 +31,10 @@ appears in:
 - a ladder has to cover the whole spectrum and has to define a clear hierarchy
 - an example of a spiritual ladder: [the hierarchy of virtues](https://virtues.provable.dev/docs/hierarchies#virtues-order)
 - a complete ethos also has to define the order of all accepted virtues: [example of complete ethos](https://ctzurcanu.github.io/ethos/ethos#virtues)
+- John Chrysostom in 'On John' [p347](https://catholiclibrary.org/library/view?chunk.id=00000695&docId=%2FFathers-Synchronized-EN%2FJohn_Chrysostom__In_Joannem.en.html):
+  > And thus, as if ascending by certain steps, we may reach to heaven by means of Jacob's ladder. For that ladder also seems to me to signify this through that vision, the gradual ascent through virtue, by which it is possible to ascend from earth to heaven, not using perceptible steps, but by progress in character and correction. 
+- St. John Climacus `The Ladder of Divine Ascent` has its own [hierarchy of virtue](https://www.trueorthodoxy.org/teachings/spir_stjohnclimacus_ladder_of_divine_ascent.html) and here is a [detailed analysis](/start/climacus)
+
 
 
 ## Ethical Lessons
