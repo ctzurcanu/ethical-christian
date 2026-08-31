@@ -13,6 +13,7 @@ title: Start Here
 - The International Standard Version (ISV) of the Bible from [BibleGateway.com](https://www.biblegateway.com/)
 - [The Didache](./didache.md), in Kirsopp Lake's public-domain translation
 - [The Gospel of Thomas](./gospel-thomas.md), translated by Stephen Patterson and Marvin Meyer
+- [The Ladder of Divine Ascent](https://www.trueorthodoxy.org/teachings/spir_stjohnclimacus_ladder_of_divine_ascent.html) by St. John Climacus
 - [Ethical Christian (Complete)](/whole-ethical-christian), the generated portable compilation of this project's public documentation
 
 
@@ -23,6 +24,10 @@ In this project, *ethical* is a technical term: ethics consists of the rules of 
 ### What counts as an ethos
 
 An ethos is a Logos belonging to a person or group whose principal content concerns what ought to be. It is not an isolated belief, commandment, virtue, or action, but an identifiable governing whole containing declarations, priorities, conditions of belonging and representation, and enough continuity to guide conduct across different situations. A complete ethos must be publicly knowable, internally coherent, and provide ways for others to understand, adopt, evaluate, or challenge it. A single New Testament passage may reveal part of an ethos, but it does not constitute the whole ethos by itself.
+
+### Ethical Range
+
+A complete ethos has to cover all the virtues. An example of analysis of ethical coverage is [Climacus Virtue Mapping](/start/climacus).
 
 ### What this project is reconstructing
 

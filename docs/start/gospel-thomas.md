@@ -2,6 +2,7 @@
 title: The Gospel of Thomas
 sidebar_label: The Gospel of Thomas
 slug: /sources/gospel-thomas
+sidebar_position: 30
 description: Translated by Stephen Patterson and Marvin Meyer
 ---
 

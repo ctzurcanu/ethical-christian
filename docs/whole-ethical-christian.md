@@ -18,6 +18,7 @@ This document contains the complete compilation of the Ethical Christian documen
 - The International Standard Version (ISV) of the Bible from [BibleGateway.com](https://www.biblegateway.com/)
 - [The Didache](https://ctzurcanu.github.io/ethical-christian/sources/didache), in Kirsopp Lake's public-domain translation
 - [The Gospel of Thomas](https://ctzurcanu.github.io/ethical-christian/sources/gospel-thomas), translated by Stephen Patterson and Marvin Meyer
+- [The Ladder of Divine Ascent](https://www.trueorthodoxy.org/teachings/spir_stjohnclimacus_ladder_of_divine_ascent.html) by St. John Climacus
 - [Ethical Christian (Complete)](https://ctzurcanu.github.io/ethical-christian/whole-ethical-christian), the generated portable compilation of this project's public documentation
 
 ### What “ethical” means
@@ -27,6 +28,10 @@ In this project, *ethical* is a technical term: ethics consists of the rules of 
 ### What counts as an ethos
 
 An ethos is a Logos belonging to a person or group whose principal content concerns what ought to be. It is not an isolated belief, commandment, virtue, or action, but an identifiable governing whole containing declarations, priorities, conditions of belonging and representation, and enough continuity to guide conduct across different situations. A complete ethos must be publicly knowable, internally coherent, and provide ways for others to understand, adopt, evaluate, or challenge it. A single New Testament passage may reveal part of an ethos, but it does not constitute the whole ethos by itself.
+
+### Ethical Range
+
+A complete ethos has to cover all the virtues. An example of analysis of ethical coverage is [Climacus Virtue Mapping](https://ctzurcanu.github.io/ethical-christian/start/climacus).
 
 ### What this project is reconstructing
 
@@ -39,705 +44,6 @@ Each study begins with a defined textual unit and its parallels, identifies the 
 ### Status of claims and challenges
 
 Every reconstructed element is presented as a claim supported by specified textual evidence and assigned a status: **explicit**, **strongly implied**, **tentative**, **contested**, or **contradicted elsewhere**. Alternative readings and counter-evidence remain attached to the claim rather than being concealed through harmonization. Challenges must identify the claim being disputed, provide evidence or expose a contradiction, and propose a precise correction when possible. Accepted challenges change the reconstruction, while unresolved ones remain public as open questions.
-
----
-
-# John Climacus Virtue Mapping
-
-This document compares the thirty steps in John Climacus's *Ladder of Divine Ascent* with the [21-axis virtue system](https://ctzurcanu.github.io/ethical-christian/whole-virtues). It tests coverage in both directions:
-
-1. Can every step or positive corrective in Climacus be decomposed using the 21 axes?
-2. Can every axis in the 21-axis system be reconstructed from Climacus?
-
-The answer is asymmetric. Every positive ethical aim in Climacus can be represented by the 21-axis system. Climacus does not provide full counterparts for every axis, especially the material, economic, institutional, procedural, and publicly provable axes.
-
-## Sources
-
-- John Climacus, *The Ladder of Divine Ascent*, translated by Archimandrite Lazarus Moore (1959): [complete online text](https://azbyka.org/otechnik/world/the-ladder-of-divine-ascent/) and [PDF](https://www.carmelitepriory.org/wp-content/uploads/2014/02/TheLadderofDivineAscent.pdf).
-- The [Greek Orthodox Archdiocese of Canada prologue](https://goarchdiocese.ca/prologue-the-ladder-of-divine-ascent-by-saint-john-climacus/) explains the traditional interpretation of the work as thirty steps beginning with renunciation and ending with the God of love.
-- The target definitions, ranges, and hierarchy are those in [On Virtues (Complete)](https://ctzurcanu.github.io/ethical-christian/whole-virtues).
-
-The step titles below follow Moore's translation. The descriptions and mappings are analytical paraphrases, not additions to Climacus's text.
-
-## Method
-
-Climacus's thirty chapters are not thirty atomic virtues. They include:
-
-- virtues, such as meekness and humility;
-- vices, such as lying, avarice, and pride;
-- disciplines, such as vigil and prayer;
-- transitions, such as repentance and renunciation;
-- composite states, such as dispassion;
-- Step 30's compound triad of faith, hope, and love.
-
-A vice is not counted as a virtue merely because Climacus gives it a step. For a vice-centered chapter, the mapping identifies the virtues violated by the vice and the positive corrective Climacus recommends.
-
-The comparison uses three reverse-mapping statuses:
-
-- **Covered**: Climacus expressly supplies the axis's central positive function.
-- **Partial**: Climacus supplies a restricted, private, monastic, or implicit form but not the whole axis.
-- **Not covered**: a verbal resemblance or incidental example exists at most; Climacus does not supply the axis as a positive ethical dimension.
-
-Ascetic intensity is not automatically virtue. Under the 21-axis definition, fasting, vigil, poverty, obedience, or renunciation remains virtuous only within a constructive mean. If it needlessly destroys Survival, Abundance, judgment, or another virtue, it becomes excess rather than a higher score.
-
-## From Climacus to the 21-Axis System
-
-### Step 1. Renunciation of the world
-
-**Type:** composed ascetic transition.
-
-Climacus treats renunciation as leaving attachments so that life can be directed toward God.
-
-- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): lower goods and security are invested in pursuit of a higher good.
-- [Temperance](https://virtues.provable.dev/docs/temperance): compulsive appetite and attachment are placed under self-government.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): the sacrifice is oriented by belief in God and the coming Kingdom.
-- [Hope](https://virtues.provable.dev/docs/hope): renunciation depends on a better state being possible.
-
-Renunciation is not an additional atomic virtue. Contempt for embodiment or material provision as such can become excessive Temperance or destructive Sacrifice.
-
-### Step 2. Detachment
-
-**Type:** composed disposition.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): freedom from domination by possessions, status, and anxiety.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): confidence is transferred from possessions to divine order.
-- [Hope](https://virtues.provable.dev/docs/hope): the future good makes present detachment intelligible.
-
-Detachment does not justify neglect of dependants, promises, health, or productive obligations. Such neglect would diminish other virtues.
-
-### Step 3. Exile or pilgrimage
-
-**Type:** composed practice.
-
-- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): familiar place, status, and recognition are surrendered for a higher aim.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): separation and hardship are endured.
-- [Temperance](https://virtues.provable.dev/docs/temperance): attachment to one's familiar social identity is restrained.
-- [Prudence](https://virtues.provable.dev/docs/prudence): Climacus expressly warns that exile carried to an extreme is not always good and requires discretion.
-
-### Step 4. Obedience
-
-**Type:** relational discipline with a governance structure.
-
-- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): director and disciple occupy differentiated roles.
-- [Governance](https://virtues.provable.dev/docs/governance): the director coordinates another person's formation.
-- [Temperance](https://virtues.provable.dev/docs/temperance): the disciple restrains impulsive self-will.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): correction, service, and difficulty are endured.
-
-This is only a partial match for Provable Order and Governance. Climacus's ideal of unquestioning obedience does not itself provide public proof, continuing challenge, proportional representation, or an accountability procedure for the superior.
-
-### Step 5. Repentance
-
-**Type:** corrective process and composed virtue.
-
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): repentance supplies the guilty party's turn away from wrongdoing.
-- [Justice](https://virtues.provable.dev/docs/justice): Climacus includes self-judgment, voluntary retribution, and good deeds contrary to the former sins.
-- [Hope](https://virtues.provable.dev/docs/hope): he calls repentance the rejection of despair and a contract for a second life.
-- [Temperance](https://virtues.provable.dev/docs/temperance): repentance changes subsequent conduct rather than merely producing regret.
-
-Climacus develops God-facing and self-punitive repentance more fully than victim-facing restitution, so the match with the complete Forgiveness and Justice axes remains incomplete.
-
-### Step 6. Remembrance of death
-
-**Type:** contemplative discipline.
-
-- [Prudence](https://virtues.provable.dev/docs/prudence): action is planned in light of mortality and final consequences.
-- [Measurability](https://virtues.provable.dev/docs/measurability): the agent attends to an unavoidable fact rather than behaving as if time were unlimited.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): death is interpreted within judgment, prayer, and eternal life.
-
-Death is the object of attention here. Remembering death is not equivalent to the positive virtue of Survival.
-
-### Step 7. Mourning that causes joy
-
-**Type:** penitential practice and composite disposition.
-
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): mourning participates in repentance and moral repair.
-- [Justice](https://virtues.provable.dev/docs/justice): conscience tests conduct against what is owed.
-- [Hope](https://virtues.provable.dev/docs/hope): the mourning is directed toward transformation rather than despair.
-- [Temperance](https://virtues.provable.dev/docs/temperance): Climacus associates mature mourning with restraint of speech and anger.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): its mature expression includes compassion and non-condemnation.
-
-### Step 8. Freedom from anger and meekness
-
-**Type:** positive disposition acquired through practice.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): anger is governed rather than allowed to govern action.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): meekness preserves relationship under praise, blame, honor, or dishonor.
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the desire to injure the offender is abandoned.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): insult is endured without retaliation or collapse.
-
-### Step 9. Remembrance of wrongs
-
-**Type:** vice diagnosis; remembrance of wrongs is not a virtue.
-
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the corrective is release from vengeance and stored injury.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): enmity is replaced by restored relational capacity.
-- [Temperance](https://virtues.provable.dev/docs/temperance): anger is prevented from becoming a durable habit.
-
-Climacus's rapid forgetting of wrongs does not always state the prior requirements of Justice, repentance, restitution, and protection from repetition. It therefore covers only part of the 21-axis definition of Forgiveness.
-
-### Step 10. Slander or calumny
-
-**Type:** vice diagnosis; slander is not a virtue.
-
-- [Justice](https://virtues.provable.dev/docs/justice): another person must not be falsely condemned or deprived of reputation.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): speech must correspond to truth rather than simulation.
-- [Fairness](https://virtues.provable.dev/docs/fairness): accusation must not corrupt the conditions under which another is judged.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): claimed concern must become sincere concern rather than covert hostility.
-- [Temperance](https://virtues.provable.dev/docs/temperance): the impulse to disparage is restrained.
-
-### Step 11. Talkativeness and silence
-
-**Type:** discipline of speech; neither maximum speech nor maximum silence is independently virtuous.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): speech is governed.
-- [Prudence](https://virtues.provable.dev/docs/prudence): the speaker judges when speech, listening, or silence serves the good.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): silence is ordered toward attention, knowledge, contemplation, and truthful speech.
-
-Permanent silence that conceals evidence, refuses correction, or withholds necessary warning would be an excess, not virtue.
-
-### Step 12. Lying
-
-**Type:** vice diagnosis; lying is not a virtue.
-
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): the positive corrective is truthfulness.
-- [Justice](https://virtues.provable.dev/docs/justice): deception corrupts judgment and what others receive as their due.
-- [Measurability](https://virtues.provable.dev/docs/measurability): false reports destroy parsability and reliable evidence.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): Climacus identifies lying as destructive of love and trust.
-
-### Step 13. Despondency
-
-**Type:** vice diagnosis; despondency or acedia is not a virtue.
-
-- [Hope](https://virtues.provable.dev/docs/hope): despair is replaced by belief in possible transformation.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): the person persists through spiritual fatigue and discouragement.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): the accusation that God is merciless is rejected.
-
-Climacus's ascetic diligence is not full [Industriousness](https://virtues.provable.dev/docs/industriousness). He can describe a despondent person as resolute in manual labor while spiritually negligent; productive effort and spiritual persistence are therefore not identical in his analysis.
-
-### Step 14. Gluttony
-
-**Type:** vice diagnosis; gluttony is excess rather than virtue.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): appetite is brought into a beneficial range.
-- [Survival](https://virtues.provable.dev/docs/survival): food serves embodied life and health rather than becoming a destructive master.
-- [Prudence](https://virtues.provable.dev/docs/prudence): bodily discipline must be fitted to actual condition and consequences.
-
-Mortification that destroys health without producing a higher good would move from Temperance into unsustainable asceticism.
-
-### Step 15. Purity and chastity
-
-**Type:** positive but composed disposition.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): sexual appetite is governed.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): restraint is maintained through pressure and duration.
-- [Hope](https://virtues.provable.dev/docs/hope): desire is redirected toward a better and more integrated state.
-
-Climacus's monastic celibacy is one ascetic implementation. It is not itself the whole virtue and does not define Survival, sexual Fitness, family, or reproduction.
-
-### Step 16. Love of money or avarice
-
-**Type:** vice diagnosis; avarice is not a virtue.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): acquisition is prevented from becoming unlimited appetite.
-- [Charity](https://virtues.provable.dev/docs/charity): resources can be released for others rather than hoarded.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): possessiveness is replaced by hospitality and generosity.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): Climacus interprets avarice as dependence on wealth produced by unbelief.
-
-Condemning avarice does not supply Economy, Market, or Abundance. Those axes distinguish virtuous management, exchange, and provision from their excesses.
-
-### Step 17. Poverty that hastens heavenward
-
-**Type:** ascetic implementation of several virtues.
-
-- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): possessions are surrendered for a higher end.
-- [Temperance](https://virtues.provable.dev/docs/temperance): dependence on possession is reduced.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): reliance is placed on God and the commandments.
-- [Hope](https://virtues.provable.dev/docs/hope): heavenly good is preferred to immediate possession.
-
-Poverty is not equivalent to Abundance and is not automatically virtuous. If involuntary or destructive of life, capacity, dependants, or charity, poverty is a lack on the Abundance axis.
-
-### Step 18. Insensibility
-
-**Type:** vice diagnosis; deadened moral perception is not a virtue.
-
-- [Measurability](https://virtues.provable.dev/docs/measurability): the corrective begins by perceiving the contradiction between professed judgment and repeated conduct.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): knowledge must become coherent with action.
-- [Hope](https://virtues.provable.dev/docs/hope): negligence and despair are replaced by renewed possibility.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): moral and relational sensitivity is restored.
-
-Climacus supplies introspective signs, not the public, standardized, and challengeable proof required for full Measurability.
-
-### Step 19. Sleep, prayer, and psalm-singing
-
-**Type:** regulation of bodily rhythm and communal religious practice.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): sleep is neither indulged without limit nor rejected without regard to nature.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): prayer and psalmody orient attention toward God.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): shared worship coordinates the community.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): the monk rises and continues despite fatigue.
-
-### Step 20. Bodily and spiritual vigil
-
-**Type:** ascetic discipline.
-
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): wakefulness is maintained despite discomfort.
-- [Temperance](https://virtues.provable.dev/docs/temperance): sleep and bodily impulse are governed.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): vigil serves prayer, reading, and attention to God.
-- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): rest is invested in a higher spiritual purpose.
-
-Climacus says offerings are valued according to intention and capacity. A vigil that predictably destroys health or judgment would exceed the constructive mean.
-
-### Step 21. Cowardice
-
-**Type:** vice diagnosis; cowardice is not a virtue.
-
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): fear is endured and governed.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): conviction replaces imagined and untested danger.
-- [Hope](https://virtues.provable.dev/docs/hope): the possibility of divine help and successful endurance remains present.
-- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): personal security can be risked for a higher good.
-
-Climacus also distinguishes courage from mere fearlessness; criminals may be unafraid without being virtuous.
-
-### Step 22. Vainglory
-
-**Type:** vice diagnosis; vainglory is not a virtue.
-
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): humility and accurate recognition replace performance for praise.
-- [Temperance](https://virtues.provable.dev/docs/temperance): appetite for approval is restrained.
-- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): actual rank and value must not be replaced by self-advertisement.
-
-Climacus generally suppresses claims to recognition; he does not develop the system's positive, evidence-based recognition of real virtue.
-
-### Step 23. Pride and blasphemous thoughts
-
-**Type:** two related vice diagnoses.
-
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): humility, compassion, and recognition replace contempt.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): denial of God and blasphemy are opposed by true belief and coherent judgment.
-- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): self, neighbor, and God are not assigned false rank.
-- [Justice](https://virtues.provable.dev/docs/justice): condemnation and inhuman judgment are rejected.
-
-### Step 24. Meekness, simplicity, guilelessness, and malice
-
-**Type:** several positive dispositions contrasted with a vice.
-
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): meekness and guilelessness preserve relationship without manipulation.
-- [Temperance](https://virtues.provable.dev/docs/temperance): irritability and duplicity do not control action.
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the troublesome neighbor is met without revenge.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): guilelessness includes sincerity rather than falsification.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): the person remains stable under honor and dishonor.
-
-### Step 25. Humility
-
-**Type:** positive disposition and composite spiritual state.
-
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): Humility and Recognition are explicit members of this axis.
-- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): achievement, limitation, dependence, and grace are assigned their proper ranks.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): the person recognizes divine grace and personal limitation.
-- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): Climacus describes perfected humility as an experiential grace that cannot be transferred adequately by words.
-
-The last correspondence is partial: ineffable experience appears, but Climacus does not isolate the system's complete dimension of self-proving, order-changing Goodness beyond reason.
-
-### Step 26. Discernment of thoughts, passions, and virtues
-
-**Type:** epistemic and strategic virtue.
-
-- [Prudence](https://virtues.provable.dev/docs/prudence): action is fitted to person, stage, circumstance, and consequence.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): true good is distinguished from nature, passion, deception, and false appearance.
-- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): virtues and vices are discriminated and ordered.
-- [Measurability](https://virtues.provable.dev/docs/measurability): Climacus uses observable signs and stages to diagnose spiritual condition.
-
-The proof remains primarily private, experiential, and dependent on a spiritually qualified discerner. It is not yet public or continuously challengeable Measurability.
-
-### Step 27. Holy solitude of body and soul
-
-**Type:** contemplative discipline and composite state.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): habits, senses, and intrusive impulses are reduced to order.
-- [Prudence](https://virtues.provable.dev/docs/prudence): thoughts and risks are observed before action.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): solitude serves contemplation and knowledge rather than mere isolation.
-- [Fortitude](https://virtues.provable.dev/docs/fortitude): sustained attention is defended against internal pressure.
-
-Solitude that destroys needed relationship, correction, or responsibility is not Harmony and would not remain virtuous under the 21-axis criteria.
-
-### Step 28. Prayer
-
-**Type:** religious practice and composite relation.
-
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): prayer is conscious relation to God and contemplation of divine truth.
-- [Hope](https://virtues.provable.dev/docs/hope): Climacus calls prayer a demonstration of hope and an answer to despair.
-- [Charity](https://virtues.provable.dev/docs/charity): prayer includes intercession and concern for the neighbor.
-- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): prayer participates in repentance, reconciliation, and mercy.
-- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): when prayer actually bears revelation, grace, or knowledge that cannot be manufactured by ordinary inference, it instantiates this axis.
-
-Prayer as an activity is not automatically proof of Ineffable Goodness; the correspondence is conditional on what is received and demonstrated.
-
-### Step 29. Dispassion and perfection
-
-**Type:** terminal composite state, not an atomic virtue.
-
-- [Temperance](https://virtues.provable.dev/docs/temperance): appetites and passions no longer dominate action.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): selfish passion is displaced by stable love of God and others.
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): the mind remains in contemplation and knowledge of God.
-- [Charity](https://virtues.provable.dev/docs/charity): dispassion in Climacus is filled by love rather than emptied into indifference.
-- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): divine contemplation is presented as exceeding ordinary verbal instruction.
-
-The state does not create a twenty-second axis. It is a high-value composition of several axes.
-
-### Step 30. Faith, hope, and love
-
-**Type:** explicit compound of supreme virtues.
-
-- [Faith, Reason](https://virtues.provable.dev/docs/reason): direct correspondence with faith, including knowledge and relation to God.
-- [Hope](https://virtues.provable.dev/docs/hope): direct correspondence with confident expectation of the good.
-- [Charity](https://virtues.provable.dev/docs/charity): love gives itself and acts for God and neighbor.
-- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): love includes patience, humility, union, and the exclusion of hostile thought.
-- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): Climacus describes divine love as beyond adequate definition and as yielding illumination, prophecy, and miracles.
-
-Love is not treated here as one new atomic axis. Its described operations decompose into Charity, Harmony, Faith, Hope, and, in its revelatory form, Ineffable Goodness.
-
-## From the 21-Axis System to Climacus
-
-| No. | 21 Virtues | Status | Closest steps in Climacus | Coverage judgment |
-|---:|---|---|---|---|
-| 1 | [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness) | **Partial** | 25, 28–30 | Ineffable grace, illumination, prophecy, and miracle appear, but not an independent dimension of self-proving Goodness that can reorder the hierarchy. |
-| 2 | [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order) | **Partial** | 4, 22–26; the ladder as a whole | Climacus orders states and practices, but the order rests on spiritual authority and experience rather than public proof, consensus, and continuous challenge. |
-| 3 | [Faith, Reason](https://virtues.provable.dev/docs/reason) | **Covered** | 1–4, 12, 21, 23, 26–30 | Faith is explicit, and discernment supplies a reason-like discrimination of truth, passion, and apparent good. |
-| 4 | [Economy](https://virtues.provable.dev/docs/economy) | **Not covered** | 16–17 only contrast avarice and poverty | Climacus does not define management, measurement, and proof of efficient Charity. |
-| 5 | [Charity](https://virtues.provable.dev/docs/charity) | **Covered** | 3, 10, 16, 28, 30 | Love, hospitality, release of money, prayer for others, and union with God and neighbor give direct counterparts. |
-| 6 | [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness) | **Partial** | 1, 3, 17, 20–21, 30 | Renunciation and courage strongly cover personal sacrifice for higher goods; Climacus does not theorize Civilization as the social totality of encouraged sacrifices. |
-| 7 | [Hope](https://virtues.provable.dev/docs/hope) | **Covered** | 5, 7, 13, 21, 28, 30 | Hope is both an explicit summit virtue and the corrective to despair. |
-| 8 | [Harmony, Generosity](https://virtues.provable.dev/docs/harmony) | **Covered** | 8–12, 16, 22–25, 29–30 | Meekness, humility, compassion, generosity, guilelessness, and love directly occupy this axis. |
-| 9 | [Prudence](https://virtues.provable.dev/docs/prudence) | **Covered** | 3, 6, 11, 14, 26–27 | Climacus repeatedly requires discretion, diagnosis, proportion, and stage-appropriate practice. |
-| 10 | [Forgiveness](https://virtues.provable.dev/docs/forgiveness) | **Partial** | 5, 8–9, 24, 28 | Repentance and release of vengeance are explicit, but Climacus does not consistently require completed Justice, restitution, and protection before interpersonal forgiveness. |
-| 11 | [Justice](https://virtues.provable.dev/docs/justice) | **Partial** | 5, 10, 12, 23, 26, 28 | Divine judgment, conscience, truthful judgment, and voluntary retribution appear; public adjudication, restitution, and institutional remedy do not. |
-| 12 | [Governance](https://virtues.provable.dev/docs/governance) | **Not covered** | 4 | Obedience describes being governed. It does not define the virtue, limits, proof, accountability, and correction of governing others. |
-| 13 | [Temperance](https://virtues.provable.dev/docs/temperance) | **Covered** | 1–3, 8, 11, 14–20, 22–24, 27–29 | Regulation of appetite, speech, anger, sleep, sexuality, possession, and thought dominates the middle of the ladder. |
-| 14 | [Fairness](https://virtues.provable.dev/docs/fairness) | **Not covered** | 10 offers only a remote analogy | Protection against slander is not a theory of optional contest, equal conditions, role-derived rights, or a level playing field. |
-| 15 | [Fortitude](https://virtues.provable.dev/docs/fortitude) | **Covered** | 3–4, 7–8, 13, 15, 19–21, 24, 27–28 | Endurance, ascetic struggle, patience, courage, and resistance to fear are pervasive. |
-| 16 | [Competition](https://virtues.provable.dev/docs/competition) | **Partial** | 1, 4–5, 20–21, 27–28; athletic and military imagery throughout | Climacus values spiritual struggle against passions and demons, but not Competition as an independent, open, challenge-accepting process of comparison and selection among peers. |
-| 17 | [Measurability](https://virtues.provable.dev/docs/measurability) | **Partial** | 6, 18, 25–26, 28 | Signs, stages, self-examination, and a “mirror of progress” provide qualitative diagnosis; public data, standardization, searchability, and challengeable verification are absent. |
-| 18 | [Market](https://virtues.provable.dev/docs/market) | **Not covered** | 16–17 oppose attachment to money and possession | Climacus provides no positive virtue of transparent comparison, discoverability, voluntary exchange, or a leveled exchange field. |
-| 19 | [Abundance](https://virtues.provable.dev/docs/abundance) | **Not covered** | 2, 16–17 use material renunciation; “abundance” is spiritual metaphor elsewhere | Material wealth and vitality are subordinated or rejected rather than developed as sustainable, diverse, robust provision. |
-| 20 | [Industriousness](https://virtues.provable.dev/docs/industriousness) | **Not covered** | 4, 13, 20 contain service, manual work, and effort | Ascetic toil is not the transformation of living necessity into stable provision through cultivation, craft, maintenance, and improving production. |
-| 21 | [Survival](https://virtues.provable.dev/docs/survival) | **Partial** | 1, 6, 14–15, 19–20, 29 | Climacus addresses death, bodily appetite, health limits, and spiritual life, but often subordinates bodily continuity and does not cover life, health, species, and replicability as a universal positive axis. |
-
-## Coverage Result
-
-### Climacus represented by the 21-axis system
-
-No positive ethical aim in the thirty steps requires an additional virtue axis. The apparent surplus consists of:
-
-- vices whose correction maps to existing axes;
-- practices that compose several axes;
-- spiritual states produced by several axes together;
-- the compound triad of faith, hope, and love.
-
-Therefore the thirty steps do not supply a counterexample to the coverage of the 21-axis system.
-
-### Axes fully represented by Climacus
-
-1. Faith, Reason
-2. Charity
-3. Hope
-4. Harmony, Generosity
-5. Prudence
-6. Temperance
-7. Fortitude
-
-### Axes represented only partially by Climacus
-
-1. Ineffable Goodness
-2. Provable Order/Hierarchy
-3. Goodness, Sacrifice, Courage, Civilization
-4. Forgiveness
-5. Justice
-6. Competition
-7. Measurability
-8. Survival
-
-### Axes not covered by Climacus
-
-1. Economy
-2. Governance
-3. Fairness
-4. Market
-5. Abundance
-6. Industriousness
-
-The principal omissions are not accidental synonyms. They are entire domains: efficient management of giving, accountable rule, fair contest, public exchange, sustainable resources, and productive provision.
-
-## The Two Orders Are Not the Same Kind of Order
-
-Climacus presents a developmental itinerary for a monk: renunciation, purification from passions, contemplation, and union in faith, hope, and love. The 21-axis hierarchy ranks ethical dimensions by their place in a general system extending from Survival to Ineffable Goodness.
-
-Consequently, the mapping is not order-preserving:
-
-- Climacus puts faith, hope, and love together at Step 30; the 21-axis system distinguishes their functions and ranks Faith/Reason, Charity, and Hope separately.
-- A single step in Climacus often requires axes from widely separated positions in the 21-axis hierarchy.
-- Climacus's order is pedagogical and monastic; the 21-axis order is intended to be ontological, cross-domain, and applicable to individuals, institutions, all life, and ethoses.
-
-Climacus therefore supplies a profound ladder of ascetic formation, but not a complete hierarchy of every kind of virtue. The 21-axis system can encode the ladder; the ladder cannot reconstruct the whole 21-axis system.
-
----
-
-*The Lord's teaching to the heathen by the Twelve Apostles.*
-
-> **Textual source:** *The Didache*, translated by Kirsopp Lake in *The Apostolic Fathers*, vol. 1 (1912). This is a public-domain English translation. The Markdown text is derived from the [Wikisource transcription](https://en.wikisource.org/wiki/Didache_%28Lake_translation%29). Editorial changes are limited to chapter headings, verse labels and anchors, and paragraph formatting. Lake's original notes are retained below; his marginal section summaries are omitted.
-
-## Chapter 1
-
-<a id="didache-1-1"></a>**1:1** There are two Ways, one of Life and one of Death, and there is a great difference between the two Ways.
-
-<a id="didache-1-2"></a>**1:2** The Way of Life is this: "First, thou shalt love the God who made thee, secondly, thy neighbour as thyself; and whatsoever thou wouldst not have done to thyself, do not thou to another."[^1]
-
-<a id="didache-1-3"></a>**1:3** Now, the teaching of these words is this: "Bless those that curse you, and pray for your enemies, and fast for those that persecute you. For what credit is it to you if you love those that love you? Do not even the heathen do the same?" But, for your part, "love those that hate you," and you will have no enemy.
-
-<a id="didache-1-4"></a>**1:4** "Abstain from carnal" and bodily "lusts." "If any man smite thee on the right cheek, turn to him the other cheek also," and thou wilt be perfect. "If any man impress thee to go with him one mile, go with him two. If any man take thy coat, give him thy shirt also. If any man will take from thee what is thine, refuse it not"—not even if thou canst.[^2]
-
-<a id="didache-1-5"></a>**1:5** Give to everyone that asks thee, and do not refuse, for the Father's will is that we give to all from the gifts we have received. Blessed is he that gives according to the mandate; for he is innocent. Woe to him who receives; for if any man receive alms under pressure of need he is innocent; but he who receives it without need shall be tried as to why he took and for what, and being in prison he shall be examined as to his deeds, and "he shall not come out thence until he pay the last farthing."
-
-<a id="didache-1-6"></a>**1:6** But concerning this it was also said, "Let thine alms sweat into thine hands until thou knowest to whom thou art giving."
-
-## Chapter 2
-
-<a id="didache-2-1"></a>**2:1** But the second commandment of the teaching is this:
-
-<a id="didache-2-2"></a>**2:2** "Thou shalt do no murder; thou shalt not commit adultery"; thou shalt not commit sodomy; thou shalt not commit fornication; thou shalt not steal; thou shalt not use magic; thou shalt not use philtres; thou shalt not procure abortion, nor commit infanticide; "thou shalt not covet thy neighbour's goods";
-
-<a id="didache-2-3"></a>**2:3** thou shalt not commit perjury, "thou shalt not bear false witness"; thou shalt not speak evil; thou shalt not bear malice.
-
-<a id="didache-2-4"></a>**2:4** Thou shalt not be double-minded nor double-tongued, for to be double-tongued is the snare of death.
-
-<a id="didache-2-5"></a>**2:5** Thy speech shall not be false nor vain, but completed in action.
-
-<a id="didache-2-6"></a>**2:6** Thou shalt not be covetous nor extortionate, nor a hypocrite, nor malignant, nor proud; thou shalt make no evil plan against thy neighbour.
-
-<a id="didache-2-7"></a>**2:7** Thou shalt hate no man; but some thou shalt reprove,[^3] and for some shalt thou pray, and some thou shalt love more than thine own life.
-
-## Chapter 3
-
-<a id="didache-3-1"></a>**3:1** My child, flee from every evil man and from all like him.
-
-<a id="didache-3-2"></a>**3:2** Be not proud, for pride leads to murder, nor jealous, nor contentious, nor passionate, for from all these murders are engendered.
-
-<a id="didache-3-3"></a>**3:3** My child, be not lustful, for lust leads to fornication, nor a speaker of base words, nor a lifter up of the eyes, for from all these is adultery engendered.
-
-<a id="didache-3-4"></a>**3:4** My child, regard not omens, for this leads to idolatry; neither be an enchanter, nor an astrologer, nor a magician, neither wish to see these things, for from them all is idolatry engendered.
-
-<a id="didache-3-5"></a>**3:5** My child, be not a liar, for lying leads to theft, nor a lover of money, nor vain-glorious, for from all these things are thefts engendered.
-
-<a id="didache-3-6"></a>**3:6** My child, be not a grumbler, for this leads to blasphemy, nor stubborn, nor a thinker of evil, for from all these are blasphemies engendered,
-
-<a id="didache-3-7"></a>**3:7** but be thou "meek, for the meek shall inherit the earth;"
-
-<a id="didache-3-8"></a>**3:8** be thou long-suffering, and merciful and guileless, and quiet, and good, and ever fearing the words which thou hast heard.
-
-<a id="didache-3-9"></a>**3:9** Thou shalt not exalt thyself, nor let thy soul be presumptuous. Thy soul shall not consort with the lofty, but thou shalt walk with righteous and humble men.
-
-<a id="didache-3-10"></a>**3:10** Receive the accidents that befall to thee as good, knowing that nothing happens without God.
-
-## Chapter 4
-
-<a id="didache-4-1"></a>**4:1** My child, thou shalt remember, day and night, him who speaks the word of God to thee, and thou shalt honour him as the Lord, for where the Lord's nature is spoken of, there is he present.
-
-<a id="didache-4-2"></a>**4:2** And thou shalt seek daily the presence of the saints, that thou mayest find rest in their words.
-
-<a id="didache-4-3"></a>**4:3** Thou shalt not desire a schism, but shalt reconcile those that strive. Thou shalt give righteous judgment; thou shalt favour no man's person in reproving transgression.
-
-<a id="didache-4-4"></a>**4:4** Thou shalt not be of two minds whether it shall be or not.
-
-<a id="didache-4-5"></a>**4:5** Be not one who stretches out his hands to receive, but shuts them when it comes to giving.
-
-<a id="didache-4-6"></a>**4:6** Of whatsoever thou hast gained by thy hands thou shalt give a ransom for thy sins.
-
-<a id="didache-4-7"></a>**4:7** Thou shalt not hesitate to give, nor shalt thou grumble when thou givest, for thou shalt know who is the good Paymaster of the reward.
-
-<a id="didache-4-8"></a>**4:8** Thou shalt not turn away the needy, but shalt share everything with thy brother, and shalt not say that it is thine own, for if you are sharers in the imperishable, how much more in the things which perish?
-
-<a id="didache-4-9"></a>**4:9** Thou shalt not withhold thine hand from thy son or from thy daughter, but thou shalt teach them the fear of God from their youth up.
-
-<a id="didache-4-10"></a>**4:10** Thou shalt not command in thy bitterness thy slave or thine handmaid, who hope in the same God, lest they cease to fear the God who is over you both; for he comes not to call men with respect of persons, but those whom the Spirit has prepared.
-
-<a id="didache-4-11"></a>**4:11** But do you who are slaves be subject to your master, as to God's representative, in reverence and fear.
-
-<a id="didache-4-12"></a>**4:12** Thou shalt hate all hypocrisy, and everything that is not pleasing to the Lord.
-
-<a id="didache-4-13"></a>**4:13** Thou shalt not forsake the commandments of the Lord, but thou shalt keep what thou didst receive, "adding nothing to it and taking nothing away."
-
-<a id="didache-4-14"></a>**4:14** In the congregation thou shalt confess thy transgressions, and thou shalt not betake thyself to prayer with an evil conscience. This is the Way of Life.
-
-## Chapter 5
-
-<a id="didache-5-1"></a>**5:1** But the Way of Death is this: First of all, it is wicked and full of cursing, murders, adulteries, lusts, fornications, thefts, idolatries, witchcrafts, charms, robberies, false witness, hypocrisies, a double heart, fraud, pride, malice, stubbornness, covetousness, foul speech, jealousy, impudence, haughtiness, boastfulness.
-
-<a id="didache-5-2"></a>**5:2** Persecutors of the good, haters of truth, lovers of lies, knowing not the reward of righteousness, not cleaving to the good nor to righteous judgment, spending wakeful nights not for good but for wickedness, from whom meekness and patience is far, lovers of vanity, following after reward, unmerciful to the poor, not working for him who is oppressed with toil, without knowledge of him who made them, murderers of children, corrupters of God's creatures, turning away the needy, oppressing the distressed, advocates of the rich, unjust judges of the poor, altogether sinful; may ye be delivered, my children, from all these.
-
-## Chapter 6
-
-<a id="didache-6-1"></a>**6:1** See "that no one make thee to err" from this Way of the teaching, for he teaches thee without God.
-
-<a id="didache-6-2"></a>**6:2** For if thou canst bear the whole yoke of the Lord, thou wilt be perfect, but if thou canst not, do what thou canst.
-
-<a id="didache-6-3"></a>**6:3** And concerning food, bear what thou canst, but keep strictly from that which is offered to idols, for it is the worship of dead gods.
-
-## Chapter 7
-
-<a id="didache-7-1"></a>**7:1** Concerning baptism, baptise thus: Having first rehearsed all these things, "baptise, in the Name of the Father and of the Son and of the Holy Spirit," in running water;
-
-<a id="didache-7-2"></a>**7:2** but if thou hast no running water, baptise in other water, and if thou canst not in cold, then in warm.
-
-<a id="didache-7-3"></a>**7:3** But if thou hast neither, pour water three times on the head "in the Name of the Father, Son and Holy Spirit."
-
-<a id="didache-7-4"></a>**7:4** And before the baptism let the baptiser and him who is to be baptised fast, and any others who are able. And thou shalt bid him who is to be baptised to fast one or two days before.
-
-## Chapter 8
-
-<a id="didache-8-1"></a>**8:1** Let not your fasts be with the hypocrites, for they fast on Mondays and Thursdays, but do you fast on Wednesdays and Fridays.
-
-<a id="didache-8-2"></a>**8:2** And do not pray as the hypocrites, but as the Lord commanded in his Gospel, pray thus: "Our Father, who art in Heaven, hallowed be thy Name, thy Kingdom come, thy will be done, as in Heaven so also upon earth; give us to-day our daily[^4] bread, and forgive us our debt as we forgive our debtors, and lead us not into trial, but deliver us from the Evil One, for thine is the power and the glory for ever."
-
-<a id="didache-8-3"></a>**8:3** Pray thus three times a day.
-
-## Chapter 9
-
-<a id="didache-9-1"></a>**9:1** And concerning the Eucharist, hold[^5] Eucharist thus:
-
-<a id="didache-9-2"></a>**9:2** First concerning the Cup, "We give thanks to thee, our Father, for the Holy Vine of David thy child, which, thou didst make known to us through Jesus thy child; to thee be glory for ever."
-
-<a id="didache-9-3"></a>**9:3** And concerning the broken Bread: "We give thee thanks, our Father, for the life and knowledge which thou didst make known to us through Jesus thy Child. To thee be glory for ever.
-
-<a id="didache-9-4"></a>**9:4** As this broken bread was scattered upon the mountains, but was brought together and became one, so let thy Church be gathered together from the ends of the earth into thy Kingdom, for thine is the glory and the power through Jesus Christ for ever."
-
-<a id="didache-9-5"></a>**9:5** But let none eat or drink of your Eucharist except those who have been baptised in the Lord's Name. For concerning this also did the Lord say, "Give not that which is holy to the dogs."
-
-## Chapter 10
-
-<a id="didache-10-1"></a>**10:1** But after you are satisfied with food, thus give thanks:
-
-<a id="didache-10-2"></a>**10:2** "We give thanks to thee, O Holy Father, for thy Holy Name which thou didst make to tabernacle in our hearts, and for the knowledge and faith and immortality which thou didst make known to us through Jesus thy Child. To thee be glory for ever.
-
-<a id="didache-10-3"></a>**10:3** Thou, Lord Almighty, didst create all things for thy Name's sake, and didst give food and drink to men for their enjoyment, that they might give thanks to thee, but us hast thou blessed with spiritual food and drink and eternal light through thy Child.
-
-<a id="didache-10-4"></a>**10:4** Above all we give thanks to thee for that thou art mighty. To thee be glory for ever.
-
-<a id="didache-10-5"></a>**10:5** Remember, Lord, thy Church, to deliver it from all evil and to make it perfect in thy love, and gather it together in its holiness from the four winds to thy kingdom which thou hast prepared for it. For thine is the power and the glory for ever.
-
-<a id="didache-10-6"></a>**10:6** Let grace come and let this world pass away. Hosannah to the God of David. If any man be holy, let him come! if any man be not, let him repent: Maran atha,[^6] Amen."
-
-<a id="didache-10-7"></a>**10:7** But suffer the prophets to hold Eucharist as they will.
-
-## Chapter 11
-
-<a id="didache-11-1"></a>**11:1** Whosoever then comes and teaches you all these things aforesaid, receive him.
-
-<a id="didache-11-2"></a>**11:2** But if the teacher himself be perverted and teach another doctrine to destroy these things, do not listen to him, but if his teaching be for the increase of righteousness and knowledge of the Lord, receive him as the Lord.
-
-<a id="didache-11-3"></a>**11:3** And concerning the Apostles and Prophets, act thus according to the ordinance of the Gospel.[^7]
-
-<a id="didache-11-4"></a>**11:4** Let every Apostle who comes to you be received as the Lord,
-
-<a id="didache-11-5"></a>**11:5** but let him not stay more than one day, or if need be a second as well; but if he stay three days, he is a false prophet.
-
-<a id="didache-11-6"></a>**11:6** And when an Apostle goes forth let him accept nothing but bread till he reach his night's lodging; but if he ask for money, he is a false prophet.
-
-<a id="didache-11-7"></a>**11:7** Do not test or examine any prophet who is speaking in a spirit, "for every sin shall be forgiven, but this sin shall not be forgiven."
-
-<a id="didache-11-8"></a>**11:8** But not everyone who speaks in a spirit is a prophet, except he have the behaviour of the Lord. From his behaviour, then, the false prophet and the true prophet shall be known.
-
-<a id="didache-11-9"></a>**11:9** And no prophet who orders a meal in a spirit shall eat of it: otherwise he is a false prophet.
-
-<a id="didache-11-10"></a>**11:10** And every prophet who teaches the truth, if he do not what he teaches, is a false prophet.
-
-<a id="didache-11-11"></a>**11:11** But no prophet who has been tried and is genuine, though he enact a worldly mystery[^8] of the Church, if he teach not others to do what he does himself, shall be judged by you: for he has his judgment with God, for so also did the prophets of old.
-
-<a id="didache-11-12"></a>**11:12** But whosoever shall say in a spirit 'Give me money, or something else,' you shall not listen to him; but if he tell you to give on behalf of others in want, let none judge him.
-
-## Chapter 12
-
-<a id="didache-12-1"></a>**12:1** Let everyone who "comes in the Name of the Lord" be received; but when you have tested him you shall know him, for you shall have understanding of true and false.[^9]
-
-<a id="didache-12-2"></a>**12:2** If he who comes is a traveller, help him as much as you can, but he shall not remain with you more than two days, or, if need be, three.
-
-<a id="didache-12-3"></a>**12:3** And if he wishes to settle among you and has a craft, let him work for his bread.
-
-<a id="didache-12-4"></a>**12:4** But if he has no craft provide for him according to your understanding, so that no man shall live among you in idleness because he is a Christian.
-
-<a id="didache-12-5"></a>**12:5** But if he will not do so, he is making traffic of Christ; beware of such.
-
-## Chapter 13
-
-<a id="didache-13-1"></a>**13:1** But every true prophet who wishes to settle among you is "worthy of his food."
-
-<a id="didache-13-2"></a>**13:2** Likewise a true teacher is himself worthy, like the workman, of his food.
-
-<a id="didache-13-3"></a>**13:3** Therefore thou shalt take the firstfruit of the produce of the winepress and of the threshing-floor and of oxen and sheep, and shalt give them as the firstfruits to the prophets, for they are your high priests.
-
-<a id="didache-13-4"></a>**13:4** But if you have not a prophet, give to the poor.
-
-<a id="didache-13-5"></a>**13:5** If thou makest bread, take the firstfruits, and give it according to the commandment.
-
-<a id="didache-13-6"></a>**13:6** Likewise when thou openest a jar of wine or oil, give the firstfruits to the prophets.
-
-<a id="didache-13-7"></a>**13:7** Of money also and clothes, and of all your possessions, take the firstfruits, as it seem best to you, and give according to the commandment.
-
-## Chapter 14
-
-<a id="didache-14-1"></a>**14:1** On the Lord's Day of the Lord come together, break bread and hold Eucharist, after confessing your transgressions that your offering may be pure;
-
-<a id="didache-14-2"></a>**14:2** but let none who has a quarrel with his fellow join in your meeting until they be reconciled, that your sacrifice be not defiled.
-
-<a id="didache-14-3"></a>**14:3** For this is that which was spoken by the Lord, "In every place and time offer me a pure sacrifice, for I am a great king," saith the Lord, "and my name is wonderful among the heathen."
-
-## Chapter 15
-
-<a id="didache-15-1"></a>**15:1** Appoint therefore for yourselves bishops and deacons worthy of the Lord, meek men, and not lovers of money, and truthful and approved, for they also minister to you the ministry of the prophets and teachers.
-
-<a id="didache-15-2"></a>**15:2** Therefore do not despise them, for they are your honourable men together with the prophets and teachers.
-
-<a id="didache-15-3"></a>**15:3** And reprove one another not in wrath but in peace as you find in the Gospel, and let none speak with any who has done a wrong to his neighbour, nor let him hear a word from you until he repents.
-
-<a id="didache-15-4"></a>**15:4** But your prayers and alms and all your acts perform as ye find in the Gospel of our Lord.
-
-## Chapter 16
-
-<a id="didache-16-1"></a>**16:1** "Watch" over your life: "let your lamps" be not quenched "and your loins" be not ungirded, but be "ready," for ye know not "the hour in which our Lord cometh."
-
-<a id="didache-16-2"></a>**16:2** But be frequently gathered together seeking the things which are profitable for your souls, for the whole time of your faith shall not profit you except ye be found perfect at the last time;
-
-<a id="didache-16-3"></a>**16:3** for in the last days the false prophets and the corrupters shall be multiplied, and the sheep shall be turned into wolves, and love shall change to hate;
-
-<a id="didache-16-4"></a>**16:4** for as lawlessness increaseth they shall hate one another and persecute and betray, and then shall appear the deceiver of the world as a Son of God, and shall do signs and wonders and the earth shall be given over into his hands and he shall commit iniquities which have never been since the world began.
-
-<a id="didache-16-5"></a>**16:5** Then shall the creation of mankind come to the fiery trial and "many shall be offended" and be lost, but "they who endure" in their faith "shall be saved" by the curse itself.[^10]
-
-<a id="didache-16-6"></a>**16:6** And "then shall appear the signs" of the truth. First the sign spread out in Heaven, then the sign of the sound of the trumpet, and thirdly the resurrection of the dead:
-
-<a id="didache-16-7"></a>**16:7** but not of all the dead, but as it was said, "The Lord shall come and all his saints with him."
-
-<a id="didache-16-8"></a>**16:8** Then shall the world "see the Lord coming on the clouds of Heaven."
-
-## Translator's notes
-
-[^1]: This is the so-called "negative form of the Golden Rule." It is found in some manuscripts in the "Apostolic decrees" in Acts 15:28, and is, in various forms, met with in Jewish and early Christian literature.
-
-[^2]: The Greek is literally "for thou art not even able"; but this makes no sense, and though an emendation is difficult the sense must be something like that given by the translation—unless, indeed, the whole phrase be merely a flippant gloss, which has been erroneously taken into the texts.
-
-[^3]: On the ground of a comparison with Jude 22 f. etc., some think that "and some thou shalt pity" ought to be added.
-
-[^4]: This is the traditional translation of ἐπιούσιον, but it is by no means certain that it is correct. The word has from the beginning been a puzzle, and its meaning is not clearly known. See further any good commentary on the gospels.
-
-[^5]: The translation fails to preserve the play on the words, which might be rendered "concerning the giving of thanks, give thanks thus, etc." But this would obscure the fact that *eucharistia* is here quite clearly "Eucharist" (cf. verse 5).
-
-[^6]: A transliteration of Aramaic words meaning "Our Lord! Come!"
-
-[^7]: It is unknown to what ordinance the writer refers.
-
-[^8]: This passage has never been satisfactorily explained: it probably refers to a tendency among some prophets to introduce forms of worship, or of illustration of their teaching, of doubtful propriety, if so the reference below to the prophets of old is perhaps an allusion to Hosea (Hos. 1, 2 ff.).
-
-[^9]: Literally, "right and left understanding."
-
-[^10]: The meaning is obscure; but there seem to be other traces in early literature of a doctrine that each curse also contained the elements of a counterbalancing power to salvation. There is a valuable and long note on the subject in Rendel Harris's edition of the Didache.
 
 ---
 
@@ -1241,6 +547,724 @@ Jesus said, "Look, I will guide her to make her male, so that she too may become
 ---
 
 Selection from Robert J. Miller, ed., The Complete Gospels: Annotated Scholars Version. (Polebridge Press, 1992, 1994).
+
+---
+
+*The Lord's teaching to the heathen by the Twelve Apostles.*
+
+> **Textual source:** *The Didache*, translated by Kirsopp Lake in *The Apostolic Fathers*, vol. 1 (1912). This is a public-domain English translation. The Markdown text is derived from the [Wikisource transcription](https://en.wikisource.org/wiki/Didache_%28Lake_translation%29). Editorial changes are limited to chapter headings, verse labels and anchors, and paragraph formatting. Lake's original notes are retained below; his marginal section summaries are omitted.
+
+## Chapter 1
+
+<a id="didache-1-1"></a>**1:1** There are two Ways, one of Life and one of Death, and there is a great difference between the two Ways.
+
+<a id="didache-1-2"></a>**1:2** The Way of Life is this: "First, thou shalt love the God who made thee, secondly, thy neighbour as thyself; and whatsoever thou wouldst not have done to thyself, do not thou to another."[^1]
+
+<a id="didache-1-3"></a>**1:3** Now, the teaching of these words is this: "Bless those that curse you, and pray for your enemies, and fast for those that persecute you. For what credit is it to you if you love those that love you? Do not even the heathen do the same?" But, for your part, "love those that hate you," and you will have no enemy.
+
+<a id="didache-1-4"></a>**1:4** "Abstain from carnal" and bodily "lusts." "If any man smite thee on the right cheek, turn to him the other cheek also," and thou wilt be perfect. "If any man impress thee to go with him one mile, go with him two. If any man take thy coat, give him thy shirt also. If any man will take from thee what is thine, refuse it not"—not even if thou canst.[^2]
+
+<a id="didache-1-5"></a>**1:5** Give to everyone that asks thee, and do not refuse, for the Father's will is that we give to all from the gifts we have received. Blessed is he that gives according to the mandate; for he is innocent. Woe to him who receives; for if any man receive alms under pressure of need he is innocent; but he who receives it without need shall be tried as to why he took and for what, and being in prison he shall be examined as to his deeds, and "he shall not come out thence until he pay the last farthing."
+
+<a id="didache-1-6"></a>**1:6** But concerning this it was also said, "Let thine alms sweat into thine hands until thou knowest to whom thou art giving."
+
+## Chapter 2
+
+<a id="didache-2-1"></a>**2:1** But the second commandment of the teaching is this:
+
+<a id="didache-2-2"></a>**2:2** "Thou shalt do no murder; thou shalt not commit adultery"; thou shalt not commit sodomy; thou shalt not commit fornication; thou shalt not steal; thou shalt not use magic; thou shalt not use philtres; thou shalt not procure abortion, nor commit infanticide; "thou shalt not covet thy neighbour's goods";
+
+<a id="didache-2-3"></a>**2:3** thou shalt not commit perjury, "thou shalt not bear false witness"; thou shalt not speak evil; thou shalt not bear malice.
+
+<a id="didache-2-4"></a>**2:4** Thou shalt not be double-minded nor double-tongued, for to be double-tongued is the snare of death.
+
+<a id="didache-2-5"></a>**2:5** Thy speech shall not be false nor vain, but completed in action.
+
+<a id="didache-2-6"></a>**2:6** Thou shalt not be covetous nor extortionate, nor a hypocrite, nor malignant, nor proud; thou shalt make no evil plan against thy neighbour.
+
+<a id="didache-2-7"></a>**2:7** Thou shalt hate no man; but some thou shalt reprove,[^3] and for some shalt thou pray, and some thou shalt love more than thine own life.
+
+## Chapter 3
+
+<a id="didache-3-1"></a>**3:1** My child, flee from every evil man and from all like him.
+
+<a id="didache-3-2"></a>**3:2** Be not proud, for pride leads to murder, nor jealous, nor contentious, nor passionate, for from all these murders are engendered.
+
+<a id="didache-3-3"></a>**3:3** My child, be not lustful, for lust leads to fornication, nor a speaker of base words, nor a lifter up of the eyes, for from all these is adultery engendered.
+
+<a id="didache-3-4"></a>**3:4** My child, regard not omens, for this leads to idolatry; neither be an enchanter, nor an astrologer, nor a magician, neither wish to see these things, for from them all is idolatry engendered.
+
+<a id="didache-3-5"></a>**3:5** My child, be not a liar, for lying leads to theft, nor a lover of money, nor vain-glorious, for from all these things are thefts engendered.
+
+<a id="didache-3-6"></a>**3:6** My child, be not a grumbler, for this leads to blasphemy, nor stubborn, nor a thinker of evil, for from all these are blasphemies engendered,
+
+<a id="didache-3-7"></a>**3:7** but be thou "meek, for the meek shall inherit the earth;"
+
+<a id="didache-3-8"></a>**3:8** be thou long-suffering, and merciful and guileless, and quiet, and good, and ever fearing the words which thou hast heard.
+
+<a id="didache-3-9"></a>**3:9** Thou shalt not exalt thyself, nor let thy soul be presumptuous. Thy soul shall not consort with the lofty, but thou shalt walk with righteous and humble men.
+
+<a id="didache-3-10"></a>**3:10** Receive the accidents that befall to thee as good, knowing that nothing happens without God.
+
+## Chapter 4
+
+<a id="didache-4-1"></a>**4:1** My child, thou shalt remember, day and night, him who speaks the word of God to thee, and thou shalt honour him as the Lord, for where the Lord's nature is spoken of, there is he present.
+
+<a id="didache-4-2"></a>**4:2** And thou shalt seek daily the presence of the saints, that thou mayest find rest in their words.
+
+<a id="didache-4-3"></a>**4:3** Thou shalt not desire a schism, but shalt reconcile those that strive. Thou shalt give righteous judgment; thou shalt favour no man's person in reproving transgression.
+
+<a id="didache-4-4"></a>**4:4** Thou shalt not be of two minds whether it shall be or not.
+
+<a id="didache-4-5"></a>**4:5** Be not one who stretches out his hands to receive, but shuts them when it comes to giving.
+
+<a id="didache-4-6"></a>**4:6** Of whatsoever thou hast gained by thy hands thou shalt give a ransom for thy sins.
+
+<a id="didache-4-7"></a>**4:7** Thou shalt not hesitate to give, nor shalt thou grumble when thou givest, for thou shalt know who is the good Paymaster of the reward.
+
+<a id="didache-4-8"></a>**4:8** Thou shalt not turn away the needy, but shalt share everything with thy brother, and shalt not say that it is thine own, for if you are sharers in the imperishable, how much more in the things which perish?
+
+<a id="didache-4-9"></a>**4:9** Thou shalt not withhold thine hand from thy son or from thy daughter, but thou shalt teach them the fear of God from their youth up.
+
+<a id="didache-4-10"></a>**4:10** Thou shalt not command in thy bitterness thy slave or thine handmaid, who hope in the same God, lest they cease to fear the God who is over you both; for he comes not to call men with respect of persons, but those whom the Spirit has prepared.
+
+<a id="didache-4-11"></a>**4:11** But do you who are slaves be subject to your master, as to God's representative, in reverence and fear.
+
+<a id="didache-4-12"></a>**4:12** Thou shalt hate all hypocrisy, and everything that is not pleasing to the Lord.
+
+<a id="didache-4-13"></a>**4:13** Thou shalt not forsake the commandments of the Lord, but thou shalt keep what thou didst receive, "adding nothing to it and taking nothing away."
+
+<a id="didache-4-14"></a>**4:14** In the congregation thou shalt confess thy transgressions, and thou shalt not betake thyself to prayer with an evil conscience. This is the Way of Life.
+
+## Chapter 5
+
+<a id="didache-5-1"></a>**5:1** But the Way of Death is this: First of all, it is wicked and full of cursing, murders, adulteries, lusts, fornications, thefts, idolatries, witchcrafts, charms, robberies, false witness, hypocrisies, a double heart, fraud, pride, malice, stubbornness, covetousness, foul speech, jealousy, impudence, haughtiness, boastfulness.
+
+<a id="didache-5-2"></a>**5:2** Persecutors of the good, haters of truth, lovers of lies, knowing not the reward of righteousness, not cleaving to the good nor to righteous judgment, spending wakeful nights not for good but for wickedness, from whom meekness and patience is far, lovers of vanity, following after reward, unmerciful to the poor, not working for him who is oppressed with toil, without knowledge of him who made them, murderers of children, corrupters of God's creatures, turning away the needy, oppressing the distressed, advocates of the rich, unjust judges of the poor, altogether sinful; may ye be delivered, my children, from all these.
+
+## Chapter 6
+
+<a id="didache-6-1"></a>**6:1** See "that no one make thee to err" from this Way of the teaching, for he teaches thee without God.
+
+<a id="didache-6-2"></a>**6:2** For if thou canst bear the whole yoke of the Lord, thou wilt be perfect, but if thou canst not, do what thou canst.
+
+<a id="didache-6-3"></a>**6:3** And concerning food, bear what thou canst, but keep strictly from that which is offered to idols, for it is the worship of dead gods.
+
+## Chapter 7
+
+<a id="didache-7-1"></a>**7:1** Concerning baptism, baptise thus: Having first rehearsed all these things, "baptise, in the Name of the Father and of the Son and of the Holy Spirit," in running water;
+
+<a id="didache-7-2"></a>**7:2** but if thou hast no running water, baptise in other water, and if thou canst not in cold, then in warm.
+
+<a id="didache-7-3"></a>**7:3** But if thou hast neither, pour water three times on the head "in the Name of the Father, Son and Holy Spirit."
+
+<a id="didache-7-4"></a>**7:4** And before the baptism let the baptiser and him who is to be baptised fast, and any others who are able. And thou shalt bid him who is to be baptised to fast one or two days before.
+
+## Chapter 8
+
+<a id="didache-8-1"></a>**8:1** Let not your fasts be with the hypocrites, for they fast on Mondays and Thursdays, but do you fast on Wednesdays and Fridays.
+
+<a id="didache-8-2"></a>**8:2** And do not pray as the hypocrites, but as the Lord commanded in his Gospel, pray thus: "Our Father, who art in Heaven, hallowed be thy Name, thy Kingdom come, thy will be done, as in Heaven so also upon earth; give us to-day our daily[^4] bread, and forgive us our debt as we forgive our debtors, and lead us not into trial, but deliver us from the Evil One, for thine is the power and the glory for ever."
+
+<a id="didache-8-3"></a>**8:3** Pray thus three times a day.
+
+## Chapter 9
+
+<a id="didache-9-1"></a>**9:1** And concerning the Eucharist, hold[^5] Eucharist thus:
+
+<a id="didache-9-2"></a>**9:2** First concerning the Cup, "We give thanks to thee, our Father, for the Holy Vine of David thy child, which, thou didst make known to us through Jesus thy child; to thee be glory for ever."
+
+<a id="didache-9-3"></a>**9:3** And concerning the broken Bread: "We give thee thanks, our Father, for the life and knowledge which thou didst make known to us through Jesus thy Child. To thee be glory for ever.
+
+<a id="didache-9-4"></a>**9:4** As this broken bread was scattered upon the mountains, but was brought together and became one, so let thy Church be gathered together from the ends of the earth into thy Kingdom, for thine is the glory and the power through Jesus Christ for ever."
+
+<a id="didache-9-5"></a>**9:5** But let none eat or drink of your Eucharist except those who have been baptised in the Lord's Name. For concerning this also did the Lord say, "Give not that which is holy to the dogs."
+
+## Chapter 10
+
+<a id="didache-10-1"></a>**10:1** But after you are satisfied with food, thus give thanks:
+
+<a id="didache-10-2"></a>**10:2** "We give thanks to thee, O Holy Father, for thy Holy Name which thou didst make to tabernacle in our hearts, and for the knowledge and faith and immortality which thou didst make known to us through Jesus thy Child. To thee be glory for ever.
+
+<a id="didache-10-3"></a>**10:3** Thou, Lord Almighty, didst create all things for thy Name's sake, and didst give food and drink to men for their enjoyment, that they might give thanks to thee, but us hast thou blessed with spiritual food and drink and eternal light through thy Child.
+
+<a id="didache-10-4"></a>**10:4** Above all we give thanks to thee for that thou art mighty. To thee be glory for ever.
+
+<a id="didache-10-5"></a>**10:5** Remember, Lord, thy Church, to deliver it from all evil and to make it perfect in thy love, and gather it together in its holiness from the four winds to thy kingdom which thou hast prepared for it. For thine is the power and the glory for ever.
+
+<a id="didache-10-6"></a>**10:6** Let grace come and let this world pass away. Hosannah to the God of David. If any man be holy, let him come! if any man be not, let him repent: Maran atha,[^6] Amen."
+
+<a id="didache-10-7"></a>**10:7** But suffer the prophets to hold Eucharist as they will.
+
+## Chapter 11
+
+<a id="didache-11-1"></a>**11:1** Whosoever then comes and teaches you all these things aforesaid, receive him.
+
+<a id="didache-11-2"></a>**11:2** But if the teacher himself be perverted and teach another doctrine to destroy these things, do not listen to him, but if his teaching be for the increase of righteousness and knowledge of the Lord, receive him as the Lord.
+
+<a id="didache-11-3"></a>**11:3** And concerning the Apostles and Prophets, act thus according to the ordinance of the Gospel.[^7]
+
+<a id="didache-11-4"></a>**11:4** Let every Apostle who comes to you be received as the Lord,
+
+<a id="didache-11-5"></a>**11:5** but let him not stay more than one day, or if need be a second as well; but if he stay three days, he is a false prophet.
+
+<a id="didache-11-6"></a>**11:6** And when an Apostle goes forth let him accept nothing but bread till he reach his night's lodging; but if he ask for money, he is a false prophet.
+
+<a id="didache-11-7"></a>**11:7** Do not test or examine any prophet who is speaking in a spirit, "for every sin shall be forgiven, but this sin shall not be forgiven."
+
+<a id="didache-11-8"></a>**11:8** But not everyone who speaks in a spirit is a prophet, except he have the behaviour of the Lord. From his behaviour, then, the false prophet and the true prophet shall be known.
+
+<a id="didache-11-9"></a>**11:9** And no prophet who orders a meal in a spirit shall eat of it: otherwise he is a false prophet.
+
+<a id="didache-11-10"></a>**11:10** And every prophet who teaches the truth, if he do not what he teaches, is a false prophet.
+
+<a id="didache-11-11"></a>**11:11** But no prophet who has been tried and is genuine, though he enact a worldly mystery[^8] of the Church, if he teach not others to do what he does himself, shall be judged by you: for he has his judgment with God, for so also did the prophets of old.
+
+<a id="didache-11-12"></a>**11:12** But whosoever shall say in a spirit 'Give me money, or something else,' you shall not listen to him; but if he tell you to give on behalf of others in want, let none judge him.
+
+## Chapter 12
+
+<a id="didache-12-1"></a>**12:1** Let everyone who "comes in the Name of the Lord" be received; but when you have tested him you shall know him, for you shall have understanding of true and false.[^9]
+
+<a id="didache-12-2"></a>**12:2** If he who comes is a traveller, help him as much as you can, but he shall not remain with you more than two days, or, if need be, three.
+
+<a id="didache-12-3"></a>**12:3** And if he wishes to settle among you and has a craft, let him work for his bread.
+
+<a id="didache-12-4"></a>**12:4** But if he has no craft provide for him according to your understanding, so that no man shall live among you in idleness because he is a Christian.
+
+<a id="didache-12-5"></a>**12:5** But if he will not do so, he is making traffic of Christ; beware of such.
+
+## Chapter 13
+
+<a id="didache-13-1"></a>**13:1** But every true prophet who wishes to settle among you is "worthy of his food."
+
+<a id="didache-13-2"></a>**13:2** Likewise a true teacher is himself worthy, like the workman, of his food.
+
+<a id="didache-13-3"></a>**13:3** Therefore thou shalt take the firstfruit of the produce of the winepress and of the threshing-floor and of oxen and sheep, and shalt give them as the firstfruits to the prophets, for they are your high priests.
+
+<a id="didache-13-4"></a>**13:4** But if you have not a prophet, give to the poor.
+
+<a id="didache-13-5"></a>**13:5** If thou makest bread, take the firstfruits, and give it according to the commandment.
+
+<a id="didache-13-6"></a>**13:6** Likewise when thou openest a jar of wine or oil, give the firstfruits to the prophets.
+
+<a id="didache-13-7"></a>**13:7** Of money also and clothes, and of all your possessions, take the firstfruits, as it seem best to you, and give according to the commandment.
+
+## Chapter 14
+
+<a id="didache-14-1"></a>**14:1** On the Lord's Day of the Lord come together, break bread and hold Eucharist, after confessing your transgressions that your offering may be pure;
+
+<a id="didache-14-2"></a>**14:2** but let none who has a quarrel with his fellow join in your meeting until they be reconciled, that your sacrifice be not defiled.
+
+<a id="didache-14-3"></a>**14:3** For this is that which was spoken by the Lord, "In every place and time offer me a pure sacrifice, for I am a great king," saith the Lord, "and my name is wonderful among the heathen."
+
+## Chapter 15
+
+<a id="didache-15-1"></a>**15:1** Appoint therefore for yourselves bishops and deacons worthy of the Lord, meek men, and not lovers of money, and truthful and approved, for they also minister to you the ministry of the prophets and teachers.
+
+<a id="didache-15-2"></a>**15:2** Therefore do not despise them, for they are your honourable men together with the prophets and teachers.
+
+<a id="didache-15-3"></a>**15:3** And reprove one another not in wrath but in peace as you find in the Gospel, and let none speak with any who has done a wrong to his neighbour, nor let him hear a word from you until he repents.
+
+<a id="didache-15-4"></a>**15:4** But your prayers and alms and all your acts perform as ye find in the Gospel of our Lord.
+
+## Chapter 16
+
+<a id="didache-16-1"></a>**16:1** "Watch" over your life: "let your lamps" be not quenched "and your loins" be not ungirded, but be "ready," for ye know not "the hour in which our Lord cometh."
+
+<a id="didache-16-2"></a>**16:2** But be frequently gathered together seeking the things which are profitable for your souls, for the whole time of your faith shall not profit you except ye be found perfect at the last time;
+
+<a id="didache-16-3"></a>**16:3** for in the last days the false prophets and the corrupters shall be multiplied, and the sheep shall be turned into wolves, and love shall change to hate;
+
+<a id="didache-16-4"></a>**16:4** for as lawlessness increaseth they shall hate one another and persecute and betray, and then shall appear the deceiver of the world as a Son of God, and shall do signs and wonders and the earth shall be given over into his hands and he shall commit iniquities which have never been since the world began.
+
+<a id="didache-16-5"></a>**16:5** Then shall the creation of mankind come to the fiery trial and "many shall be offended" and be lost, but "they who endure" in their faith "shall be saved" by the curse itself.[^10]
+
+<a id="didache-16-6"></a>**16:6** And "then shall appear the signs" of the truth. First the sign spread out in Heaven, then the sign of the sound of the trumpet, and thirdly the resurrection of the dead:
+
+<a id="didache-16-7"></a>**16:7** but not of all the dead, but as it was said, "The Lord shall come and all his saints with him."
+
+<a id="didache-16-8"></a>**16:8** Then shall the world "see the Lord coming on the clouds of Heaven."
+
+## Translator's notes
+
+[^1]: This is the so-called "negative form of the Golden Rule." It is found in some manuscripts in the "Apostolic decrees" in Acts 15:28, and is, in various forms, met with in Jewish and early Christian literature.
+
+[^2]: The Greek is literally "for thou art not even able"; but this makes no sense, and though an emendation is difficult the sense must be something like that given by the translation—unless, indeed, the whole phrase be merely a flippant gloss, which has been erroneously taken into the texts.
+
+[^3]: On the ground of a comparison with Jude 22 f. etc., some think that "and some thou shalt pity" ought to be added.
+
+[^4]: This is the traditional translation of ἐπιούσιον, but it is by no means certain that it is correct. The word has from the beginning been a puzzle, and its meaning is not clearly known. See further any good commentary on the gospels.
+
+[^5]: The translation fails to preserve the play on the words, which might be rendered "concerning the giving of thanks, give thanks thus, etc." But this would obscure the fact that *eucharistia* is here quite clearly "Eucharist" (cf. verse 5).
+
+[^6]: A transliteration of Aramaic words meaning "Our Lord! Come!"
+
+[^7]: It is unknown to what ordinance the writer refers.
+
+[^8]: This passage has never been satisfactorily explained: it probably refers to a tendency among some prophets to introduce forms of worship, or of illustration of their teaching, of doubtful propriety, if so the reference below to the prophets of old is perhaps an allusion to Hosea (Hos. 1, 2 ff.).
+
+[^9]: Literally, "right and left understanding."
+
+[^10]: The meaning is obscure; but there seem to be other traces in early literature of a doctrine that each curse also contained the elements of a counterbalancing power to salvation. There is a valuable and long note on the subject in Rendel Harris's edition of the Didache.
+
+---
+
+# John Climacus Virtue Mapping
+
+This document compares the thirty steps in John Climacus's *Ladder of Divine Ascent* with the [21-axis virtue system](https://ctzurcanu.github.io/ethical-christian/whole-virtues). It tests coverage in both directions:
+
+1. Can every step or positive corrective in Climacus be decomposed using the 21 axes?
+2. Can every axis in the 21-axis system be reconstructed from Climacus?
+
+The answer is asymmetric. Every positive ethical aim in Climacus can be represented by the 21-axis system. Climacus does not provide full counterparts for every axis, especially the material, economic, institutional, procedural, and publicly provable axes.
+
+## Sources
+
+- John Climacus, *The Ladder of Divine Ascent*, translated by Archimandrite Lazarus Moore (1959): [complete online text](https://azbyka.org/otechnik/world/the-ladder-of-divine-ascent/) and [PDF](https://www.carmelitepriory.org/wp-content/uploads/2014/02/TheLadderofDivineAscent.pdf).
+- The [Greek Orthodox Archdiocese of Canada prologue](https://goarchdiocese.ca/prologue-the-ladder-of-divine-ascent-by-saint-john-climacus/) explains the traditional interpretation of the work as thirty steps beginning with renunciation and ending with the God of love.
+- The target definitions, ranges, and hierarchy are those in [On Virtues (Complete)](https://ctzurcanu.github.io/ethical-christian/whole-virtues).
+
+The step titles below follow Moore's translation. The descriptions and mappings are analytical paraphrases, not additions to Climacus's text.
+
+## Method
+
+Climacus's thirty chapters are not thirty atomic virtues. They include:
+
+- virtues, such as meekness and humility;
+- vices, such as lying, avarice, and pride;
+- disciplines, such as vigil and prayer;
+- transitions, such as repentance and renunciation;
+- composite states, such as dispassion;
+- Step 30's compound triad of faith, hope, and love.
+
+A vice is not counted as a virtue merely because Climacus gives it a step. For a vice-centered chapter, the mapping identifies the virtues violated by the vice and the positive corrective Climacus recommends.
+
+The comparison uses three reverse-mapping statuses:
+
+- **Covered**: Climacus expressly supplies the axis's central positive function.
+- **Partial**: Climacus supplies a restricted, private, monastic, or implicit form but not the whole axis.
+- **Not covered**: a verbal resemblance or incidental example exists at most; Climacus does not supply the axis as a positive ethical dimension.
+
+Ascetic intensity is not automatically virtue. Under the 21-axis definition, fasting, vigil, poverty, obedience, or renunciation remains virtuous only within a constructive mean. If it needlessly destroys Survival, Abundance, judgment, or another virtue, it becomes excess rather than a higher score.
+
+## From Climacus to the 21-Axis System
+
+### Step 1. Renunciation of the world
+
+**Type:** composed ascetic transition.
+
+Climacus treats renunciation as leaving attachments so that life can be directed toward God.
+
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): lower goods and security are invested in pursuit of a higher good.
+- [Temperance](https://virtues.provable.dev/docs/temperance): compulsive appetite and attachment are placed under self-government.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): the sacrifice is oriented by belief in God and the coming Kingdom.
+- [Hope](https://virtues.provable.dev/docs/hope): renunciation depends on a better state being possible.
+
+Renunciation is not an additional atomic virtue. Contempt for embodiment or material provision as such can become excessive Temperance or destructive Sacrifice.
+
+### Step 2. Detachment
+
+**Type:** composed disposition.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): freedom from domination by possessions, status, and anxiety.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): confidence is transferred from possessions to divine order.
+- [Hope](https://virtues.provable.dev/docs/hope): the future good makes present detachment intelligible.
+
+Detachment does not justify neglect of dependants, promises, health, or productive obligations. Such neglect would diminish other virtues.
+
+### Step 3. Exile or pilgrimage
+
+**Type:** composed practice.
+
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): familiar place, status, and recognition are surrendered for a higher aim.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): separation and hardship are endured.
+- [Temperance](https://virtues.provable.dev/docs/temperance): attachment to one's familiar social identity is restrained.
+- [Prudence](https://virtues.provable.dev/docs/prudence): Climacus expressly warns that exile carried to an extreme is not always good and requires discretion.
+
+### Step 4. Obedience
+
+**Type:** relational discipline with a governance structure.
+
+- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): director and disciple occupy differentiated roles.
+- [Governance](https://virtues.provable.dev/docs/governance): the director coordinates another person's formation.
+- [Temperance](https://virtues.provable.dev/docs/temperance): the disciple restrains impulsive self-will.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): correction, service, and difficulty are endured.
+
+This is only a partial match for Provable Order and Governance. Climacus's ideal of unquestioning obedience does not itself provide public proof, continuing challenge, proportional representation, or an accountability procedure for the superior.
+
+### Step 5. Repentance
+
+**Type:** corrective process and composed virtue.
+
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): repentance supplies the guilty party's turn away from wrongdoing.
+- [Justice](https://virtues.provable.dev/docs/justice): Climacus includes self-judgment, voluntary retribution, and good deeds contrary to the former sins.
+- [Hope](https://virtues.provable.dev/docs/hope): he calls repentance the rejection of despair and a contract for a second life.
+- [Temperance](https://virtues.provable.dev/docs/temperance): repentance changes subsequent conduct rather than merely producing regret.
+
+Climacus develops God-facing and self-punitive repentance more fully than victim-facing restitution, so the match with the complete Forgiveness and Justice axes remains incomplete.
+
+### Step 6. Remembrance of death
+
+**Type:** contemplative discipline.
+
+- [Prudence](https://virtues.provable.dev/docs/prudence): action is planned in light of mortality and final consequences.
+- [Measurability](https://virtues.provable.dev/docs/measurability): the agent attends to an unavoidable fact rather than behaving as if time were unlimited.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): death is interpreted within judgment, prayer, and eternal life.
+
+Death is the object of attention here. Remembering death is not equivalent to the positive virtue of Survival.
+
+### Step 7. Mourning that causes joy
+
+**Type:** penitential practice and composite disposition.
+
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): mourning participates in repentance and moral repair.
+- [Justice](https://virtues.provable.dev/docs/justice): conscience tests conduct against what is owed.
+- [Hope](https://virtues.provable.dev/docs/hope): the mourning is directed toward transformation rather than despair.
+- [Temperance](https://virtues.provable.dev/docs/temperance): Climacus associates mature mourning with restraint of speech and anger.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): its mature expression includes compassion and non-condemnation.
+
+### Step 8. Freedom from anger and meekness
+
+**Type:** positive disposition acquired through practice.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): anger is governed rather than allowed to govern action.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): meekness preserves relationship under praise, blame, honor, or dishonor.
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the desire to injure the offender is abandoned.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): insult is endured without retaliation or collapse.
+
+### Step 9. Remembrance of wrongs
+
+**Type:** vice diagnosis; remembrance of wrongs is not a virtue.
+
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the corrective is release from vengeance and stored injury.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): enmity is replaced by restored relational capacity.
+- [Temperance](https://virtues.provable.dev/docs/temperance): anger is prevented from becoming a durable habit.
+
+Climacus's rapid forgetting of wrongs does not always state the prior requirements of Justice, repentance, restitution, and protection from repetition. It therefore covers only part of the 21-axis definition of Forgiveness.
+
+### Step 10. Slander or calumny
+
+**Type:** vice diagnosis; slander is not a virtue.
+
+- [Justice](https://virtues.provable.dev/docs/justice): another person must not be falsely condemned or deprived of reputation.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): speech must correspond to truth rather than simulation.
+- [Fairness](https://virtues.provable.dev/docs/fairness): accusation must not corrupt the conditions under which another is judged.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): claimed concern must become sincere concern rather than covert hostility.
+- [Temperance](https://virtues.provable.dev/docs/temperance): the impulse to disparage is restrained.
+
+### Step 11. Talkativeness and silence
+
+**Type:** discipline of speech; neither maximum speech nor maximum silence is independently virtuous.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): speech is governed.
+- [Prudence](https://virtues.provable.dev/docs/prudence): the speaker judges when speech, listening, or silence serves the good.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): silence is ordered toward attention, knowledge, contemplation, and truthful speech.
+
+Permanent silence that conceals evidence, refuses correction, or withholds necessary warning would be an excess, not virtue.
+
+### Step 12. Lying
+
+**Type:** vice diagnosis; lying is not a virtue.
+
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): the positive corrective is truthfulness.
+- [Justice](https://virtues.provable.dev/docs/justice): deception corrupts judgment and what others receive as their due.
+- [Measurability](https://virtues.provable.dev/docs/measurability): false reports destroy parsability and reliable evidence.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): Climacus identifies lying as destructive of love and trust.
+
+### Step 13. Despondency
+
+**Type:** vice diagnosis; despondency or acedia is not a virtue.
+
+- [Hope](https://virtues.provable.dev/docs/hope): despair is replaced by belief in possible transformation.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): the person persists through spiritual fatigue and discouragement.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): the accusation that God is merciless is rejected.
+
+Climacus's ascetic diligence is not full [Industriousness](https://virtues.provable.dev/docs/industriousness). He can describe a despondent person as resolute in manual labor while spiritually negligent; productive effort and spiritual persistence are therefore not identical in his analysis.
+
+### Step 14. Gluttony
+
+**Type:** vice diagnosis; gluttony is excess rather than virtue.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): appetite is brought into a beneficial range.
+- [Survival](https://virtues.provable.dev/docs/survival): food serves embodied life and health rather than becoming a destructive master.
+- [Prudence](https://virtues.provable.dev/docs/prudence): bodily discipline must be fitted to actual condition and consequences.
+
+Mortification that destroys health without producing a higher good would move from Temperance into unsustainable asceticism.
+
+### Step 15. Purity and chastity
+
+**Type:** positive but composed disposition.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): sexual appetite is governed.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): restraint is maintained through pressure and duration.
+- [Hope](https://virtues.provable.dev/docs/hope): desire is redirected toward a better and more integrated state.
+
+Climacus's monastic celibacy is one ascetic implementation. It is not itself the whole virtue and does not define Survival, sexual Fitness, family, or reproduction.
+
+### Step 16. Love of money or avarice
+
+**Type:** vice diagnosis; avarice is not a virtue.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): acquisition is prevented from becoming unlimited appetite.
+- [Charity](https://virtues.provable.dev/docs/charity): resources can be released for others rather than hoarded.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): possessiveness is replaced by hospitality and generosity.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): Climacus interprets avarice as dependence on wealth produced by unbelief.
+
+Condemning avarice does not supply Economy, Market, or Abundance. Those axes distinguish virtuous management, exchange, and provision from their excesses.
+
+### Step 17. Poverty that hastens heavenward
+
+**Type:** ascetic implementation of several virtues.
+
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): possessions are surrendered for a higher end.
+- [Temperance](https://virtues.provable.dev/docs/temperance): dependence on possession is reduced.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): reliance is placed on God and the commandments.
+- [Hope](https://virtues.provable.dev/docs/hope): heavenly good is preferred to immediate possession.
+
+Poverty is not equivalent to Abundance and is not automatically virtuous. If involuntary or destructive of life, capacity, dependants, or charity, poverty is a lack on the Abundance axis.
+
+### Step 18. Insensibility
+
+**Type:** vice diagnosis; deadened moral perception is not a virtue.
+
+- [Measurability](https://virtues.provable.dev/docs/measurability): the corrective begins by perceiving the contradiction between professed judgment and repeated conduct.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): knowledge must become coherent with action.
+- [Hope](https://virtues.provable.dev/docs/hope): negligence and despair are replaced by renewed possibility.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): moral and relational sensitivity is restored.
+
+Climacus supplies introspective signs, not the public, standardized, and challengeable proof required for full Measurability.
+
+### Step 19. Sleep, prayer, and psalm-singing
+
+**Type:** regulation of bodily rhythm and communal religious practice.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): sleep is neither indulged without limit nor rejected without regard to nature.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): prayer and psalmody orient attention toward God.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): shared worship coordinates the community.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): the monk rises and continues despite fatigue.
+
+### Step 20. Bodily and spiritual vigil
+
+**Type:** ascetic discipline.
+
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): wakefulness is maintained despite discomfort.
+- [Temperance](https://virtues.provable.dev/docs/temperance): sleep and bodily impulse are governed.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): vigil serves prayer, reading, and attention to God.
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): rest is invested in a higher spiritual purpose.
+
+Climacus says offerings are valued according to intention and capacity. A vigil that predictably destroys health or judgment would exceed the constructive mean.
+
+### Step 21. Cowardice
+
+**Type:** vice diagnosis; cowardice is not a virtue.
+
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): fear is endured and governed.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): conviction replaces imagined and untested danger.
+- [Hope](https://virtues.provable.dev/docs/hope): the possibility of divine help and successful endurance remains present.
+- [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness): personal security can be risked for a higher good.
+
+Climacus also distinguishes courage from mere fearlessness; criminals may be unafraid without being virtuous.
+
+### Step 22. Vainglory
+
+**Type:** vice diagnosis; vainglory is not a virtue.
+
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): humility and accurate recognition replace performance for praise.
+- [Temperance](https://virtues.provable.dev/docs/temperance): appetite for approval is restrained.
+- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): actual rank and value must not be replaced by self-advertisement.
+
+Climacus generally suppresses claims to recognition; he does not develop the system's positive, evidence-based recognition of real virtue.
+
+### Step 23. Pride and blasphemous thoughts
+
+**Type:** two related vice diagnoses.
+
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): humility, compassion, and recognition replace contempt.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): denial of God and blasphemy are opposed by true belief and coherent judgment.
+- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): self, neighbor, and God are not assigned false rank.
+- [Justice](https://virtues.provable.dev/docs/justice): condemnation and inhuman judgment are rejected.
+
+### Step 24. Meekness, simplicity, guilelessness, and malice
+
+**Type:** several positive dispositions contrasted with a vice.
+
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): meekness and guilelessness preserve relationship without manipulation.
+- [Temperance](https://virtues.provable.dev/docs/temperance): irritability and duplicity do not control action.
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): the troublesome neighbor is met without revenge.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): guilelessness includes sincerity rather than falsification.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): the person remains stable under honor and dishonor.
+
+### Step 25. Humility
+
+**Type:** positive disposition and composite spiritual state.
+
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): Humility and Recognition are explicit members of this axis.
+- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): achievement, limitation, dependence, and grace are assigned their proper ranks.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): the person recognizes divine grace and personal limitation.
+- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): Climacus describes perfected humility as an experiential grace that cannot be transferred adequately by words.
+
+The last correspondence is partial: ineffable experience appears, but Climacus does not isolate the system's complete dimension of self-proving, order-changing Goodness beyond reason.
+
+### Step 26. Discernment of thoughts, passions, and virtues
+
+**Type:** epistemic and strategic virtue.
+
+- [Prudence](https://virtues.provable.dev/docs/prudence): action is fitted to person, stage, circumstance, and consequence.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): true good is distinguished from nature, passion, deception, and false appearance.
+- [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order): virtues and vices are discriminated and ordered.
+- [Measurability](https://virtues.provable.dev/docs/measurability): Climacus uses observable signs and stages to diagnose spiritual condition.
+
+The proof remains primarily private, experiential, and dependent on a spiritually qualified discerner. It is not yet public or continuously challengeable Measurability.
+
+### Step 27. Holy solitude of body and soul
+
+**Type:** contemplative discipline and composite state.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): habits, senses, and intrusive impulses are reduced to order.
+- [Prudence](https://virtues.provable.dev/docs/prudence): thoughts and risks are observed before action.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): solitude serves contemplation and knowledge rather than mere isolation.
+- [Fortitude](https://virtues.provable.dev/docs/fortitude): sustained attention is defended against internal pressure.
+
+Solitude that destroys needed relationship, correction, or responsibility is not Harmony and would not remain virtuous under the 21-axis criteria.
+
+### Step 28. Prayer
+
+**Type:** religious practice and composite relation.
+
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): prayer is conscious relation to God and contemplation of divine truth.
+- [Hope](https://virtues.provable.dev/docs/hope): Climacus calls prayer a demonstration of hope and an answer to despair.
+- [Charity](https://virtues.provable.dev/docs/charity): prayer includes intercession and concern for the neighbor.
+- [Forgiveness](https://virtues.provable.dev/docs/forgiveness): prayer participates in repentance, reconciliation, and mercy.
+- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): when prayer actually bears revelation, grace, or knowledge that cannot be manufactured by ordinary inference, it instantiates this axis.
+
+Prayer as an activity is not automatically proof of Ineffable Goodness; the correspondence is conditional on what is received and demonstrated.
+
+### Step 29. Dispassion and perfection
+
+**Type:** terminal composite state, not an atomic virtue.
+
+- [Temperance](https://virtues.provable.dev/docs/temperance): appetites and passions no longer dominate action.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): selfish passion is displaced by stable love of God and others.
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): the mind remains in contemplation and knowledge of God.
+- [Charity](https://virtues.provable.dev/docs/charity): dispassion in Climacus is filled by love rather than emptied into indifference.
+- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): divine contemplation is presented as exceeding ordinary verbal instruction.
+
+The state does not create a twenty-second axis. It is a high-value composition of several axes.
+
+### Step 30. Faith, hope, and love
+
+**Type:** explicit compound of supreme virtues.
+
+- [Faith, Reason](https://virtues.provable.dev/docs/reason): direct correspondence with faith, including knowledge and relation to God.
+- [Hope](https://virtues.provable.dev/docs/hope): direct correspondence with confident expectation of the good.
+- [Charity](https://virtues.provable.dev/docs/charity): love gives itself and acts for God and neighbor.
+- [Harmony, Generosity](https://virtues.provable.dev/docs/harmony): love includes patience, humility, union, and the exclusion of hostile thought.
+- [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness): Climacus describes divine love as beyond adequate definition and as yielding illumination, prophecy, and miracles.
+
+Love is not treated here as one new atomic axis. Its described operations decompose into Charity, Harmony, Faith, Hope, and, in its revelatory form, Ineffable Goodness.
+
+## From the 21-Axis System to Climacus
+
+| No. | 21 Virtues | Status | Closest steps in Climacus | Coverage judgment |
+|---:|---|---|---|---|
+| 1 | [Ineffable Goodness](https://virtues.provable.dev/docs/ineffable_goodness) | **Partial** | 25, 28–30 | Ineffable grace, illumination, prophecy, and miracle appear, but not an independent dimension of self-proving Goodness that can reorder the hierarchy. |
+| 2 | [Provable Order/Hierarchy](https://virtues.provable.dev/docs/order) | **Partial** | 4, 22–26; the ladder as a whole | Climacus orders states and practices, but the order rests on spiritual authority and experience rather than public proof, consensus, and continuous challenge. |
+| 3 | [Faith, Reason](https://virtues.provable.dev/docs/reason) | **Covered** | 1–4, 12, 21, 23, 26–30 | Faith is explicit, and discernment supplies a reason-like discrimination of truth, passion, and apparent good. |
+| 4 | [Economy](https://virtues.provable.dev/docs/economy) | **Not covered** | 16–17 only contrast avarice and poverty | Climacus does not define management, measurement, and proof of efficient Charity. |
+| 5 | [Charity](https://virtues.provable.dev/docs/charity) | **Covered** | 3, 10, 16, 28, 30 | Love, hospitality, release of money, prayer for others, and union with God and neighbor give direct counterparts. |
+| 6 | [Goodness, Sacrifice, Courage, Civilization](https://virtues.provable.dev/docs/goodness) | **Partial** | 1, 3, 17, 20–21, 30 | Renunciation and courage strongly cover personal sacrifice for higher goods; Climacus does not theorize Civilization as the social totality of encouraged sacrifices. |
+| 7 | [Hope](https://virtues.provable.dev/docs/hope) | **Covered** | 5, 7, 13, 21, 28, 30 | Hope is both an explicit summit virtue and the corrective to despair. |
+| 8 | [Harmony, Generosity](https://virtues.provable.dev/docs/harmony) | **Covered** | 8–12, 16, 22–25, 29–30 | Meekness, humility, compassion, generosity, guilelessness, and love directly occupy this axis. |
+| 9 | [Prudence](https://virtues.provable.dev/docs/prudence) | **Covered** | 3, 6, 11, 14, 26–27 | Climacus repeatedly requires discretion, diagnosis, proportion, and stage-appropriate practice. |
+| 10 | [Forgiveness](https://virtues.provable.dev/docs/forgiveness) | **Partial** | 5, 8–9, 24, 28 | Repentance and release of vengeance are explicit, but Climacus does not consistently require completed Justice, restitution, and protection before interpersonal forgiveness. |
+| 11 | [Justice](https://virtues.provable.dev/docs/justice) | **Partial** | 5, 10, 12, 23, 26, 28 | Divine judgment, conscience, truthful judgment, and voluntary retribution appear; public adjudication, restitution, and institutional remedy do not. |
+| 12 | [Governance](https://virtues.provable.dev/docs/governance) | **Not covered** | 4 | Obedience describes being governed. It does not define the virtue, limits, proof, accountability, and correction of governing others. |
+| 13 | [Temperance](https://virtues.provable.dev/docs/temperance) | **Covered** | 1–3, 8, 11, 14–20, 22–24, 27–29 | Regulation of appetite, speech, anger, sleep, sexuality, possession, and thought dominates the middle of the ladder. |
+| 14 | [Fairness](https://virtues.provable.dev/docs/fairness) | **Not covered** | 10 offers only a remote analogy | Protection against slander is not a theory of optional contest, equal conditions, role-derived rights, or a level playing field. |
+| 15 | [Fortitude](https://virtues.provable.dev/docs/fortitude) | **Covered** | 3–4, 7–8, 13, 15, 19–21, 24, 27–28 | Endurance, ascetic struggle, patience, courage, and resistance to fear are pervasive. |
+| 16 | [Competition](https://virtues.provable.dev/docs/competition) | **Partial** | 1, 4–5, 20–21, 27–28; athletic and military imagery throughout | Climacus values spiritual struggle against passions and demons, but not Competition as an independent, open, challenge-accepting process of comparison and selection among peers. |
+| 17 | [Measurability](https://virtues.provable.dev/docs/measurability) | **Partial** | 6, 18, 25–26, 28 | Signs, stages, self-examination, and a “mirror of progress” provide qualitative diagnosis; public data, standardization, searchability, and challengeable verification are absent. |
+| 18 | [Market](https://virtues.provable.dev/docs/market) | **Not covered** | 16–17 oppose attachment to money and possession | Climacus provides no positive virtue of transparent comparison, discoverability, voluntary exchange, or a leveled exchange field. |
+| 19 | [Abundance](https://virtues.provable.dev/docs/abundance) | **Not covered** | 2, 16–17 use material renunciation; “abundance” is spiritual metaphor elsewhere | Material wealth and vitality are subordinated or rejected rather than developed as sustainable, diverse, robust provision. |
+| 20 | [Industriousness](https://virtues.provable.dev/docs/industriousness) | **Not covered** | 4, 13, 20 contain service, manual work, and effort | Ascetic toil is not the transformation of living necessity into stable provision through cultivation, craft, maintenance, and improving production. |
+| 21 | [Survival](https://virtues.provable.dev/docs/survival) | **Partial** | 1, 6, 14–15, 19–20, 29 | Climacus addresses death, bodily appetite, health limits, and spiritual life, but often subordinates bodily continuity and does not cover life, health, species, and replicability as a universal positive axis. |
+
+## Coverage Result
+
+### Climacus represented by the 21-axis system
+
+No positive ethical aim in the thirty steps requires an additional virtue axis. The apparent surplus consists of:
+
+- vices whose correction maps to existing axes;
+- practices that compose several axes;
+- spiritual states produced by several axes together;
+- the compound triad of faith, hope, and love.
+
+Therefore the thirty steps do not supply a counterexample to the coverage of the 21-axis system.
+
+### Axes fully represented by Climacus
+
+1. Faith, Reason
+2. Charity
+3. Hope
+4. Harmony, Generosity
+5. Prudence
+6. Temperance
+7. Fortitude
+
+### Axes represented only partially by Climacus
+
+1. Ineffable Goodness
+2. Provable Order/Hierarchy
+3. Goodness, Sacrifice, Courage, Civilization
+4. Forgiveness
+5. Justice
+6. Competition
+7. Measurability
+8. Survival
+
+### Axes not covered by Climacus
+
+1. Economy
+2. Governance
+3. Fairness
+4. Market
+5. Abundance
+6. Industriousness
+
+The principal omissions are not accidental synonyms. They are entire domains: efficient management of giving, accountable rule, fair contest, public exchange, sustainable resources, and productive provision.
+
+## Ladder's Completeness
+
+In the New Testament there are clear cases of angels influencing low forms of life or even nonliving objects:
+
+- [Daniel 6:22](https://www.biblegateway.com/passage/?search=Daniel%206%3A22&version=ISV): an angel explicitly shuts the lions’ mouths.
+- [Numbers 22:22–35](https://www.biblegateway.com/passage/?search=Numbers%2022%3A22-35&version=ISV): Balaam’s donkey sees the angel, repeatedly avoids him, and lies down. God—not the angel—opens her mouth.
+
+- [Judges 6:20–21](https://www.biblegateway.com/passage/?search=Judges%206%3A20-21&version=ISV): the angel touches an offering; fire emerges from the rock and consumes it.
+- [Matthew 28:2](https://www.biblegateway.com/passage/?search=Matthew%2028%3A2&version=ISV): an angel rolls away Jesus’ tombstone.
+- [Acts 5:19](https://www.biblegateway.com/passage/?search=Acts%205%3A19&version=ISV): an angel opens prison doors.
+- [Acts 12:7–11](https://www.biblegateway.com/passage/?search=Acts%2012%3A7-11&version=ISV): chains fall, light appears, and an iron gate opens automatically. Peter initially suspects a vision, then explicitly concludes it really happened.
+- [Genesis 19:13](https://www.biblegateway.com/passage/?search=Genesis%2019%3A13-24&version=ISV): the angels say they were sent to destroy Sodom, although the fire itself is attributed to God.
+
+[John 5:4](https://classic.net.bible.org/passage.php?passage=Joh+5%3A4) describes an angel stirring water.
+
+Revelation adds many visionary cases: angels restrain winds and affect land, sea, rivers, vegetation, and celestial bodies.
+
+Therefore, the biblical angels have acting power on the whole creation. All virtues have to be part of the ladder for the ladder to be considered complete.
+
+## The Two Orders Are Not the Same Kind of Order
+
+Climacus presents a developmental itinerary for a monk: renunciation, purification from passions, contemplation, and union in faith, hope, and love. The 21-axis hierarchy ranks ethical dimensions by their place in a general system extending from Survival to Ineffable Goodness.
+
+Consequently, the mapping is not order-preserving:
+
+- Climacus puts faith, hope, and love together at Step 30; the 21-axis system distinguishes their functions and ranks Faith/Reason, Charity, and Hope separately.
+- A single step in Climacus often requires axes from widely separated positions in the 21-axis hierarchy.
+- Climacus's order is pedagogical and monastic; the 21-axis order is intended to be ontological, cross-domain, and applicable to individuals, institutions, all life, and ethoses.
+
+Climacus therefore supplies a profound ladder of ascetic formation, but not a complete hierarchy of every kind of virtue. The 21-axis system can encode the ladder; the ladder cannot reconstruct the whole 21-axis system.
 
 ---
 

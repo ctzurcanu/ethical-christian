@@ -2,6 +2,7 @@
 title: The Didache
 sidebar_label: The Didache
 slug: /sources/didache
+sidebar_position: 40
 description: The Didache, translated by Kirsopp Lake, with chapter and verse references.
 ---
 

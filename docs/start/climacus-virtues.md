@@ -1,7 +1,7 @@
 ---
 title: Climacus Virtue Mapping
 sidebar_label: Climacus Virtue Mapping
-sidebar_position: 6
+sidebar_position: 60
 slug: /start/climacus
 description: "A bidirectional mapping between the 30 steps of John Climacus and the 21-axis virtue system."
 ---
@@ -430,6 +430,25 @@ Therefore the thirty steps do not supply a counterexample to the coverage of the
 6. Industriousness
 
 The principal omissions are not accidental synonyms. They are entire domains: efficient management of giving, accountable rule, fair contest, public exchange, sustainable resources, and productive provision.
+
+## Ladder's Completeness
+
+In the New Testament there are clear cases of angels influencing low forms of life or even nonliving objects:
+
+- [Daniel 6:22](https://www.biblegateway.com/passage/?search=Daniel%206%3A22&version=ISV): an angel explicitly shuts the lions’ mouths.
+- [Numbers 22:22–35](https://www.biblegateway.com/passage/?search=Numbers%2022%3A22-35&version=ISV): Balaam’s donkey sees the angel, repeatedly avoids him, and lies down. God—not the angel—opens her mouth.
+
+- [Judges 6:20–21](https://www.biblegateway.com/passage/?search=Judges%206%3A20-21&version=ISV): the angel touches an offering; fire emerges from the rock and consumes it.
+- [Matthew 28:2](https://www.biblegateway.com/passage/?search=Matthew%2028%3A2&version=ISV): an angel rolls away Jesus’ tombstone.
+- [Acts 5:19](https://www.biblegateway.com/passage/?search=Acts%205%3A19&version=ISV): an angel opens prison doors.
+- [Acts 12:7–11](https://www.biblegateway.com/passage/?search=Acts%2012%3A7-11&version=ISV): chains fall, light appears, and an iron gate opens automatically. Peter initially suspects a vision, then explicitly concludes it really happened.
+- [Genesis 19:13](https://www.biblegateway.com/passage/?search=Genesis%2019%3A13-24&version=ISV): the angels say they were sent to destroy Sodom, although the fire itself is attributed to God.
+
+[John 5:4](https://classic.net.bible.org/passage.php?passage=Joh+5%3A4) describes an angel stirring water.
+
+Revelation adds many visionary cases: angels restrain winds and affect land, sea, rivers, vegetation, and celestial bodies.
+
+Therefore, the biblical angels have acting power on the whole creation. All virtues have to be part of the ladder for the ladder to be considered complete.
 
 ## The Two Orders Are Not the Same Kind of Order
 
