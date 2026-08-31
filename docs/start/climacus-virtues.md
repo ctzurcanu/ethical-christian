@@ -433,7 +433,7 @@ The principal omissions are not accidental synonyms. They are entire domains: ef
 
 ## Ladder's Completeness
 
-In the New Testament there are clear cases of angels influencing low forms of life or even nonliving objects:
+In the Bible there are clear cases of angels influencing low forms of life or even nonliving objects:
 
 - [Daniel 6:22](https://www.biblegateway.com/passage/?search=Daniel%206%3A22&version=ISV): an angel explicitly shuts the lions’ mouths.
 - [Numbers 22:22–35](https://www.biblegateway.com/passage/?search=Numbers%2022%3A22-35&version=ISV): Balaam’s donkey sees the angel, repeatedly avoids him, and lies down. God—not the angel—opens her mouth.
