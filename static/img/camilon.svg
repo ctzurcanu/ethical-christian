@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg210"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="camilon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs204" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.30"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.78027344"
+     inkscape:cx="499.82478"
+     inkscape:cy="512"
+     inkscape:document-units="px"
+     inkscape:current-layer="path2052-9"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <metadata
+     id="metadata207">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:22.63px;text-anchor:middle;fill:#333333;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="text404-7"><textPath
+         xlink:href="#path2052-9"
+         startOffset="50%"
+         id="textPath2155"><tspan
+           id="tspan402-3"
+           style="font-size:64px;fill:#333333;fill-opacity:1"
+           dx="0 0 0 0 14.93">    κάμη</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:30.63px;text-anchor:middle;fill:#333333;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="text404-5-1"
+       transform="translate(0,16)"><textPath
+         xlink:href="#path2052-1-4"
+         startOffset="50%"
+         id="textPath2210"><tspan
+           id="tspan402-5-8"
+           style="font-size:64px;fill:#333333;fill-opacity:1"> λον   </tspan></textPath></text>
+    <path
+       id="path1897"
+       style="stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill:#808080"
+       d="M 561.34168,157.01061 C 561.34168,266.01324 512,805.50123 512,925.97182 512,806.78283 462.65832,266.01324 462.65832,157.01061 c 0,-56.45694 25.37002,-58.697288 49.34168,-58.953698 23.97166,-0.25641 49.34168,-0.0665 49.34168,58.953698 z"
+       sodipodi:nodetypes="scszs" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="path1996"
+       cx="512"
+       cy="180.97121"
+       rx="33.321651"
+       ry="66.643303" />
+    <g
+       id="path2052-9"
+       style="opacity:0.16;fill:#ffffff;stroke:#000000">
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 504.63086,123.13477 c -89.394,0 -121.50632,41.85246 -166.38477,71.86132 -44.87845,30.00887 -81.38586,53.47071 -170.67578,53.47071 v 109 c 111.92139,0 182.42507,-39.20443 231.26367,-71.86133 48.83861,-32.65691 47.16601,-53.4707 105.79688,-53.4707 z"
+         id="path2223"
+         sodipodi:nodetypes="csccscc" />
+    </g>
+    <g
+       id="path2052-1-4"
+       style="opacity:0.69;fill:none;stroke:#808080;stroke-width:0.8;stroke-dasharray:none"
+       transform="translate(-42.292866)">
+      <path
+         style="color:#000000;fill:none;stroke:#808080;stroke-width:0.8;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 545.32165,121.85317 v 109 c 58.63088,0 41.25771,22.09539 90.09632,54.7523 48.8386,32.6569 119.34424,71.86133 231.26562,71.86133 v -109 c -89.28991,0 -125.79928,-23.46184 -170.67773,-53.47071 -44.87845,-30.00886 -61.29021,-73.14292 -150.68421,-73.14292 z"
+         id="path2217"
+         sodipodi:nodetypes="ccsccsc" />
+    </g>
+  </g>
+</svg>
