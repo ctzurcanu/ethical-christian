@@ -73,4 +73,6 @@ When something is impossible from the material point of view, it may be possible
 - each ethos comes with its own specific filter
 - the ethos is timeless, and membership in it is timeless
 - what seems impossible for a human is possible for an ethos
+- it is impossible for a rich man who is motivated by matterialism to be Christian
+- it is possible to be rich and Christian if you are motivated by ethical generosity
 
