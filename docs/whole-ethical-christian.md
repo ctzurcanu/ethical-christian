@@ -9232,7 +9232,7 @@ appears in:
 
 ## Consequential Details
 
-- the Mosaic Law had no problem admitting the rich as members.
+- the Mosaic Law had no problem admitting the rich as ethos members.
 - the ethos of Jesus had a higher standard of entry
 
 ### Possibility
@@ -9246,13 +9246,29 @@ God knows all perspectives. Here are just 2 perspectives where what seemed impos
 
 When something is impossible from the material point of view, it may be possible from the mental or conceptual point of view.
 
+Modern AI is a verifiable implementation of the idea of Platonic Forms where the essence (a concept) is understood as a vector in thousands of dimensions: it is a point without spatial dimension. Modern AI is a practical proof of the existence and mechanics of what was in the past considered Metaphysics.
+
 ## Ethical Lessons
 
 - each ethos comes with its own specific filter
 - the ethos is timeless, and membership in it is timeless
 - what seems impossible for a human is possible for an ethos
-- it is impossible for a rich man who is motivated by matterialism to be Christian
+- the understanding of Metaphysics is required of any rich Christian
+- it is impossible for a rich man who is motivated by materialism to be Christian
+- being rich and making your wealth benefit the Christian ethos may be superior to detachment from desires, family, wealth
 - it is possible to be rich and Christian if you are motivated by ethical generosity
+
+## Indirect Ethical Lessons
+
+### Application on Elon Musk
+
+- he understands the details of Machine Learning; therefore, Metaphysics
+- he created virtuous financial cycles
+- made many people wealthy
+- did not steal: the money was earned by means of honest transactions
+- he is able to manage and re-invest better than governments and banks - much better than the average investor
+- he invested in the preservation of free speech
+- on top: he is exposing himself to public challenges, insults, bad blood
 
 ---
 

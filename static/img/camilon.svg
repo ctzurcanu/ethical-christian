@@ -9,6 +9,9 @@
    id="svg210"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="camilon.svg"
+   inkscape:export-filename="camilon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.78027344"
-     inkscape:cx="499.82478"
+     inkscape:cx="512"
      inkscape:cy="512"
      inkscape:document-units="px"
-     inkscape:current-layer="path2052-9"
+     inkscape:current-layer="layer1"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
@@ -50,56 +53,64 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:22.63px;text-anchor:middle;fill:#333333;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       id="text404-7"><textPath
-         xlink:href="#path2052-9"
-         startOffset="50%"
-         id="textPath2155"><tspan
-           id="tspan402-3"
-           style="font-size:64px;fill:#333333;fill-opacity:1"
-           dx="0 0 0 0 14.93">    κάμη</tspan></textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:30.63px;text-anchor:middle;fill:#333333;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       id="text404-5-1"
-       transform="translate(0,16)"><textPath
-         xlink:href="#path2052-1-4"
-         startOffset="50%"
-         id="textPath2210"><tspan
-           id="tspan402-5-8"
-           style="font-size:64px;fill:#333333;fill-opacity:1"> λον   </tspan></textPath></text>
-    <path
-       id="path1897"
-       style="stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;fill:#808080"
-       d="M 561.34168,157.01061 C 561.34168,266.01324 512,805.50123 512,925.97182 512,806.78283 462.65832,266.01324 462.65832,157.01061 c 0,-56.45694 25.37002,-58.697288 49.34168,-58.953698 23.97166,-0.25641 49.34168,-0.0665 49.34168,58.953698 z"
-       sodipodi:nodetypes="scszs" />
-    <ellipse
-       style="fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       id="path1996"
-       cx="512"
-       cy="180.97121"
-       rx="33.321651"
-       ry="66.643303" />
-    <g
-       id="path2052-9"
-       style="opacity:0.16;fill:#ffffff;stroke:#000000">
-      <path
-         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 504.63086,123.13477 c -89.394,0 -121.50632,41.85246 -166.38477,71.86132 -44.87845,30.00887 -81.38586,53.47071 -170.67578,53.47071 v 109 c 111.92139,0 182.42507,-39.20443 231.26367,-71.86133 48.83861,-32.65691 47.16601,-53.4707 105.79688,-53.4707 z"
-         id="path2223"
-         sodipodi:nodetypes="csccscc" />
-    </g>
     <g
        id="path2052-1-4"
-       style="opacity:0.69;fill:none;stroke:#808080;stroke-width:0.8;stroke-dasharray:none"
-       transform="translate(-42.292866)">
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none"
+       transform="translate(-40.69079,1.2816)">
       <path
-         style="color:#000000;fill:none;stroke:#808080;stroke-width:0.8;stroke-linejoin:round;stroke-dasharray:none"
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none"
          d="m 545.32165,121.85317 v 109 c 58.63088,0 41.25771,22.09539 90.09632,54.7523 48.8386,32.6569 119.34424,71.86133 231.26562,71.86133 v -109 c -89.28991,0 -125.79928,-23.46184 -170.67773,-53.47071 -44.87845,-30.00886 -61.29021,-73.14292 -150.68421,-73.14292 z"
          id="path2217"
          sodipodi:nodetypes="ccsccsc" />
     </g>
+    <path
+       id="path1897"
+       style="stroke:#666666;stroke-width:5.50000029;stroke-linecap:round;stroke-linejoin:round;fill:#666666;stroke-dasharray:none"
+       d="M 516.50391 98.027344 C 515.00129 98.025629 513.49823 98.040615 512 98.056641 C 488.02836 98.31305 462.6582 100.55288 462.6582 157.00977 C 462.6582 266.01229 512 806.78379 512 925.97266 C 512 805.50219 561.3418 266.01229 561.3418 157.00977 C 561.3418 101.67839 539.04316 98.053071 516.50391 98.027344 z M 512 114.32812 A 33.321651 66.643303 0 0 1 545.32227 180.9707 A 33.321651 66.643303 0 0 1 512 247.61523 A 33.321651 66.643303 0 0 1 478.67773 180.9707 A 33.321651 66.643303 0 0 1 512 114.32812 z " />
+    <g
+       id="path2052-9"
+       style="opacity:0.93;fill:#ffffff;stroke:#000000;stroke-width:3;stroke-dasharray:none">
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-linejoin:round;stroke-width:3;stroke-dasharray:none"
+         d="m 504.63086,123.13477 c -89.394,0 -121.50632,41.85246 -166.38477,71.86132 -44.87845,30.00887 -81.38586,53.47071 -170.67578,53.47071 v 109 c 111.92139,0 182.42507,-39.20443 231.26367,-71.86133 48.83861,-32.65691 47.16601,-53.4707 105.79688,-53.4707 z"
+         id="path2223"
+         sodipodi:nodetypes="csccscc" />
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1217"
+       width="10.436999"
+       height="107"
+       x="500.41257"
+       y="124.09668" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 112.78098,358.9668 C 345.07179,360.2484 384.54204,128.59886 713.3427,193.30319"
+       id="path1404"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:12px;text-anchor:middle;fill:#ffffff;stroke:#808080;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="text1102"
+       transform="matrix(1.1848824,0.05811136,-0.06499403,1.2440994,-80.49744,-73.483324)"><textPath
+         xlink:href="#path1404"
+         startOffset="50%"
+         id="textPath1210"><tspan
+           id="tspan1100"
+           style="fill:#1a1a1a">    κάμη</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:center;letter-spacing:12px;text-anchor:middle;fill:#1a1a1a;stroke:#808080;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="text1208"
+       transform="matrix(1.1911716,0.07796296,-0.07848518,1.1991505,-234.65884,-41.416289)"><textPath
+         xlink:href="#path1363"
+         startOffset="50%"
+         id="textPath1368"><tspan
+           id="tspan1206"> λον   </tspan></textPath></text>
+    <path
+       style="fill:none;stroke:#808080;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 545.32227,180.9707 c 307.35951,-56.87402 214.65005,172.89169 390.8883,152.24583"
+       id="path1363"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
