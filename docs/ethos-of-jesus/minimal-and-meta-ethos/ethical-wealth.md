@@ -1,13 +1,13 @@
 ---
-title: Ethical Filter
+title: Ethical Wealth
 sidebar_position: 3
 ---
 
-# Ethical Filter
+# Ethical Wealth
 
 ## Witness
 
-appears in:
+Appears in:
 
 - [Matthew 19:23-30](https://www.biblegateway.com/passage/?search=Matthew%2019%3A23-30&version=ISV) `Salvation and Reward`
 - [Mark 10:23-31](https://www.biblegateway.com/passage/?search=Mark%2010%3A23-31&version=ISV) `Salvation and Reward`
@@ -69,6 +69,11 @@ God knows all perspectives. Here are just 2 perspectives where what seemed impos
 When something is impossible from the material point of view, it may be possible from the mental or conceptual point of view.
 
 Modern AI is a verifiable implementation of the idea of Platonic Forms where the essence (a concept) is understood as a vector in thousands of dimensions: it is a point without spatial dimension. Modern AI is a practical proof of the existence and mechanics of what was in the past considered Metaphysics.
+
+### Additional Conditions
+
+Since Jesus mentioned: "25 It’s easier for a camel to squeeze through the eye of a needle than for a rich person to get into the kingdom of God.", it follows that this is not the only condition for the rich to attain ethical wealth.
+The other conditions are the ones that the particular ethos demands. For a good example: the wealth to be better administred in the name of the ethos by that particular person than by most or any other.
 
 ## Ethical Lessons
 
