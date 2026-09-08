@@ -9381,13 +9381,13 @@ In Yoga Sūtra 1.40, Patañjali writes:
 
 paramāṇuparamamahattvānto'sya vaśīkāraḥ
 
-Paramanu (परमाणु) – “The smallest particle, an atom”
+Paramāṇu (परमाणु) – “The smallest particle, an atom”
 Paramamahattva (परममहत्त्व) – “The greatest, the vast universe”
 Antah (अन्तः) – “Inside, within”
 Asya (अस्य) – “His, of the yogi”
 Vashikarah (वशीकरण) – “Control, mastery”
 
-This spiritual attainment describes the perception of a concept/essence in the mind space buddhi of the meditation practitioner: the object becomes dimensionless or takes the whole universe.
+This spiritual attainment describes the perception of a concept/essence in the mind space buddhi of the meditation practitioner: the object becomes dimensionless (extremely small, atomic) or takes the whole universe (extremely big).
 When a camel is seen in that mental space, it is the essence of all camels and it becomes the concept that is atomic and isolated from other concepts. It becomes a Metaphysical object.
 
 #### Modern AI
