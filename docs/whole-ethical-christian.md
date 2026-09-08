@@ -9371,12 +9371,33 @@ God knows all perspectives. Here are just 2 perspectives where what seemed impos
 
 When something is impossible from the material point of view, it may be possible from the mental or conceptual point of view.
 
-Modern AI is a verifiable implementation of the idea of Platonic Forms where the essence (a concept) is understood as a vector in thousands of dimensions: it is a point without spatial dimension. Modern AI is a practical proof of the existence and mechanics of what was in the past considered Metaphysics.
+### Other Descriptions
+
+#### Yoga Sūtras
+
+In Yoga Sūtra 1.40, Patañjali writes:
+
+परमाणुपरममहत्त्वान्तोऽस्य वशीकार
+
+paramāṇuparamamahattvānto'sya vaśīkāraḥ
+
+Paramanu (परमाणु) – “The smallest particle, an atom”
+Paramamahattva (परममहत्त्व) – “The greatest, the vast universe”
+Antah (अन्तः) – “Inside, within”
+Asya (अस्य) – “His, of the yogi”
+Vashikarah (वशीकरण) – “Control, mastery”
+
+This spiritual attainment describes the perception of a concept/essence in the mind space buddhi of the meditation practitioner: the object becomes dimensionless or takes the whole universe.
+When a camel is seen in that mental space, it is the essence of all camels and it becomes the concept that is atomic and isolated from other concepts. It becomes a Metaphysical object.
+
+#### Modern AI
+
+The latent space of any modern AI is a verifiable implementation of the idea of Platonic Forms where the essence (a concept) is understood as a vector with thousands of dimensions: it is a point without spatial dimension. Modern AI is a practical proof of the existence and mechanics of what was in the past considered Metaphysics.
 
 ### Additional Conditions
 
 Since Jesus mentioned: "25 It’s easier for a camel to squeeze through the eye of a needle than for a rich person to get into the kingdom of God.", it follows that this is not the only condition for the rich to attain ethical wealth.
-The other conditions are the ones that the particular ethos demands. For a good example: the wealth to be better administred in the name of the ethos by that particular person than by most or any other.
+The other conditions are the ones that the particular ethos demands. For a good example: the wealth to be better administered in the name of the ethos by that particular person than by most or any other.
 
 ## Ethical Lessons
 
