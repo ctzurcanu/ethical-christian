@@ -18,8 +18,7 @@ The writings in the New Testament that are **widely accepted by modern critical 
 5. **Philippians**
 6. **1 Thessalonians**
 7. **Philemon**
-
-These are usually called the **seven undisputed Pauline epistles**.
+8. **Hebrews** — the content itself seems Pauline, but Greek textual authorship is still disputed
 
 The remaining letters traditionally attributed to Paul are disputed or generally regarded as pseudonymous:
 
@@ -29,6 +28,6 @@ The remaining letters traditionally attributed to Paul are disputed or generally
 * **1 Timothy** — generally regarded as pseudonymous.
 * **2 Timothy** — generally regarded as pseudonymous, though sometimes treated separately from the other Pastorals.
 * **Titus** — generally regarded as pseudonymous.
-* **Hebrews** — **not regarded as Pauline by modern scholarship**; the text itself does not claim Paul as author, and Pauline authorship was already disputed in antiquity.
+
 
 We will mark this difference when we will comment the ethical ideas in detail.
