@@ -9268,6 +9268,107 @@ Then Jesus said, “I don’t condemn you, either. Go home, and from now on don�
 
 ---
 
+# Ethical Life
+
+## Witness
+
+Appears in:
+
+- [Luke 9:57-62](https://search.biblegateway.com/passage/?search=Luke%209%3A57-62&version=ISV)
+- [Matthew 8:21-22](https://search.biblegateway.com/passage/?search=Matthew%208%3A21-22&version=ISV)
+
+### Quotes
+
+[Luke 9:57-62](https://search.biblegateway.com/passage/?search=Luke%209%3A57-62&version=ISV) `The Would-be Followers of Jesus`
+
+57 While they were walking along the road, a man told him, “I will follow you wherever you go.”
+
+58 Jesus told him,
+
+“Foxes have holes and birds have nests,
+ but the Son of Man has no place to rest.”
+
+59 He told another man, “Follow me.”
+
+But he said, “Lord, first let me go and bury my father.”
+
+60 But he told him, “Let the dead bury their own dead. But you go and proclaim the kingdom of God.”
+
+61 Still another man said, “I will follow you, Lord, but first let me say goodbye to those at home.”
+
+62 Jesus told him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
+
+[Matthew 8:21-22](https://search.biblegateway.com/passage/?search=Matthew%208%3A21-22&version=ISV) 
+
+21 Then another of his disciples told him, “Lord, first let me go and bury my father.”
+
+22 But Jesus told him, “Follow me, and let the dead bury their own dead.”
+
+## Consequential Details
+
+- an invitation to volunteer for/join an ethos is preceded by a warning about the difficulty of the task
+- hesitation means not being able to represent the ethos because of lack of faith (linked to the myth of [Orpheus and Eurydice](https://en.wikipedia.org/wiki/Orpheus_and_Eurydice))
+- to "bury my father" meant to fulfill the duties about family (not just the real burial)
+- the lower/animalic ethos of family has less ethical life than Christianity
+- the invited man did become a disciple
+
+## Ethical Lessons
+
+- people should be invited to join an ethos
+- between 2 ethoses: the ethos with greater ethical life should always be preferred
+
+## Indirect Ethical Lessons
+
+- if an ethos with more life than Christianity exists: Christians have the greater duty to upgrade Christianity or follow the more ethical ethos
+
+---
+
+# Ethical Sovereignty
+
+## Witness
+
+Appears in:
+
+- [Luke 22:35-38](https://www.biblegateway.com/passage/?search=Luke%2022%3A35-38&version=ISV) `Be Prepared for Trouble`
+
+### Quotes
+
+[Luke 22:35-38](https://www.biblegateway.com/passage/?search=Luke%2022%3A35-38&version=ISV) `Be Prepared for Trouble`
+
+35 Then Jesus asked his disciples, “When I sent you out without a wallet, traveling bag, or sandals, you didn’t lack anything, did you?”
+
+They replied, “Nothing at all.”
+
+36 Then he told them, “But now whoever has a wallet must take it along, and his traveling bag, too. And the one who has no sword must sell his coat and buy one. 37 Because I tell you, what has been written about me must be fulfilled: ‘He was counted among the criminals.’ Indeed, what is written about me must be fulfilled.”
+
+38 So they said, “Lord, look! Here are two swords.”
+
+He answered them, “Enough of that!”
+
+## Consequential Details
+
+- Jesus escaped numerous efforts of capture in the past (at least 5 described in the New Testament)
+- Jesus establishes the absolute necessity for swords to be available
+- the existence of swords and the incident of cutting the ear was not used in Jesus' trials, so the swords served another purpose than to be "numbered with the transgressors" [Isaiah 53:12](https://www.biblegateway.com/passage/?search=Isaiah%2053%3A12&version=ISV)
+- a King is considered sovereign because of the existence of an army that defends the sovereignty
+- the act of Peter cutting the ear proves: the existence of weapons and the willingness to fight
+- before surrendering, Jesus has proven his kingly sovereignty: he had all the attributes of the Messiah
+
+## Ethical Lessons
+
+- an ethos is sovereign when its members have all the necessary resources to confer independence to their ethos
+- and they act to that end
+- when an ethos surrenders itself to another ethos: the act should be provable
+- an ethos has to be either sovereign or totally subservient to another ethos
+- its stated (in)/dependence has to be public as well as any status change
+
+## Indirect Ethical Lessons
+
+- sometimes obtaining a historical proof requires pain and/or a miracle
+- the ethos of Jesus differs from the ethos of Christ: the ethos of Christ requires at times violent confrontation: this is a symbolic acceptance for Christian war-making.
+
+---
+
 # Ethical Unity
 
 ## Witness
@@ -10835,6 +10936,28 @@ These witnesses can supply essential specifications to the ethos of Christ witho
 Paul's letters do more than repeat sayings of Jesus. They redescribe membership as being “in Christ,” make Jew–Gentile composition a constitutional question, model communities as one differentiated body, regulate gifts and offices, protect conscience amid disagreement, discipline members, and establish duties between distant assemblies. This project therefore treats the Pauline corpus as an upgrade to an already existing ethos of Christ.
 
 “Upgrade” is a technical, not automatically approving, term. A Pauline rule may clarify an inherited declaration, add machinery required by translocal communities, change its scope, or introduce a tension. Every page must identify the earlier baseline, Paul's proposed addition, its actors and consequences, and whether the result is compatible with Jesus' ethos and the pre-Pauline layer reconstructed here.
+
+The writings in the New Testament that are **widely accepted by modern critical scholarship as genuinely written by Paul himself** are these **seven letters**:
+
+1. **Romans**
+2. **1 Corinthians**
+3. **2 Corinthians**
+4. **Galatians**
+5. **Philippians**
+6. **1 Thessalonians**
+7. **Philemon**
+8. **Hebrews** — the content itself seems Pauline, but Greek textual authorship is still disputed
+
+The remaining letters traditionally attributed to Paul are disputed or generally regarded as pseudonymous:
+
+* **2 Thessalonians** — disputed; substantial scholarly division.
+* **Colossians** — disputed.
+* **Ephesians** — usually regarded as deutero-Pauline, i.e. written by a follower of Paul.
+* **1 Timothy** — generally regarded as pseudonymous.
+* **2 Timothy** — generally regarded as pseudonymous, though sometimes treated separately from the other Pastorals.
+* **Titus** — generally regarded as pseudonymous.
+
+We will mark this difference when we will comment the ethical ideas in detail.
 
 ---
 
