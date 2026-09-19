@@ -32,8 +32,9 @@ He answered them, “Enough of that!”
 - Jesus escaped numerous efforts of capture in the past (at least 5 described in the New Testament)
 - Jesus establishes the absolute necessity for swords to be available
 - the existence of swords and the incident of cutting the ear was not used in Jesus' trials, so the swords served another purpose than to be "numbered with the transgressors" [Isaiah 53:12](https://www.biblegateway.com/passage/?search=Isaiah%2053%3A12&version=ISV)
-- a King is considered sovereign because of the existence of an army that defends the sovereignty
 - the act of Peter cutting the ear proves: the existence of weapons and the willingness to fight
+- a King is considered sovereign because of the existence of an army that defends the sovereignty
+- "Once a King, always and everywhere a King."
 - before surrendering, Jesus has proven his kingly sovereignty: he had all the attributes of the Messiah
 
 
