@@ -32,7 +32,7 @@ appears in:
 But he replied, “Distribute it to the people so they can eat, because this is what the Lord says: ‘They will eat and have a surplus!’” 44 So he served them, and they ate and had some left over, just as the Lord had indicated.
 
 
-[Matthew 14:13-21](https://www.biblegateway.com/passage/?search=2%20Kings%204%3A42-44&version=ISV) `Jesus Feeds More than Five Thousand People`
+[Matthew 14:13-21](https://www.biblegateway.com/passage/?search=Matthew%2014%3A13-21&version=ISV) `Jesus Feeds More than Five Thousand People`
 
 13 When Jesus heard this, he left that place and went by boat to a deserted place by himself. The crowds heard of it and followed him on foot from the neighboring towns. 14 When he got out of the boat, he saw a large crowd. He had compassion for them and healed their sick. 15 When evening had come, the disciples went to him and said, “This is a deserted place, and it’s already late. Send the crowds away so that they can go into the villages and buy food for themselves.”
 

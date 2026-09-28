@@ -41,7 +41,7 @@ Then Jesus said, “I don’t condemn you, either. Go home, and from now on don�
  written in the dust,
  because they have forsaken the Lord,
  the spring of living water.
-- the accusers renounced the judgement one by one - beginning with the most learned
+- the accusers renounced the judgement one by one - beginning with the oldest (maybe the most learned)
 
 
 ## Ethical Lessons
