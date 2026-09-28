@@ -25,6 +25,8 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: ['./plugins/recent-docs'],
+
   presets: [
     [
       'classic',
@@ -58,6 +60,11 @@ const config = {
           sidebarId: 'docsSidebar',
           position: 'left',
           label: 'Read',
+        },
+        {
+          to: '/recent',
+          label: 'Recent',
+          position: 'left',
         },
         {
           href: 'https://github.com/ctzurcanu/ethical-christian',
